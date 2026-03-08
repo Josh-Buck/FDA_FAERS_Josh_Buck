@@ -1,0 +1,7340 @@
+{
+  "(-)-ARTERENOL": [],
+  "ABATACEPT": [
+    {
+      "atc_code": "L04AA",
+      "class_name": "Selective immunosuppressants",
+      "atc_level": 5
+    }
+  ],
+  "ABILIFY MAINTENA": [],
+  "ACECLOFENAC": [
+    {
+      "atc_code": "M01AB",
+      "class_name": "Acetic acid derivatives and related substances",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M02AA",
+      "class_name": "Antiinflammatory preparations, non-steroids for topical use",
+      "atc_level": 5
+    }
+  ],
+  "ACETAMINOPHEN": [
+    {
+      "atc_code": "N02BE",
+      "class_name": "Anilides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    }
+  ],
+  "ACETAMINOPHEN / BUTALBITAL": [
+    {
+      "atc_code": "N02BE",
+      "class_name": "Anilides",
+      "atc_level": 5
+    }
+  ],
+  "ACETAMINOPHEN / BUTALBITAL / CAFFEINE / CODEINE PHOSPHATE PILL": [
+    {
+      "atc_code": "N02BE",
+      "class_name": "Anilides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D11AX",
+      "class_name": "Other dermatologicals",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N06BC",
+      "class_name": "Xanthine derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R05DA",
+      "class_name": "Opium alkaloids and derivatives",
+      "atc_level": 5
+    }
+  ],
+  "ACETAMINOPHEN / CAFFEINE": [
+    {
+      "atc_code": "N02BE",
+      "class_name": "Anilides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D11AX",
+      "class_name": "Other dermatologicals",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N06BC",
+      "class_name": "Xanthine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "ACETAMINOPHEN / CAFFEINE / CHLORPHENIRAMINE / PHENYLPROPANOLAMINE": [
+    {
+      "atc_code": "N02BE",
+      "class_name": "Anilides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D11AX",
+      "class_name": "Other dermatologicals",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N06BC",
+      "class_name": "Xanthine derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R06AB",
+      "class_name": "Substituted alkylamines",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01BA",
+      "class_name": "Sympathomimetics",
+      "atc_level": 5
+    }
+  ],
+  "ACETAMINOPHEN / CODEINE": [
+    {
+      "atc_code": "N02BE",
+      "class_name": "Anilides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R05DA",
+      "class_name": "Opium alkaloids and derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    }
+  ],
+  "ACETAMINOPHEN / OXYCODONE": [
+    {
+      "atc_code": "N02BE",
+      "class_name": "Anilides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AA",
+      "class_name": "Natural opium alkaloids",
+      "atc_level": 5
+    }
+  ],
+  "ACETAMINOPHEN 160 MG IN 5 ML ORAL SUSPENSION [NOVALGINA ACETAMINOPHEN PAIN AND FEVER FOR CHILDRENS]": [],
+  "ACETAMINOPHEN\\CODEINE PHOSPHATE": [],
+  "ACETAMINOPHEN\\OXYCODONE HYDROCHLORIDE": [],
+  "ACETYLCYSTEINE": [
+    {
+      "atc_code": "R05CB",
+      "class_name": "Mucolytics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01XA",
+      "class_name": "Other ophthalmologicals",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "V03AB",
+      "class_name": "Antidotes",
+      "atc_level": 5
+    }
+  ],
+  "ACIDO ALENDRONICO": [],
+  "ACIDO FOLINICO": [],
+  "ACITRETIN": [
+    {
+      "atc_code": "D05BB",
+      "class_name": "Retinoids for treatment of psoriasis",
+      "atc_level": 5
+    }
+  ],
+  "ACLIDINIUM BROMIDE": [
+    {
+      "atc_code": "R03BB",
+      "class_name": "Anticholinergics",
+      "atc_level": 5
+    }
+  ],
+  "ACLIDINIUM BROMIDE / FORMOTEROL FUMARATE INHALANT PRODUCT": [
+    {
+      "atc_code": "R03BB",
+      "class_name": "Anticholinergics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03AC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03CC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    }
+  ],
+  "ACTEMRA": [
+    {
+      "atc_code": "L04AC",
+      "class_name": "Interleukin inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ACUPAN": [],
+  "ACYCLOVIR": [
+    {
+      "atc_code": "D06BB",
+      "class_name": "Antivirals",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J05AB",
+      "class_name": "Nucleosides and nucleotides excl. reverse transcriptase inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01AD",
+      "class_name": "Antivirals",
+      "atc_level": 5
+    }
+  ],
+  "ADALIMUMAB": [
+    {
+      "atc_code": "L04AB",
+      "class_name": "Tumor necrosis factor alpha (TNF-alpha) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ADVAIR HFA": [],
+  "ADVIL": [
+    {
+      "atc_code": "C01EB",
+      "class_name": "Other cardiac preparations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G02CC",
+      "class_name": "Antiinflammatory products for vaginal administration",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M01AE",
+      "class_name": "Propionic acid derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M02AA",
+      "class_name": "Antiinflammatory preparations, non-steroids for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R02AX",
+      "class_name": "Other throat preparations",
+      "atc_level": 5
+    }
+  ],
+  "AGOMELATINE": [],
+  "AIMOVIG": [
+    {
+      "atc_code": "N02CD",
+      "class_name": "Calcitonin gene-related peptide (CGRP) antagonists",
+      "atc_level": 5
+    }
+  ],
+  "AKYNZEO": [
+    {
+      "atc_code": "A04AA",
+      "class_name": "Serotonin (5HT3) antagonists",
+      "atc_level": 5
+    }
+  ],
+  "ALBUMIN HUMAN": [],
+  "ALBUTEROL": [
+    {
+      "atc_code": "R03AC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03CC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    }
+  ],
+  "ALBUTEROL SULFATE": [
+    {
+      "atc_code": "R03AC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03CC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    }
+  ],
+  "ALCOHOL": [],
+  "ALDACTONE": [
+    {
+      "atc_code": "C03DA",
+      "class_name": "Aldosterone antagonists",
+      "atc_level": 5
+    }
+  ],
+  "ALENDRONATE": [
+    {
+      "atc_code": "M05BA",
+      "class_name": "Bisphosphonates",
+      "atc_level": 5
+    }
+  ],
+  "ALENDRONATE / CHOLECALCIFEROL": [
+    {
+      "atc_code": "M05BA",
+      "class_name": "Bisphosphonates",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A11CC",
+      "class_name": "Vitamin D and analogues",
+      "atc_level": 5
+    }
+  ],
+  "ALENDRONATE SODIUM": [],
+  "ALFACALCIDOL": [
+    {
+      "atc_code": "A11CC",
+      "class_name": "Vitamin D and analogues",
+      "atc_level": 5
+    }
+  ],
+  "ALIGN": [],
+  "ALIMTA": [
+    {
+      "atc_code": "L01BA",
+      "class_name": "Folic acid analogues",
+      "atc_level": 5
+    }
+  ],
+  "ALISKIREN HEMIFUMARATE": [
+    {
+      "atc_code": "C09XA",
+      "class_name": "Renin-inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ALLOPURINOL": [
+    {
+      "atc_code": "M04AA",
+      "class_name": "Preparations inhibiting uric acid production",
+      "atc_level": 5
+    }
+  ],
+  "ALPHA TOCOPHEROL": [],
+  "ALPHA1-PROTEINASE INHIBITOR HUMAN": [],
+  "ALPRAZOLAM": [
+    {
+      "atc_code": "N05BA",
+      "class_name": "Benzodiazepine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "ALTACE": [
+    {
+      "atc_code": "C09AA",
+      "class_name": "ACE inhibitors, plain",
+      "atc_level": 5
+    }
+  ],
+  "ALVESCO": [
+    {
+      "atc_code": "R01AD",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03BA",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    }
+  ],
+  "AMBROXOL HYDROCHLORIDE": [
+    {
+      "atc_code": "R02AD",
+      "class_name": "Anesthetics, local",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R05CB",
+      "class_name": "Mucolytics",
+      "atc_level": 5
+    }
+  ],
+  "AMEVIVE": [],
+  "AMIKACIN": [
+    {
+      "atc_code": "D06AX",
+      "class_name": "Other antibiotics for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01GB",
+      "class_name": "Other aminoglycosides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    }
+  ],
+  "AMINOSALICYLIC ACID": [
+    {
+      "atc_code": "J04AA",
+      "class_name": "Aminosalicylic acid and derivatives",
+      "atc_level": 5
+    }
+  ],
+  "AMIODARONE": [
+    {
+      "atc_code": "C01BD",
+      "class_name": "Antiarrhythmics, class III",
+      "atc_level": 5
+    }
+  ],
+  "AMIODARONE HYDROCHLORIDE": [
+    {
+      "atc_code": "C01BD",
+      "class_name": "Antiarrhythmics, class III",
+      "atc_level": 5
+    }
+  ],
+  "AMITRIPTILINA": [],
+  "AMLODIPINE BESYLATE": [
+    {
+      "atc_code": "C08CA",
+      "class_name": "Dihydropyridine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "AMLODIPINO": [],
+  "AMOXICILLIN": [
+    {
+      "atc_code": "A02BD",
+      "class_name": "Combinations for eradication of Helicobacter pylori",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01CA",
+      "class_name": "Penicillins with extended spectrum",
+      "atc_level": 5
+    }
+  ],
+  "AMOXICILLIN / CLAVULANATE": [
+    {
+      "atc_code": "J01CA",
+      "class_name": "Penicillins with extended spectrum",
+      "atc_level": 5
+    }
+  ],
+  "AMPHETAMINE": [
+    {
+      "atc_code": "N06BA",
+      "class_name": "Centrally acting sympathomimetics",
+      "atc_level": 5
+    }
+  ],
+  "AMPHOTERICIN B": [
+    {
+      "atc_code": "A01AB",
+      "class_name": "Antiinfectives and antiseptics for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A07AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G01AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J02AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    }
+  ],
+  "AMPICILLIN": [
+    {
+      "atc_code": "J01CR",
+      "class_name": "Combinations of penicillins, incl. beta-lactamase inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01CA",
+      "class_name": "Penicillins with extended spectrum",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    }
+  ],
+  "ANAKINRA": [
+    {
+      "atc_code": "L04AC",
+      "class_name": "Interleukin inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ANASTROZOLE": [
+    {
+      "atc_code": "L02BG",
+      "class_name": "Aromatase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ANORO ELLIPTA": [],
+  "ANTI-THYMOCYTE GLOBULIN": [],
+  "APIXABAN": [
+    {
+      "atc_code": "B01AF",
+      "class_name": "Direct factor Xa inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "APREMILAST": [
+    {
+      "atc_code": "L04AA",
+      "class_name": "Selective immunosuppressants",
+      "atc_level": 5
+    }
+  ],
+  "APREPITANT": [
+    {
+      "atc_code": "A04AD",
+      "class_name": "Other antiemetics",
+      "atc_level": 5
+    }
+  ],
+  "ARANESP": [
+    {
+      "atc_code": "B03XA",
+      "class_name": "Other antianemic preparations",
+      "atc_level": 5
+    }
+  ],
+  "ARAVA": [
+    {
+      "atc_code": "L04AK",
+      "class_name": "Dihydroorotate dehydrogenase (DHODH) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ARIPIPRAZOLE": [
+    {
+      "atc_code": "N05AX",
+      "class_name": "Other antipsychotics",
+      "atc_level": 5
+    }
+  ],
+  "ASACOL": [
+    {
+      "atc_code": "A07EC",
+      "class_name": "Aminosalicylic acid and similar agents",
+      "atc_level": 5
+    }
+  ],
+  "ASCORBIC ACID": [
+    {
+      "atc_code": "A11GA",
+      "class_name": "Ascorbic acid (vitamin C), plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G01AD",
+      "class_name": "Organic acids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01XA",
+      "class_name": "Other ophthalmologicals",
+      "atc_level": 5
+    }
+  ],
+  "ASPARAGINASE": [
+    {
+      "atc_code": "L01XX",
+      "class_name": "Other antineoplastic agents",
+      "atc_level": 5
+    }
+  ],
+  "ASPIRIN": [
+    {
+      "atc_code": "A01AD",
+      "class_name": "Other agents for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B01AC",
+      "class_name": "Platelet aggregation inhibitors excl. heparin",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02BA",
+      "class_name": "Salicylic acid and derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    }
+  ],
+  "ATACAND": [
+    {
+      "atc_code": "C09CA",
+      "class_name": "Angiotensin II receptor blockers (ARBs), plain",
+      "atc_level": 5
+    }
+  ],
+  "ATENOLOL": [
+    {
+      "atc_code": "C07AB",
+      "class_name": "Beta blocking agents, selective",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C07FB",
+      "class_name": "Beta blocking agents and calcium channel blockers",
+      "atc_level": 5
+    }
+  ],
+  "ATEZOLIZUMAB": [
+    {
+      "atc_code": "L01FF",
+      "class_name": "PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ATIVAN": [
+    {
+      "atc_code": "N05BA",
+      "class_name": "Benzodiazepine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "ATORVASTATIN CALCIUM": [
+    {
+      "atc_code": "C10AA",
+      "class_name": "HMG CoA reductase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ATORVASTATINA": [],
+  "ATOVAQUONE": [
+    {
+      "atc_code": "P01BB",
+      "class_name": "Biguanides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "P01AX",
+      "class_name": "Other agents against amoebiasis and other protozoal diseases",
+      "atc_level": 5
+    }
+  ],
+  "ATROPINE": [
+    {
+      "atc_code": "A03BA",
+      "class_name": "Belladonna alkaloids, tertiary amines",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01FA",
+      "class_name": "Anticholinergics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "V03AB",
+      "class_name": "Antidotes",
+      "atc_level": 5
+    }
+  ],
+  "ATROVENT": [
+    {
+      "atc_code": "R01AX",
+      "class_name": "Other nasal preparations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03BB",
+      "class_name": "Anticholinergics",
+      "atc_level": 5
+    }
+  ],
+  "AUGMENTIN": [
+    {
+      "atc_code": "J01CA",
+      "class_name": "Penicillins with extended spectrum",
+      "atc_level": 5
+    }
+  ],
+  "AVAPRO": [
+    {
+      "atc_code": "C09CA",
+      "class_name": "Angiotensin II receptor blockers (ARBs), plain",
+      "atc_level": 5
+    }
+  ],
+  "AVASTIN": [
+    {
+      "atc_code": "L01FG",
+      "class_name": "VEGF/VEGFR (Vascular Endothelial Growth Factor / -Receptor) inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01LA",
+      "class_name": "Antineovascularisation agents",
+      "atc_level": 5
+    }
+  ],
+  "AZACITIDINE": [
+    {
+      "atc_code": "L01BC",
+      "class_name": "Pyrimidine analogues",
+      "atc_level": 5
+    }
+  ],
+  "AZATHIOPRINE": [
+    {
+      "atc_code": "L04AX",
+      "class_name": "Other immunosuppressants",
+      "atc_level": 5
+    }
+  ],
+  "AZATHIOPRINE SODIUM": [
+    {
+      "atc_code": "L04AX",
+      "class_name": "Other immunosuppressants",
+      "atc_level": 5
+    }
+  ],
+  "AZILSARTAN KAMEDOXOMIL": [],
+  "AZITHROMYCIN": [
+    {
+      "atc_code": "J01FA",
+      "class_name": "Macrolides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    }
+  ],
+  "AZOSEMIDE": [],
+  "AZTREONAM LYSINE": [],
+  "BACTRIM": [
+    {
+      "atc_code": "J01EC",
+      "class_name": "Intermediate-acting sulfonamides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01EA",
+      "class_name": "Trimethoprim and derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01EE",
+      "class_name": "Combinations of sulfonamides and trimethoprim, incl. derivatives",
+      "atc_level": 5
+    }
+  ],
+  "BECLOMETHASONE": [
+    {
+      "atc_code": "A07EA",
+      "class_name": "Corticosteroids acting locally",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AC",
+      "class_name": "Corticosteroids, potent (group III)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AD",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03BA",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    }
+  ],
+  "BEDAQUILINA": [],
+  "BENDAMUSTINE": [
+    {
+      "atc_code": "L01AA",
+      "class_name": "Nitrogen mustard analogues",
+      "atc_level": 5
+    }
+  ],
+  "BENSERAZIDE / LEVODOPA": [
+    {
+      "atc_code": "N04BA",
+      "class_name": "Dopa and dopa derivatives",
+      "atc_level": 5
+    }
+  ],
+  "BENZOYLECGONINE": [],
+  "BERINERT": [
+    {
+      "atc_code": "B06AC",
+      "class_name": "Drugs used in hereditary angioedema",
+      "atc_level": 5
+    }
+  ],
+  "BETAHISTINE": [
+    {
+      "atc_code": "N07CA",
+      "class_name": "Antivertigo preparations",
+      "atc_level": 5
+    }
+  ],
+  "BETAMETHASONE": [
+    {
+      "atc_code": "A07EA",
+      "class_name": "Corticosteroids acting locally",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05AA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AC",
+      "class_name": "Corticosteroids, potent (group III)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07XC",
+      "class_name": "Corticosteroids, potent, other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "H02AB",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AD",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03BA",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01BA",
+      "class_name": "Corticosteroids, plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01CB",
+      "class_name": "Corticosteroids/antiinfectives/mydriatics in combination",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S02BA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S03BA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    }
+  ],
+  "BEVACIZUMAB": [
+    {
+      "atc_code": "L01FG",
+      "class_name": "VEGF/VEGFR (Vascular Endothelial Growth Factor / -Receptor) inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01LA",
+      "class_name": "Antineovascularisation agents",
+      "atc_level": 5
+    }
+  ],
+  "BISACODYL": [
+    {
+      "atc_code": "A06AB",
+      "class_name": "Contact laxatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A06AG",
+      "class_name": "Enemas",
+      "atc_level": 5
+    }
+  ],
+  "BISOPROLOL": [
+    {
+      "atc_code": "C07AB",
+      "class_name": "Beta blocking agents, selective",
+      "atc_level": 5
+    }
+  ],
+  "BISOPROLOL FUMARATE": [
+    {
+      "atc_code": "C07AB",
+      "class_name": "Beta blocking agents, selective",
+      "atc_level": 5
+    }
+  ],
+  "BMS-830216": [],
+  "BOTULINUM TOXIN TYPE A": [],
+  "BREXPIPRAZOLE": [
+    {
+      "atc_code": "N05AX",
+      "class_name": "Other antipsychotics",
+      "atc_level": 5
+    }
+  ],
+  "BROMAZEPAMUM": [],
+  "BUDESONIDE": [
+    {
+      "atc_code": "A07EA",
+      "class_name": "Corticosteroids acting locally",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AC",
+      "class_name": "Corticosteroids, potent (group III)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AD",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03BA",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03AK",
+      "class_name": "Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics",
+      "atc_level": 5
+    }
+  ],
+  "BUDESONIDE / FORMOTEROL": [
+    {
+      "atc_code": "A07EA",
+      "class_name": "Corticosteroids acting locally",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AC",
+      "class_name": "Corticosteroids, potent (group III)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AD",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03BA",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03AC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03CC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03AK",
+      "class_name": "Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics",
+      "atc_level": 5
+    }
+  ],
+  "BUDESONIDE / FORMOTEROL / GLYCOPYRRONIUM": [
+    {
+      "atc_code": "D11AA",
+      "class_name": "Antihidrotics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A07EA",
+      "class_name": "Corticosteroids acting locally",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AC",
+      "class_name": "Corticosteroids, potent (group III)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AD",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03BA",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03AC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03CC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    }
+  ],
+  "BUDESONIDE\\FORMOTEROL FUMARATE": [],
+  "BUMETANIDE": [
+    {
+      "atc_code": "C03CA",
+      "class_name": "Sulfonamides, plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C03CB",
+      "class_name": "Sulfonamides and potassium in combination",
+      "atc_level": 5
+    }
+  ],
+  "BUPRENORPHINE": [
+    {
+      "atc_code": "N02AE",
+      "class_name": "Oripavine derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N07BC",
+      "class_name": "Drugs used in opioid dependence",
+      "atc_level": 5
+    }
+  ],
+  "BUPROPION": [
+    {
+      "atc_code": "A08AA",
+      "class_name": "Centrally acting antiobesity products",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N06AX",
+      "class_name": "Other antidepressants",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N06AX",
+      "class_name": "Other antidepressants",
+      "atc_level": 5
+    }
+  ],
+  "BUSULFAN": [
+    {
+      "atc_code": "L01AB",
+      "class_name": "Alkyl sulfonates",
+      "atc_level": 5
+    }
+  ],
+  "BUTRANS": [
+    {
+      "atc_code": "N02AE",
+      "class_name": "Oripavine derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N07BC",
+      "class_name": "Drugs used in opioid dependence",
+      "atc_level": 5
+    }
+  ],
+  "CAFFEINE": [
+    {
+      "atc_code": "V04CG",
+      "class_name": "Tests for gastric secretion",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D11AX",
+      "class_name": "Other dermatologicals",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N06BC",
+      "class_name": "Xanthine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "CAFFEINE CITRATE": [
+    {
+      "atc_code": "D11AX",
+      "class_name": "Other dermatologicals",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N06BC",
+      "class_name": "Xanthine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "CALCIO": [],
+  "CALCIUM CARBONATE": [
+    {
+      "atc_code": "A02AC",
+      "class_name": "Calcium compounds",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A12AA",
+      "class_name": "Calcium",
+      "atc_level": 5
+    }
+  ],
+  "CALCIUM CARBONATE / CHOLECALCIFEROL": [
+    {
+      "atc_code": "A02AC",
+      "class_name": "Calcium compounds",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A12AA",
+      "class_name": "Calcium",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A11CC",
+      "class_name": "Vitamin D and analogues",
+      "atc_level": 5
+    }
+  ],
+  "CALCIUM CARBONATE / CHOLECALCIFEROL / MAGNESIUM OXIDE": [
+    {
+      "atc_code": "A02AC",
+      "class_name": "Calcium compounds",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A12AA",
+      "class_name": "Calcium",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A11CC",
+      "class_name": "Vitamin D and analogues",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A02AA",
+      "class_name": "Magnesium compounds",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A06AD",
+      "class_name": "Osmotically acting laxatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A12CC",
+      "class_name": "Magnesium",
+      "atc_level": 5
+    }
+  ],
+  "CALCIUM CHLORIDE": [
+    {
+      "atc_code": "A12AA",
+      "class_name": "Calcium",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B05XA",
+      "class_name": "Electrolyte solutions",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G04BA",
+      "class_name": "Acidifiers",
+      "atc_level": 5
+    }
+  ],
+  "CALCIUM CITRATE": [
+    {
+      "atc_code": "A12AA",
+      "class_name": "Calcium",
+      "atc_level": 5
+    }
+  ],
+  "CALCIUM GLUCONATE": [
+    {
+      "atc_code": "A12AA",
+      "class_name": "Calcium",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B05XA",
+      "class_name": "Electrolyte solutions",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D11AX",
+      "class_name": "Other dermatologicals",
+      "atc_level": 5
+    }
+  ],
+  "CAMPTOSAR": [
+    {
+      "atc_code": "L01CE",
+      "class_name": "Topoisomerase 1 (TOP1) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "CANDESARTAN": [
+    {
+      "atc_code": "C09CA",
+      "class_name": "Angiotensin II receptor blockers (ARBs), plain",
+      "atc_level": 5
+    }
+  ],
+  "CANDESARTAN CILEXETIL": [
+    {
+      "atc_code": "C09CA",
+      "class_name": "Angiotensin II receptor blockers (ARBs), plain",
+      "atc_level": 5
+    }
+  ],
+  "CANNABIS SATIVA FLOWERING TOP": [],
+  "CANNABIS SATIVA SUBSP. INDICA TOP": [],
+  "CAPECITABINE": [
+    {
+      "atc_code": "L01BC",
+      "class_name": "Pyrimidine analogues",
+      "atc_level": 5
+    }
+  ],
+  "CARBAMAZEPINE": [
+    {
+      "atc_code": "N03AF",
+      "class_name": "Carboxamide derivatives",
+      "atc_level": 5
+    }
+  ],
+  "CARBIDOPA / LEVODOPA": [
+    {
+      "atc_code": "N04BA",
+      "class_name": "Dopa and dopa derivatives",
+      "atc_level": 5
+    }
+  ],
+  "CARBOCISTEINE": [
+    {
+      "atc_code": "R05CB",
+      "class_name": "Mucolytics",
+      "atc_level": 5
+    }
+  ],
+  "CARBOPLATIN": [
+    {
+      "atc_code": "L01XA",
+      "class_name": "Platinum compounds",
+      "atc_level": 5
+    }
+  ],
+  "CARVEDILOL": [
+    {
+      "atc_code": "C07AG",
+      "class_name": "Alpha and beta blocking agents",
+      "atc_level": 5
+    }
+  ],
+  "CASPOFUNGINA": [],
+  "CAVIAR, UNSPECIFIED": [],
+  "CEFAZOLIN": [
+    {
+      "atc_code": "J01DB",
+      "class_name": "First-generation cephalosporins",
+      "atc_level": 5
+    }
+  ],
+  "CEFEPIMA": [],
+  "CEFTAZIDIME": [
+    {
+      "atc_code": "J01DD",
+      "class_name": "Third-generation cephalosporins",
+      "atc_level": 5
+    }
+  ],
+  "CEFTRIAXONE": [
+    {
+      "atc_code": "J01DD",
+      "class_name": "Third-generation cephalosporins",
+      "atc_level": 5
+    }
+  ],
+  "CEFTRIAXONE SODIUM": [
+    {
+      "atc_code": "J01DD",
+      "class_name": "Third-generation cephalosporins",
+      "atc_level": 5
+    }
+  ],
+  "CELEBREX": [
+    {
+      "atc_code": "L01XX",
+      "class_name": "Other antineoplastic agents",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M01AH",
+      "class_name": "Coxibs",
+      "atc_level": 5
+    }
+  ],
+  "CELECOXIB": [
+    {
+      "atc_code": "L01XX",
+      "class_name": "Other antineoplastic agents",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M01AH",
+      "class_name": "Coxibs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C08CA",
+      "class_name": "Dihydropyridine derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    }
+  ],
+  "CELLCEPT": [],
+  "CERTOLIZUMAB PEGOL": [
+    {
+      "atc_code": "L04AB",
+      "class_name": "Tumor necrosis factor alpha (TNF-alpha) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "CETIRIZINA": [],
+  "CETIRIZINE HYDROCHLORIDE": [
+    {
+      "atc_code": "R06AE",
+      "class_name": "Piperazine derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01GX",
+      "class_name": "Other antiallergics",
+      "atc_level": 5
+    }
+  ],
+  "CETIRIZINE HYDROCHLORIDE\\PSEUDOEPHEDRINE HYDROCHLORIDE": [],
+  "CHLORHEXIDINE GLUCONATE": [
+    {
+      "atc_code": "A01AB",
+      "class_name": "Antiinfectives and antiseptics for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B05CA",
+      "class_name": "Antiinfectives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D08AC",
+      "class_name": "Biguanides and amidines",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D09AA",
+      "class_name": "Medicated dressings with antiinfectives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R02AA",
+      "class_name": "Antiseptics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01AX",
+      "class_name": "Other antiinfectives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S02AA",
+      "class_name": "Antiinfectives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S03AA",
+      "class_name": "Antiinfectives",
+      "atc_level": 5
+    }
+  ],
+  "CHLORPHENIRAMINE MALEATE": [
+    {
+      "atc_code": "R06AB",
+      "class_name": "Substituted alkylamines",
+      "atc_level": 5
+    }
+  ],
+  "CHLORPROMAZINE": [
+    {
+      "atc_code": "N05AA",
+      "class_name": "Phenothiazines with aliphatic side-chain",
+      "atc_level": 5
+    }
+  ],
+  "CHOLECALCIFEROL": [
+    {
+      "atc_code": "A11CC",
+      "class_name": "Vitamin D and analogues",
+      "atc_level": 5
+    }
+  ],
+  "CIMZIA": [
+    {
+      "atc_code": "L04AB",
+      "class_name": "Tumor necrosis factor alpha (TNF-alpha) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "CIPROFLOXACIN": [
+    {
+      "atc_code": "J01MA",
+      "class_name": "Fluoroquinolones",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01AE",
+      "class_name": "Fluoroquinolones",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S02AA",
+      "class_name": "Antiinfectives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S03AA",
+      "class_name": "Antiinfectives",
+      "atc_level": 5
+    }
+  ],
+  "CISPLATIN": [
+    {
+      "atc_code": "L01XA",
+      "class_name": "Platinum compounds",
+      "atc_level": 5
+    }
+  ],
+  "CITALOPRAM": [
+    {
+      "atc_code": "N06AB",
+      "class_name": "Selective serotonin reuptake inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "CLAVULANIC ACID": [],
+  "CLEMASTINA": [],
+  "CLINDAMYCIN": [
+    {
+      "atc_code": "D10AF",
+      "class_name": "Antiinfectives for treatment of acne",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G01AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01FF",
+      "class_name": "Lincosamides",
+      "atc_level": 5
+    }
+  ],
+  "CLOBAZAM": [
+    {
+      "atc_code": "N05BA",
+      "class_name": "Benzodiazepine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "CLOMIPRAMINE": [
+    {
+      "atc_code": "N06AA",
+      "class_name": "Non-selective monoamine reuptake inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "CLONAZEPAM": [
+    {
+      "atc_code": "N03AE",
+      "class_name": "Benzodiazepine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "CLOPIDOGREL BISULFATE": [
+    {
+      "atc_code": "B01AC",
+      "class_name": "Platelet aggregation inhibitors excl. heparin",
+      "atc_level": 5
+    }
+  ],
+  "CLOPIDOGRELUM": [],
+  "CLORHEXIDINA": [],
+  "CLOTRIMAZOLE": [
+    {
+      "atc_code": "A01AB",
+      "class_name": "Antiinfectives and antiseptics for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D01AC",
+      "class_name": "Imidazole and triazole derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G01AF",
+      "class_name": "Imidazole derivatives",
+      "atc_level": 5
+    }
+  ],
+  "CLOZAPINE": [
+    {
+      "atc_code": "N05AH",
+      "class_name": "Diazepines, oxazepines, thiazepines and oxepines",
+      "atc_level": 5
+    }
+  ],
+  "CLOZARIL": [
+    {
+      "atc_code": "N05AH",
+      "class_name": "Diazepines, oxazepines, thiazepines and oxepines",
+      "atc_level": 5
+    }
+  ],
+  "COCAINE": [
+    {
+      "atc_code": "N01BC",
+      "class_name": "Esters of benzoic acid",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R02AD",
+      "class_name": "Anesthetics, local",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01HA",
+      "class_name": "Local anesthetics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S02DA",
+      "class_name": "Analgesics and anesthetics",
+      "atc_level": 5
+    }
+  ],
+  "COCODAMOL": [],
+  "CODEINE": [
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R05DA",
+      "class_name": "Opium alkaloids and derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    }
+  ],
+  "COLCHICINE": [
+    {
+      "atc_code": "M04AC",
+      "class_name": "Preparations with no effect on uric acid metabolism",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M04AC",
+      "class_name": "Preparations with no effect on uric acid metabolism",
+      "atc_level": 5
+    }
+  ],
+  "CORTISONE ACETATE": [
+    {
+      "atc_code": "H02AB",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01BA",
+      "class_name": "Corticosteroids, plain",
+      "atc_level": 5
+    }
+  ],
+  "COSENTYX": [
+    {
+      "atc_code": "L04AC",
+      "class_name": "Interleukin inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "COVID-19 VACCINE MRNA": [],
+  "CYAMEMAZINE": [
+    {
+      "atc_code": "N05AA",
+      "class_name": "Phenothiazines with aliphatic side-chain",
+      "atc_level": 5
+    }
+  ],
+  "CYANOCOBALAMIN": [],
+  "CYCLOPHOSPHAMIDE": [
+    {
+      "atc_code": "L01AA",
+      "class_name": "Nitrogen mustard analogues",
+      "atc_level": 5
+    }
+  ],
+  "CYCLOSPORINE": [
+    {
+      "atc_code": "L04AD",
+      "class_name": "Calcineurin inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01XA",
+      "class_name": "Other ophthalmologicals",
+      "atc_level": 5
+    }
+  ],
+  "CYTARABINE": [
+    {
+      "atc_code": "L01XY",
+      "class_name": "Combinations of antineoplastic agents",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "L01BC",
+      "class_name": "Pyrimidine analogues",
+      "atc_level": 5
+    }
+  ],
+  "DAPAGLIFLOZIN": [
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BK",
+      "class_name": "Sodium-glucose co-transporter 2 (SGLT2) inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    }
+  ],
+  "DAPTOMYCIN": [
+    {
+      "atc_code": "J01XX",
+      "class_name": "Other antibacterials",
+      "atc_level": 5
+    }
+  ],
+  "DARATUMUMAB/HYALURONIDASE-FIHJ": [],
+  "DARZALEX": [
+    {
+      "atc_code": "L01FC",
+      "class_name": "CD38 (Clusters of Differentiation 38) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "DAUNORUBICIN": [
+    {
+      "atc_code": "L01XY",
+      "class_name": "Combinations of antineoplastic agents",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "L01DB",
+      "class_name": "Anthracyclines and related substances",
+      "atc_level": 5
+    }
+  ],
+  "DECADRON": [
+    {
+      "atc_code": "A01AC",
+      "class_name": "Corticosteroids for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05AA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AB",
+      "class_name": "Corticosteroids, moderately potent (group II)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07XB",
+      "class_name": "Corticosteroids, moderately potent, other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D10AA",
+      "class_name": "Corticosteroids, combinations for treatment of acne",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "H02AB",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AD",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01BA",
+      "class_name": "Corticosteroids, plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01CB",
+      "class_name": "Corticosteroids/antiinfectives/mydriatics in combination",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S02BA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S03BA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    }
+  ],
+  "DELFLEX WITH DEXTROSE 15% LOW MAGNESIUM LOW CALCIUM": [],
+  "DELFLEX WITH DEXTROSE 25% LOW MAGNESIUM LOW CALCIUM": [],
+  "DELFLEX WITH DEXTROSE 425% LOW MAGNESIUM LOW CALCIUM": [],
+  "DENOSUMAB": [
+    {
+      "atc_code": "M05BX",
+      "class_name": "Other drugs affecting bone structure and mineralization",
+      "atc_level": 5
+    }
+  ],
+  "DESLORATADINE": [
+    {
+      "atc_code": "R06AX",
+      "class_name": "Other antihistamines for systemic use",
+      "atc_level": 5
+    }
+  ],
+  "DESOXIMETASONE": [
+    {
+      "atc_code": "D07AC",
+      "class_name": "Corticosteroids, potent (group III)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07XC",
+      "class_name": "Corticosteroids, potent, other combinations",
+      "atc_level": 5
+    }
+  ],
+  "DEXAMETHASONE": [
+    {
+      "atc_code": "A01AC",
+      "class_name": "Corticosteroids for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05AA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AB",
+      "class_name": "Corticosteroids, moderately potent (group II)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07XB",
+      "class_name": "Corticosteroids, moderately potent, other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D10AA",
+      "class_name": "Corticosteroids, combinations for treatment of acne",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "H02AB",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AD",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01BA",
+      "class_name": "Corticosteroids, plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01CB",
+      "class_name": "Corticosteroids/antiinfectives/mydriatics in combination",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S02BA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S03BA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    }
+  ],
+  "DEXILANT": [
+    {
+      "atc_code": "A02BC",
+      "class_name": "Proton pump inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "DEXMEDETOMIDINE": [
+    {
+      "atc_code": "N05CM",
+      "class_name": "Other hypnotics and sedatives",
+      "atc_level": 5
+    }
+  ],
+  "DEXTROSE": [],
+  "DIANEAL LOW CALCIUM PERITONEAL DIALYSIS SOLUTION WITH DEXTROSE": [],
+  "DIANEAL PD-2 PERITONEAL DIALYSIS SOLUTION WITH DEXTROSE": [],
+  "DIANEAL PD-2 WITH DEXTROSE": [],
+  "DIAZEPAM": [
+    {
+      "atc_code": "N05BA",
+      "class_name": "Benzodiazepine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "DICLOFENAC DIETHYLAMMONIUM": [
+    {
+      "atc_code": "D11AX",
+      "class_name": "Other dermatologicals",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M01AB",
+      "class_name": "Acetic acid derivatives and related substances",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M02AA",
+      "class_name": "Antiinflammatory preparations, non-steroids for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01BC",
+      "class_name": "Antiinflammatory agents, non-steroids",
+      "atc_level": 5
+    }
+  ],
+  "DICLOFENAC POTASSIUM": [
+    {
+      "atc_code": "D11AX",
+      "class_name": "Other dermatologicals",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M01AB",
+      "class_name": "Acetic acid derivatives and related substances",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M02AA",
+      "class_name": "Antiinflammatory preparations, non-steroids for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01BC",
+      "class_name": "Antiinflammatory agents, non-steroids",
+      "atc_level": 5
+    }
+  ],
+  "DICLOFENAC SODIUM": [
+    {
+      "atc_code": "D11AX",
+      "class_name": "Other dermatologicals",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M01AB",
+      "class_name": "Acetic acid derivatives and related substances",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M02AA",
+      "class_name": "Antiinflammatory preparations, non-steroids for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01BC",
+      "class_name": "Antiinflammatory agents, non-steroids",
+      "atc_level": 5
+    }
+  ],
+  "DICLOFENACO": [],
+  "DIGOXIN": [
+    {
+      "atc_code": "C01AA",
+      "class_name": "Digitalis glycosides",
+      "atc_level": 5
+    }
+  ],
+  "DILAUDID": [
+    {
+      "atc_code": "N02AA",
+      "class_name": "Natural opium alkaloids",
+      "atc_level": 5
+    }
+  ],
+  "DILTIAZEMUM": [],
+  "DIMENHYDRINATE": [
+    {
+      "atc_code": "R06AA",
+      "class_name": "Aminoalkyl ethers",
+      "atc_level": 5
+    }
+  ],
+  "DIPHENHYDRAMINE": [
+    {
+      "atc_code": "M01AE",
+      "class_name": "Propionic acid derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D04AA",
+      "class_name": "Antihistamines for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R06AA",
+      "class_name": "Aminoalkyl ethers",
+      "atc_level": 5
+    }
+  ],
+  "DIPHENHYDRAMINE HYDROCHLORIDE": [
+    {
+      "atc_code": "M01AE",
+      "class_name": "Propionic acid derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D04AA",
+      "class_name": "Antihistamines for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R06AA",
+      "class_name": "Aminoalkyl ethers",
+      "atc_level": 5
+    }
+  ],
+  "DIPYRONE": [
+    {
+      "atc_code": "N02BB",
+      "class_name": "Pyrazolones",
+      "atc_level": 5
+    }
+  ],
+  "DIVALPROEX SODIUM": [],
+  "DOBUTAMINE": [
+    {
+      "atc_code": "C01CA",
+      "class_name": "Adrenergic and dopaminergic agents",
+      "atc_level": 5
+    }
+  ],
+  "DOCETAXEL": [
+    {
+      "atc_code": "L01CD",
+      "class_name": "Taxanes",
+      "atc_level": 5
+    }
+  ],
+  "DOLIPRANE": [],
+  "DOMPERIDONE": [
+    {
+      "atc_code": "A03FA",
+      "class_name": "Propulsives",
+      "atc_level": 5
+    }
+  ],
+  "DOXORUBICIN HYDROCHLORIDE": [
+    {
+      "atc_code": "L01DB",
+      "class_name": "Anthracyclines and related substances",
+      "atc_level": 5
+    }
+  ],
+  "DOXORUBICINA": [],
+  "DOXYCYCLINE": [
+    {
+      "atc_code": "A01AB",
+      "class_name": "Antiinfectives and antiseptics for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01AA",
+      "class_name": "Tetracyclines",
+      "atc_level": 5
+    }
+  ],
+  "DUOPA": [
+    {
+      "atc_code": "N04BA",
+      "class_name": "Dopa and dopa derivatives",
+      "atc_level": 5
+    }
+  ],
+  "EDOXABAN TOSYLATE": [
+    {
+      "atc_code": "B01AF",
+      "class_name": "Direct factor Xa inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ELEXACAFTOR / IVACAFTOR / TEZACAFTOR": [
+    {
+      "atc_code": "R07AX",
+      "class_name": "Other respiratory system products",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R07AX",
+      "class_name": "Other respiratory system products",
+      "atc_level": 5
+    }
+  ],
+  "ELIQUIS": [
+    {
+      "atc_code": "B01AF",
+      "class_name": "Direct factor Xa inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ELOXATIN": [],
+  "ELTROMBOPAG OLAMINE": [
+    {
+      "atc_code": "B02BX",
+      "class_name": "Other systemic hemostatics",
+      "atc_level": 5
+    }
+  ],
+  "EMEND": [
+    {
+      "atc_code": "A04AD",
+      "class_name": "Other antiemetics",
+      "atc_level": 5
+    }
+  ],
+  "EMPAGLIFLOZIN": [
+    {
+      "atc_code": "A10BK",
+      "class_name": "Sodium-glucose co-transporter 2 (SGLT2) inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    }
+  ],
+  "ENOXAPARIN": [
+    {
+      "atc_code": "B01AB",
+      "class_name": "Heparin group",
+      "atc_level": 5
+    }
+  ],
+  "ENOXAPARIN SODIUM": [
+    {
+      "atc_code": "B01AB",
+      "class_name": "Heparin group",
+      "atc_level": 5
+    }
+  ],
+  "ENTRESTO": [
+    {
+      "atc_code": "C09DX",
+      "class_name": "Angiotensin II receptor blockers (ARBs), other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09CA",
+      "class_name": "Angiotensin II receptor blockers (ARBs), plain",
+      "atc_level": 5
+    }
+  ],
+  "EPARINA": [],
+  "EPCORITAMAB": [
+    {
+      "atc_code": "L01FX",
+      "class_name": "Other monoclonal antibodies and antibody drug conjugates",
+      "atc_level": 5
+    }
+  ],
+  "EPIDIOLEX": [
+    {
+      "atc_code": "N03AX",
+      "class_name": "Other antiepileptics",
+      "atc_level": 5
+    }
+  ],
+  "EPINEPHRINE": [
+    {
+      "atc_code": "A01AD",
+      "class_name": "Other agents for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B02BC",
+      "class_name": "Local hemostatics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C01CA",
+      "class_name": "Adrenergic and dopaminergic agents",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AA",
+      "class_name": "Sympathomimetics, plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03AA",
+      "class_name": "Alpha- and beta-adrenoreceptor agonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01EA",
+      "class_name": "Sympathomimetics in glaucoma therapy",
+      "atc_level": 5
+    }
+  ],
+  "EPIRUBICIN": [
+    {
+      "atc_code": "L01DB",
+      "class_name": "Anthracyclines and related substances",
+      "atc_level": 5
+    }
+  ],
+  "ERBITUX": [
+    {
+      "atc_code": "L01FE",
+      "class_name": "EGFR (Epidermal Growth Factor Receptor) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ERELZI": [],
+  "ESCITALOPRAM": [
+    {
+      "atc_code": "N06AB",
+      "class_name": "Selective serotonin reuptake inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ETANERCEPT": [
+    {
+      "atc_code": "L04AB",
+      "class_name": "Tumor necrosis factor alpha (TNF-alpha) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ETOPOSIDE": [
+    {
+      "atc_code": "L01CB",
+      "class_name": "Podophyllotoxin derivatives",
+      "atc_level": 5
+    }
+  ],
+  "ETORICOXIB": [
+    {
+      "atc_code": "M01AH",
+      "class_name": "Coxibs",
+      "atc_level": 5
+    }
+  ],
+  "EXTRANEAL": [
+    {
+      "atc_code": "A12AA",
+      "class_name": "Calcium",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B05XA",
+      "class_name": "Electrolyte solutions",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G04BA",
+      "class_name": "Acidifiers",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A12CC",
+      "class_name": "Magnesium",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B05XA",
+      "class_name": "Electrolyte solutions",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A12CA",
+      "class_name": "Sodium",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B05CB",
+      "class_name": "Salt solutions",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B05XA",
+      "class_name": "Electrolyte solutions",
+      "atc_level": 5
+    }
+  ],
+  "EZETIMIBE": [
+    {
+      "atc_code": "C10BA",
+      "class_name": "Combinations of various lipid modifying agents",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C10BA",
+      "class_name": "Combinations of various lipid modifying agents",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C10BA",
+      "class_name": "Combinations of various lipid modifying agents",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C10AX",
+      "class_name": "Other lipid modifying agents",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C10BA",
+      "class_name": "Combinations of various lipid modifying agents",
+      "atc_level": 5
+    }
+  ],
+  "FAMOTIDINE": [
+    {
+      "atc_code": "A02BA",
+      "class_name": "H2-receptor antagonists",
+      "atc_level": 5
+    }
+  ],
+  "FEBUXOSTAT": [
+    {
+      "atc_code": "M04AA",
+      "class_name": "Preparations inhibiting uric acid production",
+      "atc_level": 5
+    }
+  ],
+  "FENTANYL": [
+    {
+      "atc_code": "N01AH",
+      "class_name": "Opioid anesthetics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AB",
+      "class_name": "Phenylpiperidine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "FERROUS FUMARATE": [
+    {
+      "atc_code": "B03AD",
+      "class_name": "Iron in combination with folic acid",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B03AA",
+      "class_name": "Iron bivalent, oral preparations",
+      "atc_level": 5
+    }
+  ],
+  "FILGRASTIM": [
+    {
+      "atc_code": "L03AA",
+      "class_name": "Colony stimulating factors",
+      "atc_level": 5
+    }
+  ],
+  "FLUCONAZOLE": [
+    {
+      "atc_code": "D01AC",
+      "class_name": "Imidazole and triazole derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J02AC",
+      "class_name": "Triazole and tetrazole derivatives",
+      "atc_level": 5
+    }
+  ],
+  "FLUCYTOSINE": [
+    {
+      "atc_code": "D01AE",
+      "class_name": "Other antifungals for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J02AX",
+      "class_name": "Other antimycotics for systemic use",
+      "atc_level": 5
+    }
+  ],
+  "FLUDARABINE": [
+    {
+      "atc_code": "L01BB",
+      "class_name": "Purine analogues",
+      "atc_level": 5
+    }
+  ],
+  "FLUOROURACIL": [
+    {
+      "atc_code": "L01BC",
+      "class_name": "Pyrimidine analogues",
+      "atc_level": 5
+    }
+  ],
+  "FLUOXETINUM": [],
+  "FLUVOXAMINE": [
+    {
+      "atc_code": "N06AB",
+      "class_name": "Selective serotonin reuptake inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "FOLIC ACID": [
+    {
+      "atc_code": "B03AD",
+      "class_name": "Iron in combination with folic acid",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B03AD",
+      "class_name": "Iron in combination with folic acid",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B03BB",
+      "class_name": "Folic acid and derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "V04CX",
+      "class_name": "Other diagnostic agents",
+      "atc_level": 5
+    }
+  ],
+  "FOSCARBIDOPA/FOSLEVODOPA": [],
+  "FOSTAMATINIB DISODIUM": [
+    {
+      "atc_code": "B02BX",
+      "class_name": "Other systemic hemostatics",
+      "atc_level": 5
+    }
+  ],
+  "FUROSEMIDE": [
+    {
+      "atc_code": "C03CB",
+      "class_name": "Sulfonamides and potassium in combination",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C03CA",
+      "class_name": "Sulfonamides, plain",
+      "atc_level": 5
+    }
+  ],
+  "G CSF": [],
+  "GABAPENTIN": [
+    {
+      "atc_code": "N02BF",
+      "class_name": "Gabapentinoids",
+      "atc_level": 5
+    }
+  ],
+  "GANCICLOVIR": [
+    {
+      "atc_code": "J05AB",
+      "class_name": "Nucleosides and nucleotides excl. reverse transcriptase inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01AD",
+      "class_name": "Antivirals",
+      "atc_level": 5
+    }
+  ],
+  "GEMCITABINE HYDROCHLORIDE": [
+    {
+      "atc_code": "L01BC",
+      "class_name": "Pyrimidine analogues",
+      "atc_level": 5
+    }
+  ],
+  "GIMERACIL\\OTERACIL\\TEGAFUR": [],
+  "GLICLAZIDE": [
+    {
+      "atc_code": "A10BB",
+      "class_name": "Sulfonylureas",
+      "atc_level": 5
+    }
+  ],
+  "HALOPERIDOL": [
+    {
+      "atc_code": "N05AD",
+      "class_name": "Butyrophenone derivatives",
+      "atc_level": 5
+    }
+  ],
+  "HUMAN IMMUNOGLOBULIN G": [],
+  "HYDROCHLOROTHIAZIDE": [
+    {
+      "atc_code": "C09XA",
+      "class_name": "Renin-inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C03AA",
+      "class_name": "Thiazides, plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09XA",
+      "class_name": "Renin-inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09DX",
+      "class_name": "Angiotensin II receptor blockers (ARBs), other combinations",
+      "atc_level": 5
+    }
+  ],
+  "HYDROCORTISONE": [
+    {
+      "atc_code": "D07AB",
+      "class_name": "Corticosteroids, moderately potent (group II)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AB",
+      "class_name": "Corticosteroids, moderately potent (group II)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AC",
+      "class_name": "Corticosteroids, potent (group III)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A01AC",
+      "class_name": "Corticosteroids for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A07EA",
+      "class_name": "Corticosteroids acting locally",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05AA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AA",
+      "class_name": "Corticosteroids, weak (group I)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07XA",
+      "class_name": "Corticosteroids, weak, other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "H02AB",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01BA",
+      "class_name": "Corticosteroids, plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01CB",
+      "class_name": "Corticosteroids/antiinfectives/mydriatics in combination",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S02BA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    }
+  ],
+  "HYDROMORPHONE HYDROCHLORIDE": [
+    {
+      "atc_code": "N02AA",
+      "class_name": "Natural opium alkaloids",
+      "atc_level": 5
+    }
+  ],
+  "HYDROXYCHLOROQUINE": [
+    {
+      "atc_code": "P01BA",
+      "class_name": "Aminoquinolines",
+      "atc_level": 5
+    }
+  ],
+  "HYDROXYZINUM": [],
+  "HYRIMOZ": [
+    {
+      "atc_code": "L04AB",
+      "class_name": "Tumor necrosis factor alpha (TNF-alpha) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "IBUPROFEN": [
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C01EB",
+      "class_name": "Other cardiac preparations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G02CC",
+      "class_name": "Antiinflammatory products for vaginal administration",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M01AE",
+      "class_name": "Propionic acid derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M02AA",
+      "class_name": "Antiinflammatory preparations, non-steroids for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R02AX",
+      "class_name": "Other throat preparations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    }
+  ],
+  "IDARUBICIN HYDROCHLORIDE": [
+    {
+      "atc_code": "L01DB",
+      "class_name": "Anthracyclines and related substances",
+      "atc_level": 5
+    }
+  ],
+  "IDROMORFONE": [],
+  "IMFINZI": [
+    {
+      "atc_code": "L01FF",
+      "class_name": "PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "INDAPAMIDE": [
+    {
+      "atc_code": "C03BA",
+      "class_name": "Sulfonamides, plain",
+      "atc_level": 5
+    }
+  ],
+  "INOTUZUMAB OZOGAMICIN": [
+    {
+      "atc_code": "L01FB",
+      "class_name": "CD22 (Clusters of Differentiation 22) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "INSULIN": [],
+  "INSULIN ASPART": [],
+  "INSULIN GLARGINE": [
+    {
+      "atc_code": "A10AE",
+      "class_name": "Insulins and analogues for injection, long-acting",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10AE",
+      "class_name": "Insulins and analogues for injection, long-acting",
+      "atc_level": 5
+    }
+  ],
+  "IRBESARTAN": [
+    {
+      "atc_code": "C09CA",
+      "class_name": "Angiotensin II receptor blockers (ARBs), plain",
+      "atc_level": 5
+    }
+  ],
+  "ISATUXIMAB": [
+    {
+      "atc_code": "L01FC",
+      "class_name": "CD38 (Clusters of Differentiation 38) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "IVABRADINA": [],
+  "KALYDECO": [
+    {
+      "atc_code": "R07AX",
+      "class_name": "Other respiratory system products",
+      "atc_level": 5
+    }
+  ],
+  "KARDEGIC": [],
+  "KEPPRA": [
+    {
+      "atc_code": "N03AX",
+      "class_name": "Other antiepileptics",
+      "atc_level": 5
+    }
+  ],
+  "KETAMINE": [
+    {
+      "atc_code": "N01AX",
+      "class_name": "Other general anesthetics",
+      "atc_level": 5
+    }
+  ],
+  "KETOROLAC": [
+    {
+      "atc_code": "S01FB",
+      "class_name": "Sympathomimetics excl. antiglaucoma preparations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M01AB",
+      "class_name": "Acetic acid derivatives and related substances",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01BC",
+      "class_name": "Antiinflammatory agents, non-steroids",
+      "atc_level": 5
+    }
+  ],
+  "KEYTRUDA": [
+    {
+      "atc_code": "L01FF",
+      "class_name": "PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "LACOSAMIDE": [
+    {
+      "atc_code": "N03AX",
+      "class_name": "Other antiepileptics",
+      "atc_level": 5
+    }
+  ],
+  "LACTULOSE": [
+    {
+      "atc_code": "A06AD",
+      "class_name": "Osmotically acting laxatives",
+      "atc_level": 5
+    }
+  ],
+  "LAMOTRIGINE": [
+    {
+      "atc_code": "N03AX",
+      "class_name": "Other antiepileptics",
+      "atc_level": 5
+    }
+  ],
+  "LANADELUMAB": [
+    {
+      "atc_code": "B06AC",
+      "class_name": "Drugs used in hereditary angioedema",
+      "atc_level": 5
+    }
+  ],
+  "LANSOPRAZOLE": [
+    {
+      "atc_code": "A02BC",
+      "class_name": "Proton pump inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "LANTUS": [
+    {
+      "atc_code": "A10AE",
+      "class_name": "Insulins and analogues for injection, long-acting",
+      "atc_level": 5
+    }
+  ],
+  "LASIX": [
+    {
+      "atc_code": "C03CA",
+      "class_name": "Sulfonamides, plain",
+      "atc_level": 5
+    }
+  ],
+  "LEFLUNOMIDE": [
+    {
+      "atc_code": "L04AK",
+      "class_name": "Dihydroorotate dehydrogenase (DHODH) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "LENALIDOMIDE": [
+    {
+      "atc_code": "L04AX",
+      "class_name": "Other immunosuppressants",
+      "atc_level": 5
+    }
+  ],
+  "LENVIMA": [
+    {
+      "atc_code": "L01EX",
+      "class_name": "Other protein kinase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "LETROZOLE": [
+    {
+      "atc_code": "L02BG",
+      "class_name": "Aromatase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "LEUCOVORIN CALCIUM": [
+    {
+      "atc_code": "V03AF",
+      "class_name": "Detoxifying agents for antineoplastic treatment",
+      "atc_level": 5
+    }
+  ],
+  "LEUPROLIDE ACETATE": [
+    {
+      "atc_code": "L02AE",
+      "class_name": "Gonadotropin releasing hormone analogues",
+      "atc_level": 5
+    }
+  ],
+  "LEVETIRACETAM": [
+    {
+      "atc_code": "N03AX",
+      "class_name": "Other antiepileptics",
+      "atc_level": 5
+    }
+  ],
+  "LEVOFLOXACIN": [
+    {
+      "atc_code": "J01MA",
+      "class_name": "Fluoroquinolones",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01AE",
+      "class_name": "Fluoroquinolones",
+      "atc_level": 5
+    }
+  ],
+  "LEVOTHYROXINE SODIUM": [
+    {
+      "atc_code": "H03AA",
+      "class_name": "Thyroid hormones",
+      "atc_level": 5
+    }
+  ],
+  "LIDOCAINE": [
+    {
+      "atc_code": "C01BB",
+      "class_name": "Antiarrhythmics, class Ib",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05AD",
+      "class_name": "Local anesthetics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D04AB",
+      "class_name": "Anesthetics for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N01BB",
+      "class_name": "Amides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R02AD",
+      "class_name": "Anesthetics, local",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01HA",
+      "class_name": "Local anesthetics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S02DA",
+      "class_name": "Analgesics and anesthetics",
+      "atc_level": 5
+    }
+  ],
+  "LIDOCAINE HYDROCHLORIDE": [
+    {
+      "atc_code": "C01BB",
+      "class_name": "Antiarrhythmics, class Ib",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05AD",
+      "class_name": "Local anesthetics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D04AB",
+      "class_name": "Anesthetics for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N01BB",
+      "class_name": "Amides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R02AD",
+      "class_name": "Anesthetics, local",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01HA",
+      "class_name": "Local anesthetics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S02DA",
+      "class_name": "Analgesics and anesthetics",
+      "atc_level": 5
+    }
+  ],
+  "LINAGLIPTIN": [
+    {
+      "atc_code": "A10BH",
+      "class_name": "Dipeptidyl peptidase 4 (DPP-4) inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    }
+  ],
+  "LINEZOLID": [
+    {
+      "atc_code": "J01XX",
+      "class_name": "Other antibacterials",
+      "atc_level": 5
+    }
+  ],
+  "LIPOGEN": [],
+  "LITHIUM": [
+    {
+      "atc_code": "N05AN",
+      "class_name": "Lithium",
+      "atc_level": 5
+    }
+  ],
+  "LITHIUM CARBONATE": [],
+  "LOPERAMIDA": [],
+  "LOPERAMIDE HYDROCHLORIDE": [
+    {
+      "atc_code": "A07DA",
+      "class_name": "Antipropulsives",
+      "atc_level": 5
+    }
+  ],
+  "LORAZEPAM": [
+    {
+      "atc_code": "N05BA",
+      "class_name": "Benzodiazepine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "LOVENOX": [
+    {
+      "atc_code": "B01AB",
+      "class_name": "Heparin group",
+      "atc_level": 5
+    }
+  ],
+  "LOXAPINE": [
+    {
+      "atc_code": "N05AH",
+      "class_name": "Diazepines, oxazepines, thiazepines and oxepines",
+      "atc_level": 5
+    }
+  ],
+  "LOXOPROFEN": [
+    {
+      "atc_code": "M01AE",
+      "class_name": "Propionic acid derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M02AA",
+      "class_name": "Antiinflammatory preparations, non-steroids for topical use",
+      "atc_level": 5
+    }
+  ],
+  "LT4": [],
+  "MAGNESIUM": [],
+  "MAGNESIUM OXIDE": [
+    {
+      "atc_code": "A02AA",
+      "class_name": "Magnesium compounds",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A06AD",
+      "class_name": "Osmotically acting laxatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A12CC",
+      "class_name": "Magnesium",
+      "atc_level": 5
+    }
+  ],
+  "MEMANTINE": [
+    {
+      "atc_code": "N06DA",
+      "class_name": "Anticholinesterases",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N06DX",
+      "class_name": "Other anti-dementia drugs",
+      "atc_level": 5
+    }
+  ],
+  "MEPOLIZUMAB": [
+    {
+      "atc_code": "R03DX",
+      "class_name": "Other systemic drugs for obstructive airway diseases",
+      "atc_level": 5
+    }
+  ],
+  "MERCAPTOPURINE": [
+    {
+      "atc_code": "L01BB",
+      "class_name": "Purine analogues",
+      "atc_level": 5
+    }
+  ],
+  "MEROPENEM": [
+    {
+      "atc_code": "J01DH",
+      "class_name": "Carbapenems",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01DH",
+      "class_name": "Carbapenems",
+      "atc_level": 5
+    }
+  ],
+  "MESNA": [
+    {
+      "atc_code": "R05CB",
+      "class_name": "Mucolytics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "V03AF",
+      "class_name": "Detoxifying agents for antineoplastic treatment",
+      "atc_level": 5
+    }
+  ],
+  "METFORMIN HYDROCHLORIDE": [
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BA",
+      "class_name": "Biguanides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    }
+  ],
+  "METFORMINUM": [],
+  "METHADONE": [
+    {
+      "atc_code": "N07BC",
+      "class_name": "Drugs used in opioid dependence",
+      "atc_level": 5
+    }
+  ],
+  "METHADONE HYDROCHLORIDE": [
+    {
+      "atc_code": "N07BC",
+      "class_name": "Drugs used in opioid dependence",
+      "atc_level": 5
+    }
+  ],
+  "METHAMPHETAMINE": [
+    {
+      "atc_code": "N06BA",
+      "class_name": "Centrally acting sympathomimetics",
+      "atc_level": 5
+    }
+  ],
+  "METHOTREXATE": [
+    {
+      "atc_code": "L01BA",
+      "class_name": "Folic acid analogues",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "L04AX",
+      "class_name": "Other immunosuppressants",
+      "atc_level": 5
+    }
+  ],
+  "METHOTREXATE SODIUM": [
+    {
+      "atc_code": "L01BA",
+      "class_name": "Folic acid analogues",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "L04AX",
+      "class_name": "Other immunosuppressants",
+      "atc_level": 5
+    }
+  ],
+  "METHYL(III)COBALAMIN": [],
+  "METHYLPREDNISOLONE": [
+    {
+      "atc_code": "D07AC",
+      "class_name": "Corticosteroids, potent (group III)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AA",
+      "class_name": "Corticosteroids, weak (group I)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D10AA",
+      "class_name": "Corticosteroids, combinations for treatment of acne",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "H02AB",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    }
+  ],
+  "METOCLOPRAMIDA": [],
+  "METOPROLOL": [
+    {
+      "atc_code": "C07FB",
+      "class_name": "Beta blocking agents and calcium channel blockers",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C07AB",
+      "class_name": "Beta blocking agents, selective",
+      "atc_level": 5
+    }
+  ],
+  "METRONIDAZOLE": [
+    {
+      "atc_code": "A02BD",
+      "class_name": "Combinations for eradication of Helicobacter pylori",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "P01AB",
+      "class_name": "Nitroimidazole derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01RA",
+      "class_name": "Combinations of antibacterials",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A01AB",
+      "class_name": "Antiinfectives and antiseptics for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D06BX",
+      "class_name": "Other chemotherapeutics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G01AF",
+      "class_name": "Imidazole derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01XD",
+      "class_name": "Imidazole derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "P01AB",
+      "class_name": "Nitroimidazole derivatives",
+      "atc_level": 5
+    }
+  ],
+  "MICAFUNGINA": [],
+  "MIDAZOLAM": [
+    {
+      "atc_code": "N05CD",
+      "class_name": "Benzodiazepine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "MIRTAZAPINE": [
+    {
+      "atc_code": "N06AX",
+      "class_name": "Other antidepressants",
+      "atc_level": 5
+    }
+  ],
+  "MORPHINE": [
+    {
+      "atc_code": "N02AA",
+      "class_name": "Natural opium alkaloids",
+      "atc_level": 5
+    }
+  ],
+  "MORPHINE SULFATE": [
+    {
+      "atc_code": "N02AA",
+      "class_name": "Natural opium alkaloids",
+      "atc_level": 5
+    }
+  ],
+  "MOVICOL": [],
+  "MOVICOLON": [],
+  "MOXIFLOXACIN": [
+    {
+      "atc_code": "J01MA",
+      "class_name": "Fluoroquinolones",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01AE",
+      "class_name": "Fluoroquinolones",
+      "atc_level": 5
+    }
+  ],
+  "MYCOPHENOLATE MOFETIL": [],
+  "MYCOPHENOLIC ACID": [
+    {
+      "atc_code": "L04AA",
+      "class_name": "Selective immunosuppressants",
+      "atc_level": 5
+    }
+  ],
+  "NALOXONA": [],
+  "NAPROXEN": [
+    {
+      "atc_code": "M01AE",
+      "class_name": "Propionic acid derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M01AE",
+      "class_name": "Propionic acid derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G02CC",
+      "class_name": "Antiinflammatory products for vaginal administration",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M01AE",
+      "class_name": "Propionic acid derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M02AA",
+      "class_name": "Antiinflammatory preparations, non-steroids for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02CC",
+      "class_name": "Selective serotonin (5HT1) agonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M01AE",
+      "class_name": "Propionic acid derivatives",
+      "atc_level": 5
+    }
+  ],
+  "NARCAN": [
+    {
+      "atc_code": "A06AH",
+      "class_name": "Peripheral opioid receptor antagonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "V03AB",
+      "class_name": "Antidotes",
+      "atc_level": 5
+    }
+  ],
+  "NICORANDIL": [
+    {
+      "atc_code": "C01DX",
+      "class_name": "Other vasodilators used in cardiac diseases",
+      "atc_level": 5
+    }
+  ],
+  "NIVOLUMAB": [
+    {
+      "atc_code": "L01FF",
+      "class_name": "PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "L01FY",
+      "class_name": "Combinations of monoclonal antibodies and antibody drug conjugates",
+      "atc_level": 5
+    }
+  ],
+  "NOREPINEPHRINE BITARTRATE": [
+    {
+      "atc_code": "C01CA",
+      "class_name": "Adrenergic and dopaminergic agents",
+      "atc_level": 5
+    }
+  ],
+  "NOVORAPID": [],
+  "OLANZAPINE": [
+    {
+      "atc_code": "N05AH",
+      "class_name": "Diazepines, oxazepines, thiazepines and oxepines",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N05AH",
+      "class_name": "Diazepines, oxazepines, thiazepines and oxepines",
+      "atc_level": 5
+    }
+  ],
+  "OMEPRAZOLE": [
+    {
+      "atc_code": "A02BD",
+      "class_name": "Combinations for eradication of Helicobacter pylori",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A02BC",
+      "class_name": "Proton pump inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ONDANSETRON": [
+    {
+      "atc_code": "A04AA",
+      "class_name": "Serotonin (5HT3) antagonists",
+      "atc_level": 5
+    }
+  ],
+  "ONFI": [
+    {
+      "atc_code": "N05BA",
+      "class_name": "Benzodiazepine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "ONIVYDE": [
+    {
+      "atc_code": "L01CE",
+      "class_name": "Topoisomerase 1 (TOP1) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "OPDIVO": [
+    {
+      "atc_code": "L01FF",
+      "class_name": "PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ORIDONIN": [],
+  "OXALIPLATIN": [
+    {
+      "atc_code": "L01XA",
+      "class_name": "Platinum compounds",
+      "atc_level": 5
+    }
+  ],
+  "OXAZEPAM": [
+    {
+      "atc_code": "N05BA",
+      "class_name": "Benzodiazepine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "OXYCODONE": [
+    {
+      "atc_code": "N02AA",
+      "class_name": "Natural opium alkaloids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AA",
+      "class_name": "Natural opium alkaloids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AA",
+      "class_name": "Natural opium alkaloids",
+      "atc_level": 5
+    }
+  ],
+  "OXYCODONE HYDROCHLORIDE": [
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AA",
+      "class_name": "Natural opium alkaloids",
+      "atc_level": 5
+    }
+  ],
+  "PACLITAXEL": [
+    {
+      "atc_code": "L01CD",
+      "class_name": "Taxanes",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "L01CD",
+      "class_name": "Taxanes",
+      "atc_level": 5
+    }
+  ],
+  "PALIPERIDONE": [
+    {
+      "atc_code": "N05AX",
+      "class_name": "Other antipsychotics",
+      "atc_level": 5
+    }
+  ],
+  "PANTOPRAZOLE": [
+    {
+      "atc_code": "A02BC",
+      "class_name": "Proton pump inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "PANTOPRAZOLE SODIUM": [
+    {
+      "atc_code": "A02BC",
+      "class_name": "Proton pump inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "PAROXETINUM": [],
+  "PAXLOVID": [],
+  "PEGASPARGASE": [
+    {
+      "atc_code": "L01XX",
+      "class_name": "Other antineoplastic agents",
+      "atc_level": 5
+    }
+  ],
+  "PEMBROLIZUMAB": [
+    {
+      "atc_code": "L01FF",
+      "class_name": "PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "PEMETREXED": [
+    {
+      "atc_code": "L01BA",
+      "class_name": "Folic acid analogues",
+      "atc_level": 5
+    }
+  ],
+  "PERINDOPRIL": [
+    {
+      "atc_code": "C09BB",
+      "class_name": "ACE inhibitors and calcium channel blockers",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09AA",
+      "class_name": "ACE inhibitors, plain",
+      "atc_level": 5
+    }
+  ],
+  "PERPRAZOLE": [],
+  "PIPERACILLIN / TAZOBACTAM": [
+    {
+      "atc_code": "J01CG",
+      "class_name": "Beta-lactamase inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01CA",
+      "class_name": "Penicillins with extended spectrum",
+      "atc_level": 5
+    }
+  ],
+  "PIPERACILLIN SODIUM\\TAZOBACTAM SODIUM": [],
+  "POLARAMINE": [],
+  "POLYETHYLENE GLYCOL": [],
+  "PONATINIB": [
+    {
+      "atc_code": "L01EA",
+      "class_name": "BCR-ABL tyrosine kinase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "POSACONAZOLE": [
+    {
+      "atc_code": "J02AC",
+      "class_name": "Triazole and tetrazole derivatives",
+      "atc_level": 5
+    }
+  ],
+  "POTASSIUM CHLORIDE": [
+    {
+      "atc_code": "A12BA",
+      "class_name": "Potassium",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B05XA",
+      "class_name": "Electrolyte solutions",
+      "atc_level": 5
+    }
+  ],
+  "PRAMIPEXOLE": [
+    {
+      "atc_code": "N04BC",
+      "class_name": "Dopamine agonists",
+      "atc_level": 5
+    }
+  ],
+  "PREDNISOLONE": [
+    {
+      "atc_code": "A01AC",
+      "class_name": "Corticosteroids for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A07EA",
+      "class_name": "Corticosteroids acting locally",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05AA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AA",
+      "class_name": "Corticosteroids, weak (group I)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07XA",
+      "class_name": "Corticosteroids, weak, other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "H02AB",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AD",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01BA",
+      "class_name": "Corticosteroids, plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01CB",
+      "class_name": "Corticosteroids/antiinfectives/mydriatics in combination",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S02BA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S03BA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    }
+  ],
+  "PREDNISONE": [
+    {
+      "atc_code": "A07EA",
+      "class_name": "Corticosteroids acting locally",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "H02AB",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    }
+  ],
+  "PREGABALIN": [
+    {
+      "atc_code": "N02BF",
+      "class_name": "Gabapentinoids",
+      "atc_level": 5
+    }
+  ],
+  "PRETOMANID": [
+    {
+      "atc_code": "J04AK",
+      "class_name": "Other drugs for treatment of tuberculosis",
+      "atc_level": 5
+    }
+  ],
+  "PROGRAF": [
+    {
+      "atc_code": "D11AH",
+      "class_name": "Agents for dermatitis, excluding corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "L04AD",
+      "class_name": "Calcineurin inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "PROMETAZINA": [],
+  "PROPANOLOL": [],
+  "PROPOFOL": [
+    {
+      "atc_code": "N01AX",
+      "class_name": "Other general anesthetics",
+      "atc_level": 5
+    }
+  ],
+  "PULMOZYME": [
+    {
+      "atc_code": "R05CB",
+      "class_name": "Mucolytics",
+      "atc_level": 5
+    }
+  ],
+  "QUETIAPINA": [],
+  "QUETIAPINE FUMARATE": [
+    {
+      "atc_code": "N05AH",
+      "class_name": "Diazepines, oxazepines, thiazepines and oxepines",
+      "atc_level": 5
+    }
+  ],
+  "RAMIPRIL": [
+    {
+      "atc_code": "C09AA",
+      "class_name": "ACE inhibitors, plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09BB",
+      "class_name": "ACE inhibitors and calcium channel blockers",
+      "atc_level": 5
+    }
+  ],
+  "REBAMIPIDE": [],
+  "REGUNEAL LCA": [],
+  "REMDESIVIR": [
+    {
+      "atc_code": "J05AB",
+      "class_name": "Nucleosides and nucleotides excl. reverse transcriptase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "RIFAMPIN": [
+    {
+      "atc_code": "J04AM",
+      "class_name": "Combinations of drugs for treatment of tuberculosis",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J04AM",
+      "class_name": "Combinations of drugs for treatment of tuberculosis",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J04AM",
+      "class_name": "Combinations of drugs for treatment of tuberculosis",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J04AB",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    }
+  ],
+  "RIFAXIMIN": [
+    {
+      "atc_code": "A07AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D06AX",
+      "class_name": "Other antibiotics for topical use",
+      "atc_level": 5
+    }
+  ],
+  "RINVOQ": [
+    {
+      "atc_code": "L04AF",
+      "class_name": "Janus-associated kinase (JAK) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "RISPERIDONE": [
+    {
+      "atc_code": "N05AX",
+      "class_name": "Other antipsychotics",
+      "atc_level": 5
+    }
+  ],
+  "RITUXIMAB": [
+    {
+      "atc_code": "L01FA",
+      "class_name": "CD20 (Clusters of Differentiation 20) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "RIVAROXABAN": [
+    {
+      "atc_code": "B01AF",
+      "class_name": "Direct factor Xa inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ROCURONIUM BROMIDE": [
+    {
+      "atc_code": "M03AC",
+      "class_name": "Other quaternary ammonium compounds",
+      "atc_level": 5
+    }
+  ],
+  "ROSUVASTATINA": [],
+  "ROTIGOTINE": [
+    {
+      "atc_code": "N04BC",
+      "class_name": "Dopamine agonists",
+      "atc_level": 5
+    }
+  ],
+  "RUCONEST": [
+    {
+      "atc_code": "B06AC",
+      "class_name": "Drugs used in hereditary angioedema",
+      "atc_level": 5
+    }
+  ],
+  "SERTRALINA": [],
+  "SERTRALINE HYDROCHLORIDE": [
+    {
+      "atc_code": "N06AB",
+      "class_name": "Selective serotonin reuptake inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "SITAGLIPTIN": [
+    {
+      "atc_code": "A10BH",
+      "class_name": "Dipeptidyl peptidase 4 (DPP-4) inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BH",
+      "class_name": "Dipeptidyl peptidase 4 (DPP-4) inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    }
+  ],
+  "SKENAN": [],
+  "SODIUM CHLORIDE": [
+    {
+      "atc_code": "A12CA",
+      "class_name": "Sodium",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B05CB",
+      "class_name": "Salt solutions",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B05XA",
+      "class_name": "Electrolyte solutions",
+      "atc_level": 5
+    }
+  ],
+  "SPIROCTAN": [],
+  "SPIRONOLACTONE": [
+    {
+      "atc_code": "C03DA",
+      "class_name": "Aldosterone antagonists",
+      "atc_level": 5
+    }
+  ],
+  "SUFENTANIL": [
+    {
+      "atc_code": "N01AH",
+      "class_name": "Opioid anesthetics",
+      "atc_level": 5
+    }
+  ],
+  "SULFAMETHOXAZOLE / TRIMETHOPRIM": [
+    {
+      "atc_code": "J01EC",
+      "class_name": "Intermediate-acting sulfonamides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01EA",
+      "class_name": "Trimethoprim and derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01EE",
+      "class_name": "Combinations of sulfonamides and trimethoprim, incl. derivatives",
+      "atc_level": 5
+    }
+  ],
+  "TACROLIMUS": [
+    {
+      "atc_code": "D11AH",
+      "class_name": "Agents for dermatitis, excluding corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "L04AD",
+      "class_name": "Calcineurin inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "TAMSULOSINA": [],
+  "TECENTRIQ": [
+    {
+      "atc_code": "L01FF",
+      "class_name": "PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "TEDUGLUTIDE": [
+    {
+      "atc_code": "A16AX",
+      "class_name": "Various alimentary tract and metabolism products",
+      "atc_level": 5
+    }
+  ],
+  "TEMAZEPAM": [
+    {
+      "atc_code": "N05CD",
+      "class_name": "Benzodiazepine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "TEMOZOLOMIDE": [
+    {
+      "atc_code": "L01AX",
+      "class_name": "Other alkylating agents",
+      "atc_level": 5
+    }
+  ],
+  "THYMOGLOBULIN": [
+    {
+      "atc_code": "L04AA",
+      "class_name": "Selective immunosuppressants",
+      "atc_level": 5
+    }
+  ],
+  "TICAGRELOR": [
+    {
+      "atc_code": "B01AC",
+      "class_name": "Platelet aggregation inhibitors excl. heparin",
+      "atc_level": 5
+    }
+  ],
+  "TOBRAMYCIN": [
+    {
+      "atc_code": "J01GB",
+      "class_name": "Other aminoglycosides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    }
+  ],
+  "TOPOTECAN": [
+    {
+      "atc_code": "L01CE",
+      "class_name": "Topoisomerase 1 (TOP1) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "TORIPALIMAB": [
+    {
+      "atc_code": "L01FF",
+      "class_name": "PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "TORSEMIDE": [
+    {
+      "atc_code": "C03CA",
+      "class_name": "Sulfonamides, plain",
+      "atc_level": 5
+    }
+  ],
+  "TPN": [],
+  "TRAMADOL": [
+    {
+      "atc_code": "N02AX",
+      "class_name": "Other opioids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    }
+  ],
+  "TRAMADOL HYDROCHLORIDE": [
+    {
+      "atc_code": "N02AX",
+      "class_name": "Other opioids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02AJ",
+      "class_name": "Opioids in combination with non-opioid analgesics",
+      "atc_level": 5
+    }
+  ],
+  "TRAZODONA": [],
+  "TRELEGY ELLIPTA": [],
+  "VALACYCLOVIR HYDROCHLORIDE": [
+    {
+      "atc_code": "J05AB",
+      "class_name": "Nucleosides and nucleotides excl. reverse transcriptase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "VALPROATE SODIUM": [],
+  "VALPROIC ACID": [
+    {
+      "atc_code": "N03AG",
+      "class_name": "Fatty acid derivatives",
+      "atc_level": 5
+    }
+  ],
+  "VANCOMYCIN": [
+    {
+      "atc_code": "A07AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01XA",
+      "class_name": "Glycopeptide antibacterials",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    }
+  ],
+  "VASOPRESSIN": [],
+  "VENCLEXTA": [
+    {
+      "atc_code": "L01XX",
+      "class_name": "Other antineoplastic agents",
+      "atc_level": 5
+    }
+  ],
+  "VENETOCLAX": [
+    {
+      "atc_code": "L01XX",
+      "class_name": "Other antineoplastic agents",
+      "atc_level": 5
+    }
+  ],
+  "VENLAFAXINA": [],
+  "VENTOLIN": [
+    {
+      "atc_code": "R03AC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03CC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    }
+  ],
+  "VINCRISTINE": [
+    {
+      "atc_code": "L01CA",
+      "class_name": "Vinca alkaloids and analogues",
+      "atc_level": 5
+    }
+  ],
+  "VINCRISTINE SULFATE": [
+    {
+      "atc_code": "L01CA",
+      "class_name": "Vinca alkaloids and analogues",
+      "atc_level": 5
+    }
+  ],
+  "VONOPRAZAN FUMARATE": [
+    {
+      "atc_code": "A02BC",
+      "class_name": "Proton pump inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "VORICONAZOLE": [
+    {
+      "atc_code": "J02AC",
+      "class_name": "Triazole and tetrazole derivatives",
+      "atc_level": 5
+    }
+  ],
+  "ZENHALE": [],
+  "ZOLPIDEM": [
+    {
+      "atc_code": "N05CF",
+      "class_name": "Benzodiazepine related drugs",
+      "atc_level": 5
+    }
+  ],
+  "ZOPICLONE": [
+    {
+      "atc_code": "N05CF",
+      "class_name": "Benzodiazepine related drugs",
+      "atc_level": 5
+    }
+  ],
+  "DARATUMUMAB": [
+    {
+      "atc_code": "L01FC",
+      "class_name": "CD38 (Clusters of Differentiation 38) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "FOSCARBIDOPA": [],
+  "FOSLEVODOPA": [
+    {
+      "atc_code": "N04BA",
+      "class_name": "Dopa and dopa derivatives",
+      "atc_level": 5
+    }
+  ],
+  "GIMERACIL": [],
+  "PIPERACILLIN SODIUM": [
+    {
+      "atc_code": "J01CA",
+      "class_name": "Penicillins with extended spectrum",
+      "atc_level": 5
+    }
+  ],
+  "ACETAMINOPHEN / HYDROCODONE": [
+    {
+      "atc_code": "N02BE",
+      "class_name": "Anilides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R05DA",
+      "class_name": "Opium alkaloids and derivatives",
+      "atc_level": 5
+    }
+  ],
+  "ADCIRCA": [
+    {
+      "atc_code": "G04BE",
+      "class_name": "Drugs used in erectile dysfunction",
+      "atc_level": 5
+    }
+  ],
+  "ADEMPAS": [
+    {
+      "atc_code": "C02KX",
+      "class_name": "Antihypertensives for pulmonary arterial hypertension",
+      "atc_level": 5
+    }
+  ],
+  "ALBUTEROL / IPRATROPIUM": [
+    {
+      "atc_code": "R01AX",
+      "class_name": "Other nasal preparations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03BB",
+      "class_name": "Anticholinergics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03AC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03CC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    }
+  ],
+  "ALENDRONIC ACID": [
+    {
+      "atc_code": "M05BA",
+      "class_name": "Bisphosphonates",
+      "atc_level": 5
+    }
+  ],
+  "AMANTADINE": [
+    {
+      "atc_code": "N04BB",
+      "class_name": "Adamantane derivatives",
+      "atc_level": 5
+    }
+  ],
+  "AMBRISENTAN": [
+    {
+      "atc_code": "C02KX",
+      "class_name": "Antihypertensives for pulmonary arterial hypertension",
+      "atc_level": 5
+    }
+  ],
+  "AMITRIPTYLINE": [
+    {
+      "atc_code": "N06AA",
+      "class_name": "Non-selective monoamine reuptake inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "AMITRIPTYLINE HYDROCHLORIDE": [
+    {
+      "atc_code": "N06AA",
+      "class_name": "Non-selective monoamine reuptake inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "AMLODIPINE": [
+    {
+      "atc_code": "C09XA",
+      "class_name": "Renin-inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09BB",
+      "class_name": "ACE inhibitors and calcium channel blockers",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09XA",
+      "class_name": "Renin-inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C08CA",
+      "class_name": "Dihydropyridine derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C08CA",
+      "class_name": "Dihydropyridine derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09BB",
+      "class_name": "ACE inhibitors and calcium channel blockers",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C10BX",
+      "class_name": "Lipid modifying agents in combination with other drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09DB",
+      "class_name": "Angiotensin II receptor blockers (ARBs) and calcium channel blockers",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09DX",
+      "class_name": "Angiotensin II receptor blockers (ARBs), other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09DB",
+      "class_name": "Angiotensin II receptor blockers (ARBs) and calcium channel blockers",
+      "atc_level": 5
+    }
+  ],
+  "ATORVASTATIN": [
+    {
+      "atc_code": "C10BA",
+      "class_name": "Combinations of various lipid modifying agents",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C10BX",
+      "class_name": "Lipid modifying agents in combination with other drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C10AA",
+      "class_name": "HMG CoA reductase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ATRACURIUM": [
+    {
+      "atc_code": "M03AC",
+      "class_name": "Other quaternary ammonium compounds",
+      "atc_level": 5
+    }
+  ],
+  "AVIBACTAM / CEFTAZIDIME": [
+    {
+      "atc_code": "J01DD",
+      "class_name": "Third-generation cephalosporins",
+      "atc_level": 5
+    }
+  ],
+  "BACLOFEN": [
+    {
+      "atc_code": "M03BX",
+      "class_name": "Other centrally acting agents",
+      "atc_level": 5
+    }
+  ],
+  "BACTRIM DS": [],
+  "BASAGLAR": [
+    {
+      "atc_code": "A10AE",
+      "class_name": "Insulins and analogues for injection, long-acting",
+      "atc_level": 5
+    }
+  ],
+  "BASILIXIMAB": [
+    {
+      "atc_code": "L04AC",
+      "class_name": "Interleukin inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "BEDAQUILINE": [
+    {
+      "atc_code": "J04AK",
+      "class_name": "Other drugs for treatment of tuberculosis",
+      "atc_level": 5
+    }
+  ],
+  "BENZONATATE": [
+    {
+      "atc_code": "R05DB",
+      "class_name": "Other cough suppressants",
+      "atc_level": 5
+    }
+  ],
+  "BORTEZOMIB": [
+    {
+      "atc_code": "L01XG",
+      "class_name": "Proteasome inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "BREO ELLIPTA": [],
+  "BREZTRI": [
+    {
+      "atc_code": "D11AA",
+      "class_name": "Antihidrotics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A07EA",
+      "class_name": "Corticosteroids acting locally",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AC",
+      "class_name": "Corticosteroids, potent (group III)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AD",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03BA",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03AC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03CC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    }
+  ],
+  "BROMAZEPAM": [
+    {
+      "atc_code": "N05BA",
+      "class_name": "Benzodiazepine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "BUPROPION HYDROCHLORIDE": [
+    {
+      "atc_code": "A08AA",
+      "class_name": "Centrally acting antiobesity products",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N06AX",
+      "class_name": "Other antidepressants",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N06AX",
+      "class_name": "Other antidepressants",
+      "atc_level": 5
+    }
+  ],
+  "BUSPIRONE": [
+    {
+      "atc_code": "N05BE",
+      "class_name": "Azaspirodecanedione derivatives",
+      "atc_level": 5
+    }
+  ],
+  "BUSPIRONE HYDROCHLORIDE": [
+    {
+      "atc_code": "N05BE",
+      "class_name": "Azaspirodecanedione derivatives",
+      "atc_level": 5
+    }
+  ],
+  "CALCITRIOL": [
+    {
+      "atc_code": "A11CC",
+      "class_name": "Vitamin D and analogues",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D05AX",
+      "class_name": "Other antipsoriatics for topical use",
+      "atc_level": 5
+    }
+  ],
+  "CALCIUM": [],
+  "CALCIUM PHOSPHATE / CHOLECALCIFEROL": [
+    {
+      "atc_code": "A12AA",
+      "class_name": "Calcium",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A11CC",
+      "class_name": "Vitamin D and analogues",
+      "atc_level": 5
+    }
+  ],
+  "CALONAL": [],
+  "CASPOFUNGIN": [
+    {
+      "atc_code": "J02AX",
+      "class_name": "Other antimycotics for systemic use",
+      "atc_level": 5
+    }
+  ],
+  "CEFAZOLIN SODIUM": [
+    {
+      "atc_code": "J01DB",
+      "class_name": "First-generation cephalosporins",
+      "atc_level": 5
+    }
+  ],
+  "CEFEPIME": [
+    {
+      "atc_code": "J01DE",
+      "class_name": "Fourth-generation cephalosporins",
+      "atc_level": 5
+    }
+  ],
+  "CETIRIZINE": [
+    {
+      "atc_code": "R06AE",
+      "class_name": "Piperazine derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01GX",
+      "class_name": "Other antiallergics",
+      "atc_level": 5
+    }
+  ],
+  "CHLORTHALIDONE": [
+    {
+      "atc_code": "C03BA",
+      "class_name": "Sulfonamides, plain",
+      "atc_level": 5
+    }
+  ],
+  "CICLOBENZAPRINA": [],
+  "CLARITIN": [
+    {
+      "atc_code": "R06AX",
+      "class_name": "Other antihistamines for systemic use",
+      "atc_level": 5
+    }
+  ],
+  "CLONIDINE": [
+    {
+      "atc_code": "C02AC",
+      "class_name": "Imidazoline receptor agonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02CX",
+      "class_name": "Other antimigraine preparations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01EA",
+      "class_name": "Sympathomimetics in glaucoma therapy",
+      "atc_level": 5
+    }
+  ],
+  "CLOPIDOGREL": [
+    {
+      "atc_code": "B01AC",
+      "class_name": "Platelet aggregation inhibitors excl. heparin",
+      "atc_level": 5
+    }
+  ],
+  "CO-ENZYME Q 10": [],
+  "COLACE": [
+    {
+      "atc_code": "A06AA",
+      "class_name": "Softeners, emollients",
+      "atc_level": 5
+    }
+  ],
+  "COLESTYRAMINE": [
+    {
+      "atc_code": "C10AC",
+      "class_name": "Bile acid sequestrants",
+      "atc_level": 5
+    }
+  ],
+  "COMPAZINE": [
+    {
+      "atc_code": "N05AB",
+      "class_name": "Phenothiazines with piperazine structure",
+      "atc_level": 5
+    }
+  ],
+  "COZAAR": [
+    {
+      "atc_code": "C09CA",
+      "class_name": "Angiotensin II receptor blockers (ARBs), plain",
+      "atc_level": 5
+    }
+  ],
+  "CREON": [
+    {
+      "atc_code": "A09AA",
+      "class_name": "Enzyme preparations",
+      "atc_level": 5
+    }
+  ],
+  "CRESTOR": [
+    {
+      "atc_code": "C10AA",
+      "class_name": "HMG CoA reductase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "DALFAMPRIDINE": [
+    {
+      "atc_code": "N07XX",
+      "class_name": "Other nervous system drugs",
+      "atc_level": 5
+    }
+  ],
+  "DEPAKOTE": [
+    {
+      "atc_code": "N03AG",
+      "class_name": "Fatty acid derivatives",
+      "atc_level": 5
+    }
+  ],
+  "DEVICE": [],
+  "DEXAMETHASONE SODIUM PHOSPHATE": [
+    {
+      "atc_code": "A01AC",
+      "class_name": "Corticosteroids for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05AA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AB",
+      "class_name": "Corticosteroids, moderately potent (group II)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07XB",
+      "class_name": "Corticosteroids, moderately potent, other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D10AA",
+      "class_name": "Corticosteroids, combinations for treatment of acne",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "H02AB",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AD",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01BA",
+      "class_name": "Corticosteroids, plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01CB",
+      "class_name": "Corticosteroids/antiinfectives/mydriatics in combination",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S02BA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S03BA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    }
+  ],
+  "DICLOFENAC": [
+    {
+      "atc_code": "D11AX",
+      "class_name": "Other dermatologicals",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M01AB",
+      "class_name": "Acetic acid derivatives and related substances",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M02AA",
+      "class_name": "Antiinflammatory preparations, non-steroids for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01BC",
+      "class_name": "Antiinflammatory agents, non-steroids",
+      "atc_level": 5
+    }
+  ],
+  "DILTIAZEM": [
+    {
+      "atc_code": "C05AE",
+      "class_name": "Muscle relaxants",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C08DB",
+      "class_name": "Benzothiazepine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "DILTIAZEM HYDROCHLORIDE": [
+    {
+      "atc_code": "C05AE",
+      "class_name": "Muscle relaxants",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C08DB",
+      "class_name": "Benzothiazepine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "DOCUSATE SODIUM": [
+    {
+      "atc_code": "A06AA",
+      "class_name": "Softeners, emollients",
+      "atc_level": 5
+    }
+  ],
+  "DONEPEZILO": [],
+  "DOXORUBICIN": [
+    {
+      "atc_code": "L01DB",
+      "class_name": "Anthracyclines and related substances",
+      "atc_level": 5
+    }
+  ],
+  "DOXYCYCLINE HYCLATE": [
+    {
+      "atc_code": "A01AB",
+      "class_name": "Antiinfectives and antiseptics for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01AA",
+      "class_name": "Tetracyclines",
+      "atc_level": 5
+    }
+  ],
+  "DULOXETINA": [],
+  "DULOXETINE HYDROCHLORIDE": [
+    {
+      "atc_code": "N06AX",
+      "class_name": "Other antidepressants",
+      "atc_level": 5
+    }
+  ],
+  "DUPIXENT": [
+    {
+      "atc_code": "D11AH",
+      "class_name": "Agents for dermatitis, excluding corticosteroids",
+      "atc_level": 5
+    }
+  ],
+  "DUTASTERIDE": [
+    {
+      "atc_code": "G04CA",
+      "class_name": "Alpha-adrenoreceptor antagonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G04CB",
+      "class_name": "Testosterone-5-alpha reductase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ELIGARD": [
+    {
+      "atc_code": "L02AE",
+      "class_name": "Gonadotropin releasing hormone analogues",
+      "atc_level": 5
+    }
+  ],
+  "ENALAPRIL": [
+    {
+      "atc_code": "C09AA",
+      "class_name": "ACE inhibitors, plain",
+      "atc_level": 5
+    }
+  ],
+  "ENBREL": [
+    {
+      "atc_code": "L04AB",
+      "class_name": "Tumor necrosis factor alpha (TNF-alpha) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ENVARSUS XR": [],
+  "EPLERENONA": [],
+  "ERYTHROMYCIN": [
+    {
+      "atc_code": "D10AF",
+      "class_name": "Antiinfectives for treatment of acne",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01FA",
+      "class_name": "Macrolides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    }
+  ],
+  "ESCITALOPRAM OXALATE": [
+    {
+      "atc_code": "N06AB",
+      "class_name": "Selective serotonin reuptake inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ESOMEPRAZOLE MAGNESIUM": [
+    {
+      "atc_code": "A02BC",
+      "class_name": "Proton pump inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "FARXIGA": [
+    {
+      "atc_code": "A10BK",
+      "class_name": "Sodium-glucose co-transporter 2 (SGLT2) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "FENOFIBRATE": [
+    {
+      "atc_code": "C10BA",
+      "class_name": "Combinations of various lipid modifying agents",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C10AB",
+      "class_name": "Fibrates",
+      "atc_level": 5
+    }
+  ],
+  "FERROUS SULFATE": [
+    {
+      "atc_code": "B03AD",
+      "class_name": "Iron in combination with folic acid",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B03AA",
+      "class_name": "Iron bivalent, oral preparations",
+      "atc_level": 5
+    }
+  ],
+  "FERRUM": [],
+  "FINASTERIDE": [
+    {
+      "atc_code": "D11AX",
+      "class_name": "Other dermatologicals",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G04CB",
+      "class_name": "Testosterone-5-alpha reductase inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G04CB",
+      "class_name": "Testosterone-5-alpha reductase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "FISHOIL": [],
+  "FLOMAX": [
+    {
+      "atc_code": "G04CA",
+      "class_name": "Alpha-adrenoreceptor antagonists",
+      "atc_level": 5
+    }
+  ],
+  "FLONASE ALLERGY RELIEF": [],
+  "FLUOXETINE": [
+    {
+      "atc_code": "N06AB",
+      "class_name": "Selective serotonin reuptake inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "FLUOXETINE HYDROCHLORIDE": [
+    {
+      "atc_code": "N06AB",
+      "class_name": "Selective serotonin reuptake inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "FLUTICASONA": [],
+  "FLUTICASONE PROPIONATE": [
+    {
+      "atc_code": "R03AK",
+      "class_name": "Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AC",
+      "class_name": "Corticosteroids, potent (group III)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AD",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03BA",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    }
+  ],
+  "FOLINIC ACID": [],
+  "FOSAMAX": [
+    {
+      "atc_code": "M05BA",
+      "class_name": "Bisphosphonates",
+      "atc_level": 5
+    }
+  ],
+  "FOSPHENYTOIN": [
+    {
+      "atc_code": "N03AB",
+      "class_name": "Hydantoin derivatives",
+      "atc_level": 5
+    }
+  ],
+  "GENTAMICIN": [
+    {
+      "atc_code": "D06AX",
+      "class_name": "Other antibiotics for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01GB",
+      "class_name": "Other aminoglycosides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S02AA",
+      "class_name": "Antiinfectives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S03AA",
+      "class_name": "Antiinfectives",
+      "atc_level": 5
+    }
+  ],
+  "GLIMEPIRIDE": [
+    {
+      "atc_code": "A10BB",
+      "class_name": "Sulfonylureas",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    }
+  ],
+  "GLIPIZIDE": [
+    {
+      "atc_code": "A10BB",
+      "class_name": "Sulfonylureas",
+      "atc_level": 5
+    }
+  ],
+  "GLUCOPHAGE": [
+    {
+      "atc_code": "A10BA",
+      "class_name": "Biguanides",
+      "atc_level": 5
+    }
+  ],
+  "GLUCOSAMINA": [],
+  "GLYBURIDE": [
+    {
+      "atc_code": "A10BB",
+      "class_name": "Sulfonylureas",
+      "atc_level": 5
+    }
+  ],
+  "GLYCERYL TRINITRATE": [
+    {
+      "atc_code": "C01DA",
+      "class_name": "Organic nitrates",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05AE",
+      "class_name": "Muscle relaxants",
+      "atc_level": 5
+    }
+  ],
+  "GOLD": [],
+  "GOLIMUMAB": [
+    {
+      "atc_code": "L04AB",
+      "class_name": "Tumor necrosis factor alpha (TNF-alpha) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "HEPARIN": [
+    {
+      "atc_code": "B01AB",
+      "class_name": "Heparin group",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05BA",
+      "class_name": "Heparins or heparinoids for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01XA",
+      "class_name": "Other ophthalmologicals",
+      "atc_level": 5
+    }
+  ],
+  "HEPARIN SODIUM": [
+    {
+      "atc_code": "B01AB",
+      "class_name": "Heparin group",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05BA",
+      "class_name": "Heparins or heparinoids for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01XA",
+      "class_name": "Other ophthalmologicals",
+      "atc_level": 5
+    }
+  ],
+  "HUMALOG": [
+    {
+      "atc_code": "A10AB",
+      "class_name": "Insulins and analogues for injection, fast-acting",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10AC",
+      "class_name": "Insulins and analogues for injection, intermediate-acting",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10AD",
+      "class_name": "Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting",
+      "atc_level": 5
+    }
+  ],
+  "HUMIRA": [
+    {
+      "atc_code": "L04AB",
+      "class_name": "Tumor necrosis factor alpha (TNF-alpha) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "HYDRALAZINE": [
+    {
+      "atc_code": "C02DB",
+      "class_name": "Hydrazinophthalazine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "HYDROCORTISONE ACETATE": [
+    {
+      "atc_code": "A01AC",
+      "class_name": "Corticosteroids for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A07EA",
+      "class_name": "Corticosteroids acting locally",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05AA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AA",
+      "class_name": "Corticosteroids, weak (group I)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07XA",
+      "class_name": "Corticosteroids, weak, other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "H02AB",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01BA",
+      "class_name": "Corticosteroids, plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01CB",
+      "class_name": "Corticosteroids/antiinfectives/mydriatics in combination",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S02BA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    }
+  ],
+  "HYDROCORTISONE SODIUM SUCCINATE": [
+    {
+      "atc_code": "A01AC",
+      "class_name": "Corticosteroids for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A07EA",
+      "class_name": "Corticosteroids acting locally",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05AA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AA",
+      "class_name": "Corticosteroids, weak (group I)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07XA",
+      "class_name": "Corticosteroids, weak, other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "H02AB",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01BA",
+      "class_name": "Corticosteroids, plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01CB",
+      "class_name": "Corticosteroids/antiinfectives/mydriatics in combination",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S02BA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    }
+  ],
+  "HYDROMORPHONE": [
+    {
+      "atc_code": "N02AA",
+      "class_name": "Natural opium alkaloids",
+      "atc_level": 5
+    }
+  ],
+  "HYDROXYCHLOROQUINE SULFATE": [
+    {
+      "atc_code": "P01BA",
+      "class_name": "Aminoquinolines",
+      "atc_level": 5
+    }
+  ],
+  "HYDROXYUREA": [
+    {
+      "atc_code": "L01XX",
+      "class_name": "Other antineoplastic agents",
+      "atc_level": 5
+    }
+  ],
+  "HYDROXYZINE": [
+    {
+      "atc_code": "N05BB",
+      "class_name": "Diphenylmethane derivatives",
+      "atc_level": 5
+    }
+  ],
+  "HYDROXYZINE DIHYDROCHLORIDE": [
+    {
+      "atc_code": "N05BB",
+      "class_name": "Diphenylmethane derivatives",
+      "atc_level": 5
+    }
+  ],
+  "ICATIBANT": [
+    {
+      "atc_code": "B06AC",
+      "class_name": "Drugs used in hereditary angioedema",
+      "atc_level": 5
+    }
+  ],
+  "IFOSFAMIDE": [
+    {
+      "atc_code": "L01AA",
+      "class_name": "Nitrogen mustard analogues",
+      "atc_level": 5
+    }
+  ],
+  "IMODIUM": [
+    {
+      "atc_code": "A07DA",
+      "class_name": "Antipropulsives",
+      "atc_level": 5
+    }
+  ],
+  "INFLIXIMAB": [
+    {
+      "atc_code": "L04AB",
+      "class_name": "Tumor necrosis factor alpha (TNF-alpha) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "INSULIN LISPRO": [
+    {
+      "atc_code": "A10AB",
+      "class_name": "Insulins and analogues for injection, fast-acting",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10AC",
+      "class_name": "Insulins and analogues for injection, intermediate-acting",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10AD",
+      "class_name": "Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting",
+      "atc_level": 5
+    }
+  ],
+  "IPRATROPIUM": [
+    {
+      "atc_code": "R01AX",
+      "class_name": "Other nasal preparations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03BB",
+      "class_name": "Anticholinergics",
+      "atc_level": 5
+    }
+  ],
+  "IPRATROPIUM BROMIDE": [
+    {
+      "atc_code": "R01AX",
+      "class_name": "Other nasal preparations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03BB",
+      "class_name": "Anticholinergics",
+      "atc_level": 5
+    }
+  ],
+  "ISMN": [],
+  "ISOSORBIDI DINITRAS": [],
+  "IVABRADINE": [
+    {
+      "atc_code": "C01EB",
+      "class_name": "Other cardiac preparations",
+      "atc_level": 5
+    }
+  ],
+  "JANUVIA": [
+    {
+      "atc_code": "A10BH",
+      "class_name": "Dipeptidyl peptidase 4 (DPP-4) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "JARDIANCE": [
+    {
+      "atc_code": "A10BK",
+      "class_name": "Sodium-glucose co-transporter 2 (SGLT2) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "KETAMINE HYDROCHLORIDE": [
+    {
+      "atc_code": "N01AX",
+      "class_name": "Other general anesthetics",
+      "atc_level": 5
+    }
+  ],
+  "KETOPROFEN": [
+    {
+      "atc_code": "M01AE",
+      "class_name": "Propionic acid derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M02AA",
+      "class_name": "Antiinflammatory preparations, non-steroids for topical use",
+      "atc_level": 5
+    }
+  ],
+  "KEVZARA": [
+    {
+      "atc_code": "L04AC",
+      "class_name": "Interleukin inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "KORTISON": [],
+  "LABETOLOL": [],
+  "LAMICTAL": [
+    {
+      "atc_code": "N03AX",
+      "class_name": "Other antiepileptics",
+      "atc_level": 5
+    }
+  ],
+  "LANTUS SOLOSTAR": [],
+  "LATANOPROST": [
+    {
+      "atc_code": "S01EE",
+      "class_name": "Prostaglandin analogues",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01EE",
+      "class_name": "Prostaglandin analogues",
+      "atc_level": 5
+    }
+  ],
+  "LECITHIN": [],
+  "LERCANIDIPINO": [],
+  "LETAIRIS": [
+    {
+      "atc_code": "C02KX",
+      "class_name": "Antihypertensives for pulmonary arterial hypertension",
+      "atc_level": 5
+    }
+  ],
+  "LEVEMIR": [
+    {
+      "atc_code": "A10AE",
+      "class_name": "Insulins and analogues for injection, long-acting",
+      "atc_level": 5
+    }
+  ],
+  "LIDOCAINE / PRILOCAINE": [
+    {
+      "atc_code": "C01BB",
+      "class_name": "Antiarrhythmics, class Ib",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05AD",
+      "class_name": "Local anesthetics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D04AB",
+      "class_name": "Anesthetics for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N01BB",
+      "class_name": "Amides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R02AD",
+      "class_name": "Anesthetics, local",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01HA",
+      "class_name": "Local anesthetics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S02DA",
+      "class_name": "Analgesics and anesthetics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N01BB",
+      "class_name": "Amides",
+      "atc_level": 5
+    }
+  ],
+  "LIPITOR": [
+    {
+      "atc_code": "C10AA",
+      "class_name": "HMG CoA reductase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "LISINOPRIL": [
+    {
+      "atc_code": "C09AA",
+      "class_name": "ACE inhibitors, plain",
+      "atc_level": 5
+    }
+  ],
+  "LOMOTIL": [
+    {
+      "atc_code": "A03BA",
+      "class_name": "Belladonna alkaloids, tertiary amines",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01FA",
+      "class_name": "Anticholinergics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A07DA",
+      "class_name": "Antipropulsives",
+      "atc_level": 5
+    }
+  ],
+  "LOPERAMIDE": [
+    {
+      "atc_code": "A07DA",
+      "class_name": "Antipropulsives",
+      "atc_level": 5
+    }
+  ],
+  "LORATADINE": [
+    {
+      "atc_code": "R06AX",
+      "class_name": "Other antihistamines for systemic use",
+      "atc_level": 5
+    }
+  ],
+  "LOSARTAN": [
+    {
+      "atc_code": "C09CA",
+      "class_name": "Angiotensin II receptor blockers (ARBs), plain",
+      "atc_level": 5
+    }
+  ],
+  "LOSARTAN POTASSIUM": [
+    {
+      "atc_code": "C09CA",
+      "class_name": "Angiotensin II receptor blockers (ARBs), plain",
+      "atc_level": 5
+    }
+  ],
+  "LYRICA": [
+    {
+      "atc_code": "N02BF",
+      "class_name": "Gabapentinoids",
+      "atc_level": 5
+    }
+  ],
+  "MAGNESIUM SULFATE": [
+    {
+      "atc_code": "A06AD",
+      "class_name": "Osmotically acting laxatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A12CC",
+      "class_name": "Magnesium",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B05XA",
+      "class_name": "Electrolyte solutions",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D11AX",
+      "class_name": "Other dermatologicals",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "V04CC",
+      "class_name": "Tests for bile duct patency",
+      "atc_level": 5
+    }
+  ],
+  "MELATONINA": [],
+  "MELOXICAM": [
+    {
+      "atc_code": "N01BB",
+      "class_name": "Amides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M01AC",
+      "class_name": "Oxicams",
+      "atc_level": 5
+    }
+  ],
+  "MENTHOL/MINERAL OIL/VITAMIN A": [],
+  "MESALAMINE": [
+    {
+      "atc_code": "A07EC",
+      "class_name": "Aminosalicylic acid and similar agents",
+      "atc_level": 5
+    }
+  ],
+  "METFORMIN": [
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BA",
+      "class_name": "Biguanides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    }
+  ],
+  "METHIMAZOLE": [
+    {
+      "atc_code": "H03BB",
+      "class_name": "Sulfur-containing imidazole derivatives",
+      "atc_level": 5
+    }
+  ],
+  "METHOCARBAMOL": [
+    {
+      "atc_code": "M03BA",
+      "class_name": "Carbamic acid esters",
+      "atc_level": 5
+    }
+  ],
+  "METHOTRIMEPRAZINE": [
+    {
+      "atc_code": "N05AA",
+      "class_name": "Phenothiazines with aliphatic side-chain",
+      "atc_level": 5
+    }
+  ],
+  "METHYLPHENIDATE": [
+    {
+      "atc_code": "N06BA",
+      "class_name": "Centrally acting sympathomimetics",
+      "atc_level": 5
+    }
+  ],
+  "METHYLPREDNISOLONE SODIUM SUCCINATE": [
+    {
+      "atc_code": "D07AA",
+      "class_name": "Corticosteroids, weak (group I)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D10AA",
+      "class_name": "Corticosteroids, combinations for treatment of acne",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "H02AB",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    }
+  ],
+  "METOCLOPRAMIDE": [
+    {
+      "atc_code": "A03FA",
+      "class_name": "Propulsives",
+      "atc_level": 5
+    }
+  ],
+  "METOCLOPRAMIDE HYDROCHLORIDE": [
+    {
+      "atc_code": "A03FA",
+      "class_name": "Propulsives",
+      "atc_level": 5
+    }
+  ],
+  "METOLAZONE": [
+    {
+      "atc_code": "C03BA",
+      "class_name": "Sulfonamides, plain",
+      "atc_level": 5
+    }
+  ],
+  "METOPROLOL SUCCINATE": [
+    {
+      "atc_code": "C07AB",
+      "class_name": "Beta blocking agents, selective",
+      "atc_level": 5
+    }
+  ],
+  "METOPROLOL TARTRATE": [
+    {
+      "atc_code": "C07AB",
+      "class_name": "Beta blocking agents, selective",
+      "atc_level": 5
+    }
+  ],
+  "MICAFUNGIN": [
+    {
+      "atc_code": "J02AX",
+      "class_name": "Other antimycotics for systemic use",
+      "atc_level": 5
+    }
+  ],
+  "MIDODRINE": [
+    {
+      "atc_code": "C01CA",
+      "class_name": "Adrenergic and dopaminergic agents",
+      "atc_level": 5
+    }
+  ],
+  "MIDODRINE HYDROCHLORIDE": [
+    {
+      "atc_code": "C01CA",
+      "class_name": "Adrenergic and dopaminergic agents",
+      "atc_level": 5
+    }
+  ],
+  "MIRABEGRON": [
+    {
+      "atc_code": "G04BD",
+      "class_name": "Drugs for urinary frequency and incontinence",
+      "atc_level": 5
+    }
+  ],
+  "MIRALAX": [],
+  "MOMETASONE FUROATE": [
+    {
+      "atc_code": "R03AK",
+      "class_name": "Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AC",
+      "class_name": "Corticosteroids, potent (group III)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07XC",
+      "class_name": "Corticosteroids, potent, other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AD",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03BA",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    }
+  ],
+  "MONTELUKAST": [
+    {
+      "atc_code": "R03DC",
+      "class_name": "Leukotriene receptor antagonists",
+      "atc_level": 5
+    }
+  ],
+  "MONTELUKAST SODIUM": [
+    {
+      "atc_code": "R03DC",
+      "class_name": "Leukotriene receptor antagonists",
+      "atc_level": 5
+    }
+  ],
+  "MOUNJARO": [
+    {
+      "atc_code": "A10BX",
+      "class_name": "Other blood glucose lowering drugs, excl. insulins",
+      "atc_level": 5
+    }
+  ],
+  "MUCINEX": [
+    {
+      "atc_code": "R05CA",
+      "class_name": "Expectorants",
+      "atc_level": 5
+    }
+  ],
+  "MYRBETRIQ": [
+    {
+      "atc_code": "G04BD",
+      "class_name": "Drugs for urinary frequency and incontinence",
+      "atc_level": 5
+    }
+  ],
+  "NAPROXEN SODIUM": [
+    {
+      "atc_code": "M01AE",
+      "class_name": "Propionic acid derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G02CC",
+      "class_name": "Antiinflammatory products for vaginal administration",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M01AE",
+      "class_name": "Propionic acid derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "M02AA",
+      "class_name": "Antiinflammatory preparations, non-steroids for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02CC",
+      "class_name": "Selective serotonin (5HT1) agonists",
+      "atc_level": 5
+    }
+  ],
+  "NEBIVOLOL": [
+    {
+      "atc_code": "C09DX",
+      "class_name": "Angiotensin II receptor blockers (ARBs), other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C07AB",
+      "class_name": "Beta blocking agents, selective",
+      "atc_level": 5
+    }
+  ],
+  "NEUPRO": [
+    {
+      "atc_code": "N04BC",
+      "class_name": "Dopamine agonists",
+      "atc_level": 5
+    }
+  ],
+  "NEXIUM": [
+    {
+      "atc_code": "A02BC",
+      "class_name": "Proton pump inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "NICOTINE": [
+    {
+      "atc_code": "N07BA",
+      "class_name": "Drugs used in nicotine dependence",
+      "atc_level": 5
+    }
+  ],
+  "NIFEDIPINE": [
+    {
+      "atc_code": "C07FB",
+      "class_name": "Beta blocking agents and calcium channel blockers",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C08CA",
+      "class_name": "Dihydropyridine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "NOURIANZ": [
+    {
+      "atc_code": "N04CX",
+      "class_name": "Other antiparkinson drugs",
+      "atc_level": 5
+    }
+  ],
+  "NOVOLOG": [
+    {
+      "atc_code": "A10AB",
+      "class_name": "Insulins and analogues for injection, fast-acting",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10AD",
+      "class_name": "Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting",
+      "atc_level": 5
+    }
+  ],
+  "NUCALA": [
+    {
+      "atc_code": "R03DX",
+      "class_name": "Other systemic drugs for obstructive airway diseases",
+      "atc_level": 5
+    }
+  ],
+  "NYSTATIN": [
+    {
+      "atc_code": "J01RA",
+      "class_name": "Combinations of antibacterials",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A07AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D01AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G01AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    }
+  ],
+  "OCREVUS": [
+    {
+      "atc_code": "L04AG",
+      "class_name": "Monoclonal antibodies",
+      "atc_level": 5
+    }
+  ],
+  "OFEV": [
+    {
+      "atc_code": "L01EX",
+      "class_name": "Other protein kinase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ONDANSETRON HYDROCHLORIDE": [
+    {
+      "atc_code": "A04AA",
+      "class_name": "Serotonin (5HT3) antagonists",
+      "atc_level": 5
+    }
+  ],
+  "OPSUMIT": [
+    {
+      "atc_code": "C02KX",
+      "class_name": "Antihypertensives for pulmonary arterial hypertension",
+      "atc_level": 5
+    }
+  ],
+  "ORENCIA": [
+    {
+      "atc_code": "L04AA",
+      "class_name": "Selective immunosuppressants",
+      "atc_level": 5
+    }
+  ],
+  "ORENITRAM": [
+    {
+      "atc_code": "B01AC",
+      "class_name": "Platelet aggregation inhibitors excl. heparin",
+      "atc_level": 5
+    }
+  ],
+  "OTEZLA": [
+    {
+      "atc_code": "L04AA",
+      "class_name": "Selective immunosuppressants",
+      "atc_level": 5
+    }
+  ],
+  "OXYBUTYNIN": [
+    {
+      "atc_code": "G04BD",
+      "class_name": "Drugs for urinary frequency and incontinence",
+      "atc_level": 5
+    }
+  ],
+  "OXYCONTIN": [
+    {
+      "atc_code": "N02AA",
+      "class_name": "Natural opium alkaloids",
+      "atc_level": 5
+    }
+  ],
+  "OXYGEN": [
+    {
+      "atc_code": "V03AN",
+      "class_name": "Medical gases",
+      "atc_level": 5
+    }
+  ],
+  "OZEMPIC": [
+    {
+      "atc_code": "A10BJ",
+      "class_name": "Glucagon-like peptide-1 (GLP-1) analogues",
+      "atc_level": 5
+    }
+  ],
+  "PAROXETINE": [
+    {
+      "atc_code": "N06AB",
+      "class_name": "Selective serotonin reuptake inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "PEPCID": [
+    {
+      "atc_code": "A02BA",
+      "class_name": "H2-receptor antagonists",
+      "atc_level": 5
+    }
+  ],
+  "PHENOBARBITAL": [
+    {
+      "atc_code": "N03AA",
+      "class_name": "Barbiturates and derivatives",
+      "atc_level": 5
+    }
+  ],
+  "PHENYLEPHRINE": [
+    {
+      "atc_code": "S01FB",
+      "class_name": "Sympathomimetics excl. antiglaucoma preparations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C01CA",
+      "class_name": "Adrenergic and dopaminergic agents",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05AX",
+      "class_name": "Other agents for treatment of hemorrhoids and anal fissures for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AA",
+      "class_name": "Sympathomimetics, plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AB",
+      "class_name": "Sympathomimetics, combinations excl. corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01BA",
+      "class_name": "Sympathomimetics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01FB",
+      "class_name": "Sympathomimetics excl. antiglaucoma preparations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01GA",
+      "class_name": "Sympathomimetics used as decongestants",
+      "atc_level": 5
+    }
+  ],
+  "PHENYLEPHRINE HYDROCHLORIDE": [
+    {
+      "atc_code": "C01CA",
+      "class_name": "Adrenergic and dopaminergic agents",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05AX",
+      "class_name": "Other agents for treatment of hemorrhoids and anal fissures for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AA",
+      "class_name": "Sympathomimetics, plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AB",
+      "class_name": "Sympathomimetics, combinations excl. corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01BA",
+      "class_name": "Sympathomimetics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01FB",
+      "class_name": "Sympathomimetics excl. antiglaucoma preparations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01GA",
+      "class_name": "Sympathomimetics used as decongestants",
+      "atc_level": 5
+    }
+  ],
+  "PHENYTOIN": [
+    {
+      "atc_code": "N03AB",
+      "class_name": "Hydantoin derivatives",
+      "atc_level": 5
+    }
+  ],
+  "PHLOROGLUCINOL": [
+    {
+      "atc_code": "A03AX",
+      "class_name": "Other drugs for functional gastrointestinal disorders",
+      "atc_level": 5
+    }
+  ],
+  "PHTHALYLSULFATHIAZOLE": [
+    {
+      "atc_code": "A07AB",
+      "class_name": "Sulfonamides",
+      "atc_level": 5
+    }
+  ],
+  "PLAQUENIL": [
+    {
+      "atc_code": "P01BA",
+      "class_name": "Aminoquinolines",
+      "atc_level": 5
+    }
+  ],
+  "PLAVIX": [
+    {
+      "atc_code": "B01AC",
+      "class_name": "Platelet aggregation inhibitors excl. heparin",
+      "atc_level": 5
+    }
+  ],
+  "POLOXAMER": [],
+  "POLYETHYLENE GLYCOL 3350": [],
+  "POLYETHYLENE GLYCOL 4000": [],
+  "POTASSIUM": [
+    {
+      "atc_code": "C03CB",
+      "class_name": "Sulfonamides and potassium in combination",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C03CB",
+      "class_name": "Sulfonamides and potassium in combination",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C03AB",
+      "class_name": "Thiazides and potassium in combination",
+      "atc_level": 5
+    }
+  ],
+  "PRAVASTATIN SODIUM": [
+    {
+      "atc_code": "C10AA",
+      "class_name": "HMG CoA reductase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "PROAIR": [
+    {
+      "atc_code": "R03AC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03CC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    }
+  ],
+  "PROCHLORPERAZINE": [
+    {
+      "atc_code": "N05AB",
+      "class_name": "Phenothiazines with piperazine structure",
+      "atc_level": 5
+    }
+  ],
+  "PROMETHAZINE": [
+    {
+      "atc_code": "D04AA",
+      "class_name": "Antihistamines for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R06AD",
+      "class_name": "Phenothiazine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "PROMETHAZINE HYDROCHLORIDE": [
+    {
+      "atc_code": "D04AA",
+      "class_name": "Antihistamines for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R06AD",
+      "class_name": "Phenothiazine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "PROPRANOLOL": [
+    {
+      "atc_code": "C07AA",
+      "class_name": "Beta blocking agents, non-selective",
+      "atc_level": 5
+    }
+  ],
+  "PROTONIX": [
+    {
+      "atc_code": "A02BC",
+      "class_name": "Proton pump inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "PSEUDOEPHEDRINE HYDROCHLORIDE": [
+    {
+      "atc_code": "R01BA",
+      "class_name": "Sympathomimetics",
+      "atc_level": 5
+    }
+  ],
+  "PYRIDOXINE": [
+    {
+      "atc_code": "A11HA",
+      "class_name": "Other plain vitamin preparations",
+      "atc_level": 5
+    }
+  ],
+  "QUETIAPINE": [
+    {
+      "atc_code": "N05AH",
+      "class_name": "Diazepines, oxazepines, thiazepines and oxepines",
+      "atc_level": 5
+    }
+  ],
+  "RABEPRAZOLE": [
+    {
+      "atc_code": "A02BC",
+      "class_name": "Proton pump inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "RANITIDINA": [],
+  "REMICADE": [
+    {
+      "atc_code": "L04AB",
+      "class_name": "Tumor necrosis factor alpha (TNF-alpha) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "REMODULIN": [
+    {
+      "atc_code": "B01AC",
+      "class_name": "Platelet aggregation inhibitors excl. heparin",
+      "atc_level": 5
+    }
+  ],
+  "REPAGLINIDE": [
+    {
+      "atc_code": "A10BX",
+      "class_name": "Other blood glucose lowering drugs, excl. insulins",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A10BD",
+      "class_name": "Combinations of oral blood glucose lowering drugs",
+      "atc_level": 5
+    }
+  ],
+  "RETINOL": [],
+  "REVATIO": [
+    {
+      "atc_code": "G04BE",
+      "class_name": "Drugs used in erectile dysfunction",
+      "atc_level": 5
+    }
+  ],
+  "RISEDRONATE SODIUM": [],
+  "RITONAVIR": [
+    {
+      "atc_code": "J05AP",
+      "class_name": "Antivirals for treatment of HCV infections",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J05AP",
+      "class_name": "Antivirals for treatment of HCV infections",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J05AR",
+      "class_name": "Antivirals for treatment of HIV infections, combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J05AE",
+      "class_name": "Protease inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "RIVOTRIL": [],
+  "ROCURONIUM": [
+    {
+      "atc_code": "M03AC",
+      "class_name": "Other quaternary ammonium compounds",
+      "atc_level": 5
+    }
+  ],
+  "ROSUVASTATIN": [
+    {
+      "atc_code": "C10BA",
+      "class_name": "Combinations of various lipid modifying agents",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C10AA",
+      "class_name": "HMG CoA reductase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ROSUVASTATIN CALCIUM": [
+    {
+      "atc_code": "C10AA",
+      "class_name": "HMG CoA reductase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "RUXOLITINIB": [
+    {
+      "atc_code": "D11AH",
+      "class_name": "Agents for dermatitis, excluding corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "L01EJ",
+      "class_name": "Janus-associated kinase (JAK) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "RYBELSUS": [
+    {
+      "atc_code": "A10BJ",
+      "class_name": "Glucagon-like peptide-1 (GLP-1) analogues",
+      "atc_level": 5
+    }
+  ],
+  "SEMAGLUTIDE": [
+    {
+      "atc_code": "A10BJ",
+      "class_name": "Glucagon-like peptide-1 (GLP-1) analogues",
+      "atc_level": 5
+    }
+  ],
+  "SENNOSIDES": [],
+  "SERTRALINE": [
+    {
+      "atc_code": "N06AB",
+      "class_name": "Selective serotonin reuptake inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "SEVOFLURANE": [
+    {
+      "atc_code": "N01AB",
+      "class_name": "Halogenated hydrocarbons",
+      "atc_level": 5
+    }
+  ],
+  "SILDENAFIL CITRATE": [
+    {
+      "atc_code": "G04BE",
+      "class_name": "Drugs used in erectile dysfunction",
+      "atc_level": 5
+    }
+  ],
+  "SILDENAFILO": [],
+  "SIMPONI": [
+    {
+      "atc_code": "L04AB",
+      "class_name": "Tumor necrosis factor alpha (TNF-alpha) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "SIMVASTATIN": [
+    {
+      "atc_code": "A10BH",
+      "class_name": "Dipeptidyl peptidase 4 (DPP-4) inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C10BA",
+      "class_name": "Combinations of various lipid modifying agents",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C10AA",
+      "class_name": "HMG CoA reductase inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C10BA",
+      "class_name": "Combinations of various lipid modifying agents",
+      "atc_level": 5
+    }
+  ],
+  "SINGULAIR": [
+    {
+      "atc_code": "R03DC",
+      "class_name": "Leukotriene receptor antagonists",
+      "atc_level": 5
+    }
+  ],
+  "SIROLIMUS": [
+    {
+      "atc_code": "L01EG",
+      "class_name": "Mammalian target of rapamycin (mTOR) kinase inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "L04AH",
+      "class_name": "Mammalian target of rapamycin (mTOR) kinase inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01XA",
+      "class_name": "Other ophthalmologicals",
+      "atc_level": 5
+    }
+  ],
+  "SODIUM BICARBONATE": [
+    {
+      "atc_code": "B05CB",
+      "class_name": "Salt solutions",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B05XA",
+      "class_name": "Electrolyte solutions",
+      "atc_level": 5
+    }
+  ],
+  "SOLU-MEDROL": [
+    {
+      "atc_code": "D07AA",
+      "class_name": "Corticosteroids, weak (group I)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D10AA",
+      "class_name": "Corticosteroids, combinations for treatment of acne",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "H02AB",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    }
+  ],
+  "SOTATERCEPT": [
+    {
+      "atc_code": "C02KX",
+      "class_name": "Antihypertensives for pulmonary arterial hypertension",
+      "atc_level": 5
+    }
+  ],
+  "SPIRIVA": [
+    {
+      "atc_code": "R03BB",
+      "class_name": "Anticholinergics",
+      "atc_level": 5
+    }
+  ],
+  "SPIRIVA RESPIMAT": [],
+  "STELARA": [
+    {
+      "atc_code": "L04AC",
+      "class_name": "Interleukin inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "SULFAMETHOXAZOLE": [
+    {
+      "atc_code": "J01EC",
+      "class_name": "Intermediate-acting sulfonamides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01EE",
+      "class_name": "Combinations of sulfonamides and trimethoprim, incl. derivatives",
+      "atc_level": 5
+    }
+  ],
+  "SULFASALAZINE": [
+    {
+      "atc_code": "A07EC",
+      "class_name": "Aminosalicylic acid and similar agents",
+      "atc_level": 5
+    }
+  ],
+  "SYMBICORT": [
+    {
+      "atc_code": "A07EA",
+      "class_name": "Corticosteroids acting locally",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AC",
+      "class_name": "Corticosteroids, potent (group III)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AD",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03BA",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03AC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03CC",
+      "class_name": "Selective beta-2-adrenoreceptor agonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03AK",
+      "class_name": "Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics",
+      "atc_level": 5
+    }
+  ],
+  "SYNTHROID": [
+    {
+      "atc_code": "H03AA",
+      "class_name": "Thyroid hormones",
+      "atc_level": 5
+    }
+  ],
+  "TADALAFIL": [
+    {
+      "atc_code": "G04CB",
+      "class_name": "Testosterone-5-alpha reductase inhibitors",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C02KX",
+      "class_name": "Antihypertensives for pulmonary arterial hypertension",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G04BE",
+      "class_name": "Drugs used in erectile dysfunction",
+      "atc_level": 5
+    }
+  ],
+  "TAFASITAMAB": [
+    {
+      "atc_code": "L01FX",
+      "class_name": "Other monoclonal antibodies and antibody drug conjugates",
+      "atc_level": 5
+    }
+  ],
+  "TALTZ": [
+    {
+      "atc_code": "L04AC",
+      "class_name": "Interleukin inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "TAMSULOSIN": [
+    {
+      "atc_code": "G04CA",
+      "class_name": "Alpha-adrenoreceptor antagonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G04CA",
+      "class_name": "Alpha-adrenoreceptor antagonists",
+      "atc_level": 5
+    }
+  ],
+  "TAMSULOSIN HYDROCHLORIDE": [
+    {
+      "atc_code": "G04CA",
+      "class_name": "Alpha-adrenoreceptor antagonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "G04CA",
+      "class_name": "Alpha-adrenoreceptor antagonists",
+      "atc_level": 5
+    }
+  ],
+  "TAVNEOS": [
+    {
+      "atc_code": "L04AJ",
+      "class_name": "Complement inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "TEICOPLANIN": [
+    {
+      "atc_code": "J01XA",
+      "class_name": "Glycopeptide antibacterials",
+      "atc_level": 5
+    }
+  ],
+  "TELMISARTAN": [
+    {
+      "atc_code": "C09CA",
+      "class_name": "Angiotensin II receptor blockers (ARBs), plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09DB",
+      "class_name": "Angiotensin II receptor blockers (ARBs) and calcium channel blockers",
+      "atc_level": 5
+    }
+  ],
+  "THIAMINE": [
+    {
+      "atc_code": "A11DA",
+      "class_name": "Vitamin B1, plain",
+      "atc_level": 5
+    }
+  ],
+  "THIOTEPA": [
+    {
+      "atc_code": "L01AC",
+      "class_name": "Ethylene imines",
+      "atc_level": 5
+    }
+  ],
+  "TIGECYCLINE": [
+    {
+      "atc_code": "J01AA",
+      "class_name": "Tetracyclines",
+      "atc_level": 5
+    }
+  ],
+  "TIRAGOLUMAB": [],
+  "TIZANIDINE": [
+    {
+      "atc_code": "M03BX",
+      "class_name": "Other centrally acting agents",
+      "atc_level": 5
+    }
+  ],
+  "TOCILIZUMAB": [
+    {
+      "atc_code": "L04AC",
+      "class_name": "Interleukin inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "TOFACITINIB": [
+    {
+      "atc_code": "L04AF",
+      "class_name": "Janus-associated kinase (JAK) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "TOFACITINIB CITRATE": [
+    {
+      "atc_code": "L04AF",
+      "class_name": "Janus-associated kinase (JAK) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "TOLVAPTAN": [
+    {
+      "atc_code": "C03XA",
+      "class_name": "Vasopressin antagonists",
+      "atc_level": 5
+    }
+  ],
+  "TOPIRAMATE": [
+    {
+      "atc_code": "A08AA",
+      "class_name": "Centrally acting antiobesity products",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N03AX",
+      "class_name": "Other antiepileptics",
+      "atc_level": 5
+    }
+  ],
+  "TOUJEO": [
+    {
+      "atc_code": "A10AE",
+      "class_name": "Insulins and analogues for injection, long-acting",
+      "atc_level": 5
+    }
+  ],
+  "TRANEXAMIC ACID": [
+    {
+      "atc_code": "B02AA",
+      "class_name": "Amino acids",
+      "atc_level": 5
+    }
+  ],
+  "TRAZODONE": [
+    {
+      "atc_code": "N06AX",
+      "class_name": "Other antidepressants",
+      "atc_level": 5
+    }
+  ],
+  "TRAZODONE HYDROCHLORIDE": [
+    {
+      "atc_code": "N06AX",
+      "class_name": "Other antidepressants",
+      "atc_level": 5
+    }
+  ],
+  "TREMFYA": [
+    {
+      "atc_code": "L04AC",
+      "class_name": "Interleukin inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "TREPROSTINIL": [
+    {
+      "atc_code": "B01AC",
+      "class_name": "Platelet aggregation inhibitors excl. heparin",
+      "atc_level": 5
+    }
+  ],
+  "TREPROSTINIL SODIUM": [
+    {
+      "atc_code": "B01AC",
+      "class_name": "Platelet aggregation inhibitors excl. heparin",
+      "atc_level": 5
+    }
+  ],
+  "TRESIBA": [
+    {
+      "atc_code": "A10AE",
+      "class_name": "Insulins and analogues for injection, long-acting",
+      "atc_level": 5
+    }
+  ],
+  "TRIAMCINOLONE": [
+    {
+      "atc_code": "A01AC",
+      "class_name": "Corticosteroids for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05AA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AB",
+      "class_name": "Corticosteroids, moderately potent (group II)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07XB",
+      "class_name": "Corticosteroids, moderately potent, other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "H02AB",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AD",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03BA",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01BA",
+      "class_name": "Corticosteroids, plain",
+      "atc_level": 5
+    }
+  ],
+  "TRIAMCINOLONE ACETONIDE": [
+    {
+      "atc_code": "A01AC",
+      "class_name": "Corticosteroids for local oral treatment",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C05AA",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07AB",
+      "class_name": "Corticosteroids, moderately potent (group II)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07XB",
+      "class_name": "Corticosteroids, moderately potent, other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "H02AB",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R01AD",
+      "class_name": "Corticosteroids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R03BA",
+      "class_name": "Glucocorticoids",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01BA",
+      "class_name": "Corticosteroids, plain",
+      "atc_level": 5
+    }
+  ],
+  "TRIKAFTA": [],
+  "TRIMEPRAZINE": [
+    {
+      "atc_code": "R06AD",
+      "class_name": "Phenothiazine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "TRULICITY": [
+    {
+      "atc_code": "A10BJ",
+      "class_name": "Glucagon-like peptide-1 (GLP-1) analogues",
+      "atc_level": 5
+    }
+  ],
+  "TUMS": [
+    {
+      "atc_code": "A02AC",
+      "class_name": "Calcium compounds",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A12AA",
+      "class_name": "Calcium",
+      "atc_level": 5
+    }
+  ],
+  "TYLENOL": [
+    {
+      "atc_code": "N02BE",
+      "class_name": "Anilides",
+      "atc_level": 5
+    }
+  ],
+  "TYLENOL EXTRA STRENGTH": [],
+  "TYVASO": [
+    {
+      "atc_code": "B01AC",
+      "class_name": "Platelet aggregation inhibitors excl. heparin",
+      "atc_level": 5
+    }
+  ],
+  "TYVASO DPI": [],
+  "UPTRAVI": [
+    {
+      "atc_code": "B01AC",
+      "class_name": "Platelet aggregation inhibitors excl. heparin",
+      "atc_level": 5
+    }
+  ],
+  "URSADIOL 300 MG ORAL CAPSULE [URSODIOL]": [],
+  "USTEKINUMAB": [
+    {
+      "atc_code": "L04AC",
+      "class_name": "Interleukin inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "VALACICLOVIR": [],
+  "VALGANCICLOVIR": [
+    {
+      "atc_code": "J05AB",
+      "class_name": "Nucleosides and nucleotides excl. reverse transcriptase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "VALGANCICLOVIR HYDROCHLORIDE": [
+    {
+      "atc_code": "J05AB",
+      "class_name": "Nucleosides and nucleotides excl. reverse transcriptase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "VALSARTAN": [
+    {
+      "atc_code": "C09DX",
+      "class_name": "Angiotensin II receptor blockers (ARBs), other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09DX",
+      "class_name": "Angiotensin II receptor blockers (ARBs), other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09CA",
+      "class_name": "Angiotensin II receptor blockers (ARBs), plain",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09DB",
+      "class_name": "Angiotensin II receptor blockers (ARBs) and calcium channel blockers",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09DX",
+      "class_name": "Angiotensin II receptor blockers (ARBs), other combinations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "C09DX",
+      "class_name": "Angiotensin II receptor blockers (ARBs), other combinations",
+      "atc_level": 5
+    }
+  ],
+  "VANCOMYCIN HYDROCHLORIDE": [
+    {
+      "atc_code": "A07AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J01XA",
+      "class_name": "Glycopeptide antibacterials",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01AA",
+      "class_name": "Antibiotics",
+      "atc_level": 5
+    }
+  ],
+  "VENLAFAXINE": [
+    {
+      "atc_code": "N06AX",
+      "class_name": "Other antidepressants",
+      "atc_level": 5
+    }
+  ],
+  "VENLAFAXINE HYDROCHLORIDE": [
+    {
+      "atc_code": "N06AX",
+      "class_name": "Other antidepressants",
+      "atc_level": 5
+    }
+  ],
+  "VICTOZA": [
+    {
+      "atc_code": "A10BJ",
+      "class_name": "Glucagon-like peptide-1 (GLP-1) analogues",
+      "atc_level": 5
+    }
+  ],
+  "VIDAZA": [
+    {
+      "atc_code": "L01BC",
+      "class_name": "Pyrimidine analogues",
+      "atc_level": 5
+    }
+  ],
+  "VIMPAT": [
+    {
+      "atc_code": "N03AX",
+      "class_name": "Other antiepileptics",
+      "atc_level": 5
+    }
+  ],
+  "VITAMIN B COMPLEX": [],
+  "VITAMIN D NOS": [],
+  "VITAMIN D2": [
+    {
+      "atc_code": "A11CC",
+      "class_name": "Vitamin D and analogues",
+      "atc_level": 5
+    }
+  ],
+  "VITAMIN D3": [],
+  "VITAMINS": [],
+  "VOLTARENE": [],
+  "VYALEV": [
+    {
+      "atc_code": "N04BA",
+      "class_name": "Dopa and dopa derivatives",
+      "atc_level": 5
+    }
+  ],
+  "VYXEOS": [
+    {
+      "atc_code": "L01XY",
+      "class_name": "Combinations of antineoplastic agents",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "L01BC",
+      "class_name": "Pyrimidine analogues",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "L01DB",
+      "class_name": "Anthracyclines and related substances",
+      "atc_level": 5
+    }
+  ],
+  "WARFARIN": [
+    {
+      "atc_code": "B01AA",
+      "class_name": "Vitamin K antagonists",
+      "atc_level": 5
+    }
+  ],
+  "WARFARIN SODIUM": [
+    {
+      "atc_code": "B01AA",
+      "class_name": "Vitamin K antagonists",
+      "atc_level": 5
+    }
+  ],
+  "WINREVAIR": [
+    {
+      "atc_code": "C02KX",
+      "class_name": "Antihypertensives for pulmonary arterial hypertension",
+      "atc_level": 5
+    }
+  ],
+  "XANAX": [
+    {
+      "atc_code": "N05BA",
+      "class_name": "Benzodiazepine derivatives",
+      "atc_level": 5
+    }
+  ],
+  "XARELTO": [
+    {
+      "atc_code": "B01AF",
+      "class_name": "Direct factor Xa inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "XCOPRI": [
+    {
+      "atc_code": "N03AX",
+      "class_name": "Other antiepileptics",
+      "atc_level": 5
+    }
+  ],
+  "XELJANZ": [
+    {
+      "atc_code": "L04AF",
+      "class_name": "Janus-associated kinase (JAK) inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ZINCUM METALLICUM": [],
+  "ZOFRAN": [],
+  "ZOLEDRONIC ACID": [
+    {
+      "atc_code": "M05BA",
+      "class_name": "Bisphosphonates",
+      "atc_level": 5
+    }
+  ],
+  "ZUCLOPENTHIXOL": [
+    {
+      "atc_code": "N05AF",
+      "class_name": "Thioxanthene derivatives",
+      "atc_level": 5
+    }
+  ],
+  "ZYRTEC": [
+    {
+      "atc_code": "R06AE",
+      "class_name": "Piperazine derivatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01GX",
+      "class_name": "Other antiallergics",
+      "atc_level": 5
+    }
+  ],
+  "MENTHOL": [],
+  "MINERAL OIL": [
+    {
+      "atc_code": "A06AA",
+      "class_name": "Softeners, emollients",
+      "atc_level": 5
+    }
+  ],
+  "CLONIDINE HYDROCHLORIDE": [
+    {
+      "atc_code": "C02AC",
+      "class_name": "Imidazoline receptor agonists",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "N02CX",
+      "class_name": "Other antimigraine preparations",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "S01EA",
+      "class_name": "Sympathomimetics in glaucoma therapy",
+      "atc_level": 5
+    }
+  ],
+  "CYCLOBENZAPRINE HYDROCHLORIDE": [
+    {
+      "atc_code": "M03BX",
+      "class_name": "Other centrally acting agents",
+      "atc_level": 5
+    }
+  ],
+  "DOCUSATE": [
+    {
+      "atc_code": "A06AA",
+      "class_name": "Softeners, emollients",
+      "atc_level": 5
+    }
+  ],
+  "DOMPERIDONE MALEATE": [
+    {
+      "atc_code": "A03FA",
+      "class_name": "Propulsives",
+      "atc_level": 5
+    }
+  ],
+  "ENTECAVIR": [
+    {
+      "atc_code": "J05AF",
+      "class_name": "Nucleoside and nucleotide reverse transcriptase inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "ENTYVIO": [
+    {
+      "atc_code": "L04AG",
+      "class_name": "Monoclonal antibodies",
+      "atc_level": 5
+    }
+  ],
+  "FLUMETHASONE PIVALATE": [
+    {
+      "atc_code": "D07AB",
+      "class_name": "Corticosteroids, moderately potent (group II)",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "D07XB",
+      "class_name": "Corticosteroids, moderately potent, other combinations",
+      "atc_level": 5
+    }
+  ],
+  "GRANISETRON": [
+    {
+      "atc_code": "A04AA",
+      "class_name": "Serotonin (5HT3) antagonists",
+      "atc_level": 5
+    }
+  ],
+  "ISONIAZID": [
+    {
+      "atc_code": "J04AM",
+      "class_name": "Combinations of drugs for treatment of tuberculosis",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J04AM",
+      "class_name": "Combinations of drugs for treatment of tuberculosis",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J04AC",
+      "class_name": "Hydrazides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J04AM",
+      "class_name": "Combinations of drugs for treatment of tuberculosis",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "J04AM",
+      "class_name": "Combinations of drugs for treatment of tuberculosis",
+      "atc_level": 5
+    }
+  ],
+  "MAGNESIUM CITRATE": [
+    {
+      "atc_code": "A06AD",
+      "class_name": "Osmotically acting laxatives",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "A12CC",
+      "class_name": "Magnesium",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "B05CB",
+      "class_name": "Salt solutions",
+      "atc_level": 5
+    }
+  ],
+  "NUPLAZID": [
+    {
+      "atc_code": "N05AX",
+      "class_name": "Other antipsychotics",
+      "atc_level": 5
+    }
+  ],
+  "OMALIZUMAB": [
+    {
+      "atc_code": "R03DX",
+      "class_name": "Other systemic drugs for obstructive airway diseases",
+      "atc_level": 5
+    }
+  ],
+  "OXYCODONE TEREPHTHALATE": [
+    {
+      "atc_code": "N02AA",
+      "class_name": "Natural opium alkaloids",
+      "atc_level": 5
+    }
+  ],
+  "PAROXETINE HYDROCHLORIDE": [
+    {
+      "atc_code": "N06AB",
+      "class_name": "Selective serotonin reuptake inhibitors",
+      "atc_level": 5
+    }
+  ],
+  "PEGFILGRASTIM": [
+    {
+      "atc_code": "L03AA",
+      "class_name": "Colony stimulating factors",
+      "atc_level": 5
+    }
+  ],
+  "PIRIDOSTIGMINA": [],
+  "POMALYST": [
+    {
+      "atc_code": "L04AX",
+      "class_name": "Other immunosuppressants",
+      "atc_level": 5
+    }
+  ],
+  "PULMICORT TURBUHALER": [],
+  "REVLIMID": [
+    {
+      "atc_code": "L04AX",
+      "class_name": "Other immunosuppressants",
+      "atc_level": 5
+    }
+  ],
+  "RIVASTIGMINE": [
+    {
+      "atc_code": "N06DA",
+      "class_name": "Anticholinesterases",
+      "atc_level": 5
+    }
+  ],
+  "SEROQUEL": [
+    {
+      "atc_code": "N05AH",
+      "class_name": "Diazepines, oxazepines, thiazepines and oxepines",
+      "atc_level": 5
+    }
+  ],
+  "STERILE WATER": [],
+  "SUCRALFATE": [
+    {
+      "atc_code": "A02BX",
+      "class_name": "Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)",
+      "atc_level": 5
+    }
+  ],
+  "VENTOLIN HFA": [],
+  "VYNDAMAX": [
+    {
+      "atc_code": "N07XX",
+      "class_name": "Other nervous system drugs",
+      "atc_level": 5
+    }
+  ],
+  "ZOLPIDEM TARTRATE": [
+    {
+      "atc_code": "N05CF",
+      "class_name": "Benzodiazepine related drugs",
+      "atc_level": 5
+    }
+  ],
+  "BENADRYL": [
+    {
+      "atc_code": "D04AA",
+      "class_name": "Antihistamines for topical use",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R06AA",
+      "class_name": "Aminoalkyl ethers",
+      "atc_level": 5
+    }
+  ],
+  "DOXAZOSINA": [],
+  "LETERMOVIR": [
+    {
+      "atc_code": "J05AX",
+      "class_name": "Other antivirals",
+      "atc_level": 5
+    }
+  ],
+  "NORCO": [
+    {
+      "atc_code": "N02BE",
+      "class_name": "Anilides",
+      "atc_level": 5
+    },
+    {
+      "atc_code": "R05DA",
+      "class_name": "Opium alkaloids and derivatives",
+      "atc_level": 5
+    }
+  ],
+  "PENTAMIDINA": [],
+  "ZETIA": [
+    {
+      "atc_code": "C10AX",
+      "class_name": "Other lipid modifying agents",
+      "atc_level": 5
+    }
+  ],
+  "MINOCICLINA": []
+}

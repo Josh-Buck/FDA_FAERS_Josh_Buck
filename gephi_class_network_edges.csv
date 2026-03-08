@@ -1,0 +1,75 @@
+Source,Target,Weight,DDI_COUNT,AVG_ROR,MAX_ROR,Type,Label
+Alimentary/Metabolism,Immunosuppressant,12,12,7.59,8.61,Undirected,Alimentary/Metabolism <-> Immunosuppressant
+Immunosuppressant,Respiratory (Other),12,12,7.78,8.55,Undirected,Immunosuppressant <-> Respiratory (Other)
+Corticosteroid,Immunosuppressant,8,8,7.44,8.11,Undirected,Corticosteroid <-> Immunosuppressant
+Alimentary/Metabolism,Musculoskeletal (Other),7,7,7.66,8.2,Undirected,Alimentary/Metabolism <-> Musculoskeletal (Other)
+Anti-inflammatory (NSAID),Immunosuppressant,7,7,7.53,8.55,Undirected,Anti-inflammatory (NSAID) <-> Immunosuppressant
+Immunosuppressant,Musculoskeletal (Other),5,5,7.95,8.47,Undirected,Immunosuppressant <-> Musculoskeletal (Other)
+Analgesic/Opioid,Anti-inflammatory (NSAID),5,5,7.95,8.53,Undirected,Analgesic/Opioid <-> Anti-inflammatory (NSAID)
+Antineoplastic,Corticosteroid,4,4,7.52,8.16,Undirected,Antineoplastic <-> Corticosteroid
+Analgesic/Opioid,Psycholeptic,4,4,7.88,8.3,Undirected,Analgesic/Opioid <-> Psycholeptic
+Anti-inflammatory (NSAID),Corticosteroid,4,4,7.82,8.36,Undirected,Anti-inflammatory (NSAID) <-> Corticosteroid
+Immunosuppressant,RAAS Inhibitor,4,4,7.43,7.96,Undirected,Immunosuppressant <-> RAAS Inhibitor
+Antibacterial,Immunosuppressant,4,4,7.42,8.07,Undirected,Antibacterial <-> Immunosuppressant
+Analgesic/Opioid,Immunosuppressant,4,4,8.07,8.61,Undirected,Analgesic/Opioid <-> Immunosuppressant
+Alimentary/Metabolism,Psycholeptic,3,3,7.95,8.3,Undirected,Alimentary/Metabolism <-> Psycholeptic
+Alimentary/Metabolism,Analgesic/Opioid,3,3,7.75,8.17,Undirected,Alimentary/Metabolism <-> Analgesic/Opioid
+Dermatological,Immunosuppressant,3,3,7.99,8.27,Undirected,Dermatological <-> Immunosuppressant
+Antibacterial,Corticosteroid,3,3,8.21,8.58,Undirected,Antibacterial <-> Corticosteroid
+Anti-inflammatory (NSAID),Musculoskeletal (Other),3,3,7.51,7.74,Undirected,Anti-inflammatory (NSAID) <-> Musculoskeletal (Other)
+Anti-inflammatory (NSAID),Antineoplastic,3,3,7.76,8.42,Undirected,Anti-inflammatory (NSAID) <-> Antineoplastic
+Corticosteroid,Musculoskeletal (Other),3,3,7.44,7.81,Undirected,Corticosteroid <-> Musculoskeletal (Other)
+Anti-inflammatory (NSAID),Respiratory (Other),3,3,7.82,8.33,Undirected,Anti-inflammatory (NSAID) <-> Respiratory (Other)
+Analgesic/Opioid,Blood (Other),2,2,7.26,7.43,Undirected,Analgesic/Opioid <-> Blood (Other)
+Antineoplastic,Immunosuppressant,2,2,7.4,7.74,Undirected,Antineoplastic <-> Immunosuppressant
+Corticosteroid,Respiratory (Other),2,2,7.76,7.86,Undirected,Corticosteroid <-> Respiratory (Other)
+Alimentary/Metabolism,Anti-inflammatory (NSAID),2,2,7.5,8.01,Undirected,Alimentary/Metabolism <-> Anti-inflammatory (NSAID)
+Anti-inflammatory (NSAID),Dermatological,2,2,7.41,7.7,Undirected,Anti-inflammatory (NSAID) <-> Dermatological
+Alimentary/Metabolism,Corticosteroid,2,2,7.78,7.81,Undirected,Alimentary/Metabolism <-> Corticosteroid
+Alimentary/Metabolism,Respiratory (Other),2,2,7.16,7.2,Undirected,Alimentary/Metabolism <-> Respiratory (Other)
+Antineoplastic,Antiviral,2,2,8.01,8.7,Undirected,Antineoplastic <-> Antiviral
+Alimentary/Metabolism,Antineoplastic,2,2,8.24,8.53,Undirected,Alimentary/Metabolism <-> Antineoplastic
+Antiparasitic,Respiratory (Other),2,2,7.81,8.62,Undirected,Antiparasitic <-> Respiratory (Other)
+Corticosteroid,Dermatological,2,2,8.25,8.49,Undirected,Corticosteroid <-> Dermatological
+Analgesic/Opioid,Antiparasitic,2,2,7.9,8.38,Undirected,Analgesic/Opioid <-> Antiparasitic
+Analgesic/Opioid,Antineoplastic,2,2,8.03,8.57,Undirected,Analgesic/Opioid <-> Antineoplastic
+Alimentary/Metabolism,Antibacterial,2,2,8.22,8.53,Undirected,Alimentary/Metabolism <-> Antibacterial
+Antiparasitic,Immunosuppressant,1,1,7.31,7.31,Undirected,Antiparasitic <-> Immunosuppressant
+Antidiabetic,Antineoplastic,1,1,7.36,7.36,Undirected,Antidiabetic <-> Antineoplastic
+Antiparasitic,Musculoskeletal (Other),1,1,8.53,8.53,Undirected,Antiparasitic <-> Musculoskeletal (Other)
+Anesthetic,Antiepileptic,1,1,7.09,7.09,Undirected,Anesthetic <-> Antiepileptic
+Analgesic/Opioid,RAAS Inhibitor,1,1,7.68,7.68,Undirected,Analgesic/Opioid <-> RAAS Inhibitor
+Alimentary/Metabolism,Antithrombotic,1,1,7.67,7.67,Undirected,Alimentary/Metabolism <-> Antithrombotic
+Antiepileptic,RAAS Inhibitor,1,1,7.66,7.66,Undirected,Antiepileptic <-> RAAS Inhibitor
+Anti-infective (Other),Immunosuppressant,1,1,7.59,7.59,Undirected,Anti-infective (Other) <-> Immunosuppressant
+Cardiovascular (Other),Corticosteroid,1,1,7.59,7.59,Undirected,Cardiovascular (Other) <-> Corticosteroid
+Dermatological,Respiratory (Other),1,1,7.57,7.57,Undirected,Dermatological <-> Respiratory (Other)
+Analgesic/Opioid,Corticosteroid,1,1,7.14,7.14,Undirected,Analgesic/Opioid <-> Corticosteroid
+Antithrombotic,Lipid Modifying,1,1,7.57,7.57,Undirected,Antithrombotic <-> Lipid Modifying
+Antineoplastic,RAAS Inhibitor,1,1,7.71,7.71,Undirected,Antineoplastic <-> RAAS Inhibitor
+Analgesic/Opioid,Antiepileptic,1,1,7.47,7.47,Undirected,Analgesic/Opioid <-> Antiepileptic
+Cardiovascular (Other),Various,1,1,7.43,7.43,Undirected,Cardiovascular (Other) <-> Various
+Musculoskeletal (Other),Respiratory (Other),1,1,7.14,7.14,Undirected,Musculoskeletal (Other) <-> Respiratory (Other)
+Alimentary/Metabolism,Psychoanaleptic,1,1,7.41,7.41,Undirected,Alimentary/Metabolism <-> Psychoanaleptic
+Anesthetic,Nervous System (Other),1,1,7.47,7.47,Undirected,Anesthetic <-> Nervous System (Other)
+Antibacterial,Psycholeptic,1,1,8.09,8.09,Undirected,Antibacterial <-> Psycholeptic
+Analgesic/Opioid,Narrow Therapeutic Index,1,1,8.14,8.14,Undirected,Analgesic/Opioid <-> Narrow Therapeutic Index
+Antithrombotic,Psycholeptic,1,1,7.81,7.81,Undirected,Antithrombotic <-> Psycholeptic
+Anti-inflammatory (NSAID),Blood (Other),1,1,8.06,8.06,Undirected,Anti-inflammatory (NSAID) <-> Blood (Other)
+Antineoplastic,Respiratory (Other),1,1,8.06,8.06,Undirected,Antineoplastic <-> Respiratory (Other)
+Dermatological,Musculoskeletal (Other),1,1,8.06,8.06,Undirected,Dermatological <-> Musculoskeletal (Other)
+Antibacterial,RAAS Inhibitor,1,1,8.06,8.06,Undirected,Antibacterial <-> RAAS Inhibitor
+Alimentary/Metabolism,Dermatological,1,1,8.03,8.03,Undirected,Alimentary/Metabolism <-> Dermatological
+Anti-infective (Other),Antineoplastic,1,1,8.26,8.26,Undirected,Anti-infective (Other) <-> Antineoplastic
+Blood (Other),Respiratory (Other),1,1,8.65,8.65,Undirected,Blood (Other) <-> Respiratory (Other)
+Cardiovascular (Other),Psycholeptic,1,1,7.93,7.93,Undirected,Cardiovascular (Other) <-> Psycholeptic
+Immunosuppressant,Psycholeptic,1,1,7.91,7.91,Undirected,Immunosuppressant <-> Psycholeptic
+Alimentary/Metabolism,Cardiovascular (Other),1,1,7.9,7.9,Undirected,Alimentary/Metabolism <-> Cardiovascular (Other)
+Alimentary/Metabolism,Antidiabetic,1,1,7.87,7.87,Undirected,Alimentary/Metabolism <-> Antidiabetic
+Antibacterial,Blood (Other),1,1,7.87,7.87,Undirected,Antibacterial <-> Blood (Other)
+Alimentary/Metabolism,RAAS Inhibitor,1,1,7.86,7.86,Undirected,Alimentary/Metabolism <-> RAAS Inhibitor
+Antiparasitic,Corticosteroid,1,1,7.82,7.82,Undirected,Antiparasitic <-> Corticosteroid
+Antibacterial,Antineoplastic,1,1,7.82,7.82,Undirected,Antibacterial <-> Antineoplastic
+Musculoskeletal (Other),RAAS Inhibitor,1,1,8.44,8.44,Undirected,Musculoskeletal (Other) <-> RAAS Inhibitor
+Analgesic/Opioid,Dermatological,1,1,7.81,7.81,Undirected,Analgesic/Opioid <-> Dermatological
+Analgesic/Opioid,Respiratory (Other),1,1,7.03,7.03,Undirected,Analgesic/Opioid <-> Respiratory (Other)
