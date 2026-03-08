@@ -1,0 +1,27 @@
+Id,Label,FREQ,NUM_DRUGS,r,g,b,drug_class
+Immunosuppressant,Immunosuppressant,102,27,230,57,70,Immunosuppressant
+Alimentary/Metabolism,Alimentary/Metabolism,47,14,138,177,125,Alimentary/Metabolism
+Corticosteroid,Corticosteroid,32,7,244,162,97,Corticosteroid
+Anti-inflammatory (NSAID),Anti-inflammatory (NSAID),30,6,231,111,81,Anti-inflammatory (NSAID)
+Analgesic/Opioid,Analgesic/Opioid,28,9,38,70,83,Analgesic/Opioid
+Respiratory (Other),Respiratory (Other),26,4,144,190,109,Respiratory (Other)
+Antineoplastic,Antineoplastic,24,8,42,157,143,Antineoplastic
+Musculoskeletal (Other),Musculoskeletal (Other),22,4,221,161,94,Musculoskeletal (Other)
+Antibacterial,Antibacterial,15,8,106,153,78,Antibacterial
+Psycholeptic,Psycholeptic,12,8,155,93,229,Psycholeptic
+Dermatological,Dermatological,11,2,188,108,37,Dermatological
+RAAS Inhibitor,RAAS Inhibitor,10,4,67,97,160,RAAS Inhibitor
+Antiparasitic,Antiparasitic,7,2,163,177,138,Antiparasitic
+Blood (Other),Blood (Other),5,2,61,90,128,Blood (Other)
+Cardiovascular (Other),Cardiovascular (Other),5,4,87,117,144,Cardiovascular (Other)
+Antithrombotic,Antithrombotic,4,3,69,123,157,Antithrombotic
+Antiepileptic,Antiepileptic,3,3,201,173,229,Antiepileptic
+Anesthetic,Anesthetic,2,2,119,141,169,Anesthetic
+Antiviral,Antiviral,2,2,77,144,142,Antiviral
+Antidiabetic,Antidiabetic,2,2,96,108,56,Antidiabetic
+Anti-infective (Other),Anti-infective (Other),2,2,56,102,65,Anti-infective (Other)
+Narrow Therapeutic Index,Narrow Therapeutic Index,1,1,204,204,204,Narrow Therapeutic Index
+Lipid Modifying,Lipid Modifying,1,1,123,151,212,Lipid Modifying
+Nervous System (Other),Nervous System (Other),1,1,212,191,239,Nervous System (Other)
+Various,Various,1,1,153,153,153,Various
+Psychoanaleptic,Psychoanaleptic,1,1,177,133,219,Psychoanaleptic

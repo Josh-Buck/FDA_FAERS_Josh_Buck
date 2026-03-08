@@ -1,0 +1,683 @@
+DRUG,ATC_CODE_FULL,ATC_L1_CODE,ATC_L1_NAME,ATC_L2_CODE,ATC_L2_NAME,ATC_L3_CODE,ATC_L3_NAME,NUM_ATC_CLASSES,RISK_CLASS
+(-)-ARTERENOL,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+ACETAMINOPHEN,N02BE,N,Nervous System,N02,Anilides,N02B,Anilides,2,Analgesic/Opioid
+ACETAMINOPHEN / CODEINE,N02BE,N,Nervous System,N02,Anilides,N02B,Anilides,3,Analgesic/Opioid
+ACETAMINOPHEN / HYDROCODONE,N02BE,N,Nervous System,N02,Anilides,N02B,Anilides,2,Analgesic/Opioid
+ACETAMINOPHEN\CODEINE PHOSPHATE,N02BE,N,Nervous System,N02,Anilides,N02B,Anilides,0,Analgesic/Opioid
+ACETAMINOPHEN\OXYCODONE HYDROCHLORIDE,N02BE,N,Nervous System,N02,Anilides,N02B,Anilides,0,Analgesic/Opioid
+ACETYLCYSTEINE,R05CB,R,Respiratory,R05,Mucolytics,R05C,Mucolytics,3,Respiratory (Other)
+ACTEMRA,L04AC,L,Antineoplastic/Immunomodulating,L04,Interleukin inhibitors,L04A,Interleukin inhibitors,1,Immunosuppressant
+ACUPAN,N02BG,N,Nervous System,N02,Other analgesics and antipyretics,N02B,Other analgesics and antipyretics,0,Analgesic/Opioid
+ACYCLOVIR,D06BB,J,Anti-infectives,J05,Nucleosides and nucleotides excl. reverse transcriptase inhibitors,J05A,Nucleosides and nucleotides excl. reverse transcriptase inhibitors,3,Antiviral
+ADALIMUMAB,L04AB,L,Antineoplastic/Immunomodulating,L04,Tumor necrosis factor alpha (TNF-alpha) inhibitors,L04A,Tumor necrosis factor alpha (TNF-alpha) inhibitors,1,Immunosuppressant
+ADCIRCA,G04BE,G,Genitourinary/Sex Hormones,G04,Drugs used in erectile dysfunction,G04B,Drugs used in erectile dysfunction,1,Genitourinary
+ADEMPAS,C02KX,C,Cardiovascular,C02,Antihypertensives for pulmonary arterial hypertension,C02K,Antihypertensives for pulmonary arterial hypertension,1,Cardiovascular (Other)
+ADVAIR HFA,R03AK,R,Respiratory,R03,Adrenergics with corticosteroids,R03A,Adrenergics with corticosteroids,0,Anti-asthmatic
+AIMOVIG,N02CD,N,Nervous System,N02,Calcitonin gene-related peptide (CGRP) antagonists,N02C,Calcitonin gene-related peptide (CGRP) antagonists,1,Analgesic/Opioid
+AKYNZEO,A04AA,A,Alimentary/Metabolism,A04,Serotonin (5HT3) antagonists,A04A,Serotonin (5HT3) antagonists,1,Alimentary/Metabolism
+ALBUMIN HUMAN,B05AA,B,Blood,B05,Blood substitutes and plasma protein fractions,B05A,Blood substitutes and plasma protein fractions,0,Blood (Other)
+ALBUTEROL,R03AC,R,Respiratory,R03,Selective beta-2-adrenoreceptor agonists,R03A,Selective beta-2-adrenoreceptor agonists,2,Anti-asthmatic
+ALBUTEROL / IPRATROPIUM,R01AX,R,Respiratory,R03,Anticholinergics,R03B,Anticholinergics,4,Anti-asthmatic
+ALBUTEROL SULFATE,R03AC,R,Respiratory,R03,Selective beta-2-adrenoreceptor agonists,R03A,Selective beta-2-adrenoreceptor agonists,2,Anti-asthmatic
+ALCOHOL,V03AZ,V,Various,V03,Ethanol,V03A,Ethanol,0,Various
+ALDACTONE,C03DA,C,Cardiovascular,C03,Aldosterone antagonists,C03D,Aldosterone antagonists,1,Cardiovascular (Other)
+ALENDRONATE,M05BA,M,Musculoskeletal,M05,Bisphosphonates,M05B,Bisphosphonates,1,Musculoskeletal (Other)
+ALENDRONATE / CHOLECALCIFEROL,M05BA,M,Musculoskeletal,M05,Bisphosphonates,M05B,Bisphosphonates,2,Musculoskeletal (Other)
+ALENDRONATE SODIUM,M05BA,M,Musculoskeletal,M05,Bisphosphonates,M05B,Bisphosphonates,0,Musculoskeletal (Other)
+ALENDRONIC ACID,M05BA,M,Musculoskeletal,M05,Bisphosphonates,M05B,Bisphosphonates,1,Musculoskeletal (Other)
+ALFACALCIDOL,A11CC,A,Alimentary/Metabolism,A11,Vitamin D and analogues,A11C,Vitamin D and analogues,1,Alimentary/Metabolism
+ALIMTA,L01BA,L,Antineoplastic/Immunomodulating,L01,Folic acid analogues,L01B,Folic acid analogues,1,Antineoplastic
+ALLOPURINOL,M04AA,M,Musculoskeletal,M04,Preparations inhibiting uric acid production,M04A,Preparations inhibiting uric acid production,1,Musculoskeletal (Other)
+ALPRAZOLAM,N05BA,N,Nervous System,N05,Benzodiazepine derivatives,N05B,Benzodiazepine derivatives,1,Psycholeptic
+ALVESCO,R01AD,R,Respiratory,R03,Glucocorticoids,R03B,Glucocorticoids,2,Anti-asthmatic
+AMBRISENTAN,C02KX,C,Cardiovascular,C02,Antihypertensives for pulmonary arterial hypertension,C02K,Antihypertensives for pulmonary arterial hypertension,1,Cardiovascular (Other)
+AMIKACIN,D06AX,J,Anti-infectives,J01,Other aminoglycosides,J01G,Other aminoglycosides,3,Antibacterial
+AMIODARONE,C01BD,C,Cardiovascular,C01,"Antiarrhythmics, class III",C01B,"Antiarrhythmics, class III",1,Cardiovascular (Other)
+AMIODARONE HYDROCHLORIDE,C01BD,C,Cardiovascular,C01,"Antiarrhythmics, class III",C01B,"Antiarrhythmics, class III",1,Cardiovascular (Other)
+AMITRIPTYLINE,N06AA,N,Nervous System,N06,Non-selective monoamine reuptake inhibitors,N06A,Non-selective monoamine reuptake inhibitors,1,Psychoanaleptic
+AMITRIPTYLINE HYDROCHLORIDE,N06AA,N,Nervous System,N06,Non-selective monoamine reuptake inhibitors,N06A,Non-selective monoamine reuptake inhibitors,1,Psychoanaleptic
+AMLODIPINE,C09XA,C,Cardiovascular,C09,Renin-inhibitors,C09X,Renin-inhibitors,6,RAAS Inhibitor
+AMLODIPINE BESYLATE,C08CA,C,Cardiovascular,C08,Dihydropyridine derivatives,C08C,Dihydropyridine derivatives,1,Cardiovascular (Other)
+AMOXICILLIN,A02BD,J,Anti-infectives,J01,Penicillins with extended spectrum,J01C,Penicillins with extended spectrum,2,Antibacterial
+AMOXICILLIN / CLAVULANATE,J01CA,J,Anti-infectives,J01,Penicillins with extended spectrum,J01C,Penicillins with extended spectrum,1,Antibacterial
+AMPHETAMINE,N06BA,N,Nervous System,N06,Centrally acting sympathomimetics,N06B,Centrally acting sympathomimetics,1,Psychoanaleptic
+AMPHOTERICIN B,A01AB,J,Anti-infectives,J02,Antibiotics,J02A,Antibiotics,4,Anti-infective (Other)
+AMPICILLIN,J01CR,J,Anti-infectives,J01,"Combinations of penicillins, incl. beta-lactamase inhibitors",J01C,"Combinations of penicillins, incl. beta-lactamase inhibitors",3,Antibacterial
+ANAKINRA,L04AC,L,Antineoplastic/Immunomodulating,L04,Interleukin inhibitors,L04A,Interleukin inhibitors,1,Immunosuppressant
+ANASTROZOLE,L02BG,L,Antineoplastic/Immunomodulating,L02,Aromatase inhibitors,L02B,Aromatase inhibitors,1,Antineoplastic/Immuno (Other)
+ANORO ELLIPTA,R03AL,R,Respiratory,R03,Adrenergics with anticholinergics,R03A,Adrenergics with anticholinergics,0,Anti-asthmatic
+ANTI-THYMOCYTE GLOBULIN,L04AA,L,Antineoplastic/Immunomodulating,L04,Selective immunosuppressants,L04A,Selective immunosuppressants,0,Immunosuppressant
+APIXABAN,B01AF,B,Blood,B01,Direct factor Xa inhibitors,B01A,Direct factor Xa inhibitors,1,Antithrombotic
+APREMILAST,L04AA,L,Antineoplastic/Immunomodulating,L04,Selective immunosuppressants,L04A,Selective immunosuppressants,1,Immunosuppressant
+ARAVA,L04AK,L,Antineoplastic/Immunomodulating,L04,Dihydroorotate dehydrogenase (DHODH) inhibitors,L04A,Dihydroorotate dehydrogenase (DHODH) inhibitors,1,Immunosuppressant
+ARIPIPRAZOLE,N05AX,N,Nervous System,N05,Other antipsychotics,N05A,Other antipsychotics,1,Psycholeptic
+ASCORBIC ACID,A11GA,A,Alimentary/Metabolism,A11,"Ascorbic acid (vitamin C), plain",A11G,"Ascorbic acid (vitamin C), plain",3,Alimentary/Metabolism
+ASPARAGINASE,L01XX,L,Antineoplastic/Immunomodulating,L01,Other antineoplastic agents,L01X,Other antineoplastic agents,1,Antineoplastic
+ASPIRIN,A01AD,B,Blood,B01,Platelet aggregation inhibitors excl. heparin,B01A,Platelet aggregation inhibitors excl. heparin,4,Antithrombotic
+ATENOLOL,C07AB,C,Cardiovascular,C07,"Beta blocking agents, selective",C07A,"Beta blocking agents, selective",2,Beta Blocker
+ATEZOLIZUMAB,L01FF,L,Antineoplastic/Immunomodulating,L01,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,L01F,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,1,Antineoplastic
+ATIVAN,N05BA,N,Nervous System,N05,Benzodiazepine derivatives,N05B,Benzodiazepine derivatives,1,Psycholeptic
+ATORVASTATIN,C10BA,C,Cardiovascular,C10,Combinations of various lipid modifying agents,C10B,Combinations of various lipid modifying agents,3,Lipid Modifying
+ATORVASTATIN CALCIUM,C10AA,C,Cardiovascular,C10,HMG CoA reductase inhibitors,C10A,HMG CoA reductase inhibitors,1,Lipid Modifying
+ATOVAQUONE,P01BB,P,Antiparasitic,P01,Biguanides,P01B,Biguanides,2,Antiparasitic
+ATRACURIUM,M03AC,M,Musculoskeletal,M03,Other quaternary ammonium compounds,M03A,Other quaternary ammonium compounds,1,Musculoskeletal (Other)
+ATROVENT,R01AX,R,Respiratory,R03,Anticholinergics,R03B,Anticholinergics,2,Anti-asthmatic
+AUGMENTIN,J01CA,J,Anti-infectives,J01,Penicillins with extended spectrum,J01C,Penicillins with extended spectrum,1,Antibacterial
+AVASTIN,L01FG,L,Antineoplastic/Immunomodulating,L01,VEGF/VEGFR (Vascular Endothelial Growth Factor / -Receptor) inhibitors,L01F,VEGF/VEGFR (Vascular Endothelial Growth Factor / -Receptor) inhibitors,2,Antineoplastic
+AVIBACTAM / CEFTAZIDIME,J01DD,J,Anti-infectives,J01,Third-generation cephalosporins,J01D,Third-generation cephalosporins,1,Antibacterial
+AZACITIDINE,L01BC,L,Antineoplastic/Immunomodulating,L01,Pyrimidine analogues,L01B,Pyrimidine analogues,1,Antineoplastic
+AZATHIOPRINE,L04AX,L,Antineoplastic/Immunomodulating,L04,Other immunosuppressants,L04A,Other immunosuppressants,1,Immunosuppressant
+AZILSARTAN KAMEDOXOMIL,C09CA,C,Cardiovascular,C09,Angiotensin II receptor blockers,C09C,Angiotensin II receptor blockers,0,RAAS Inhibitor
+AZITHROMYCIN,J01FA,J,Anti-infectives,J01,Macrolides,J01F,Macrolides,2,Antibacterial
+AZOSEMIDE,C03CA,C,Cardiovascular,C03,"Sulfonamides, plain",C03C,"Sulfonamides, plain",0,Cardiovascular (Other)
+AZTREONAM LYSINE,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+BACLOFEN,M03BX,M,Musculoskeletal,M03,Other centrally acting agents,M03B,Other centrally acting agents,1,Musculoskeletal (Other)
+BACTRIM,J01EC,J,Anti-infectives,J01,Intermediate-acting sulfonamides,J01E,Intermediate-acting sulfonamides,3,Antibacterial
+BACTRIM DS,J01EE,J,Anti-infectives,J01,Combinations of sulfonamides and trimethoprim,J01E,Combinations of sulfonamides and trimethoprim,0,Antibacterial
+BASAGLAR,A10AE,A,Alimentary/Metabolism,A10,"Insulins and analogues for injection, long-acting",A10A,"Insulins and analogues for injection, long-acting",1,Antidiabetic
+BASILIXIMAB,L04AC,L,Antineoplastic/Immunomodulating,L04,Interleukin inhibitors,L04A,Interleukin inhibitors,1,Immunosuppressant
+BEDAQUILINE,J04AK,J,Anti-infectives,J04,Other drugs for treatment of tuberculosis,J04A,Other drugs for treatment of tuberculosis,1,Anti-infective (Other)
+BENSERAZIDE / LEVODOPA,N04BA,N,Nervous System,N04,Dopa and dopa derivatives,N04B,Dopa and dopa derivatives,1,Nervous System (Other)
+BENZONATATE,R05DB,R,Respiratory,R05,Other cough suppressants,R05D,Other cough suppressants,1,Respiratory (Other)
+BENZOYLECGONINE,N01BX,N,Nervous System,N01,Other local anesthetics,N01B,Other local anesthetics,0,Anesthetic
+BETAMETHASONE,A07EA,H,Systemic Hormones,H02,Glucocorticoids,H02A,Glucocorticoids,11,Corticosteroid
+BEVACIZUMAB,L01FG,L,Antineoplastic/Immunomodulating,L01,VEGF/VEGFR (Vascular Endothelial Growth Factor / -Receptor) inhibitors,L01F,VEGF/VEGFR (Vascular Endothelial Growth Factor / -Receptor) inhibitors,2,Antineoplastic
+BISACODYL,A06AB,A,Alimentary/Metabolism,A06,Contact laxatives,A06A,Contact laxatives,2,Alimentary/Metabolism
+BISOPROLOL,C07AB,C,Cardiovascular,C07,"Beta blocking agents, selective",C07A,"Beta blocking agents, selective",1,Beta Blocker
+BISOPROLOL FUMARATE,C07AB,C,Cardiovascular,C07,"Beta blocking agents, selective",C07A,"Beta blocking agents, selective",1,Beta Blocker
+BMS-830216,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+BORTEZOMIB,L01XG,L,Antineoplastic/Immunomodulating,L01,Proteasome inhibitors,L01X,Proteasome inhibitors,1,Antineoplastic
+BOTULINUM TOXIN TYPE A,M03AX,M,Musculoskeletal,M03,Other muscle relaxants,M03A,Other muscle relaxants,0,Musculoskeletal (Other)
+BREO ELLIPTA,R03AK,R,Respiratory,R03,Adrenergics with corticosteroids,R03A,Adrenergics with corticosteroids,0,Anti-asthmatic
+BREZTRI,D11AA,R,Respiratory,R03,Glucocorticoids,R03B,Glucocorticoids,7,Anti-asthmatic
+BROMAZEPAM,N05BA,N,Nervous System,N05,Benzodiazepine derivatives,N05B,Benzodiazepine derivatives,1,Psycholeptic
+BUDESONIDE,A07EA,R,Respiratory,R03,Glucocorticoids,R03B,Glucocorticoids,5,Anti-asthmatic
+BUDESONIDE / FORMOTEROL,A07EA,R,Respiratory,R03,Glucocorticoids,R03B,Glucocorticoids,7,Anti-asthmatic
+BUDESONIDE / FORMOTEROL / GLYCOPYRRONIUM,D11AA,R,Respiratory,R03,Glucocorticoids,R03B,Glucocorticoids,7,Anti-asthmatic
+BUDESONIDE\FORMOTEROL FUMARATE,R03BA,R,Respiratory,R03,Glucocorticoids,R03B,Glucocorticoids,0,Anti-asthmatic
+BUMETANIDE,C03CA,C,Cardiovascular,C03,"Sulfonamides, plain",C03C,"Sulfonamides, plain",2,Cardiovascular (Other)
+BUPRENORPHINE,N02AE,N,Nervous System,N02,Oripavine derivatives,N02A,Oripavine derivatives,2,Analgesic/Opioid
+BUPROPION,A08AA,N,Nervous System,N06,Other antidepressants,N06A,Other antidepressants,2,Psychoanaleptic
+BUSPIRONE,N05BE,N,Nervous System,N05,Azaspirodecanedione derivatives,N05B,Azaspirodecanedione derivatives,1,Psycholeptic
+CAFFEINE,V04CG,N,Nervous System,N06,Xanthine derivatives,N06B,Xanthine derivatives,3,Psychoanaleptic
+CALCITRIOL,A11CC,A,Alimentary/Metabolism,A11,Vitamin D and analogues,A11C,Vitamin D and analogues,2,Alimentary/Metabolism
+CALCIUM,A12AA,A,Alimentary/Metabolism,A12,Calcium,A12A,Calcium,0,Alimentary/Metabolism
+CALCIUM CARBONATE,A02AC,A,Alimentary/Metabolism,A02,Calcium compounds,A02A,Calcium compounds,2,Alimentary/Metabolism
+CALCIUM CARBONATE / CHOLECALCIFEROL,A02AC,A,Alimentary/Metabolism,A02,Calcium compounds,A02A,Calcium compounds,3,Alimentary/Metabolism
+CALCIUM CARBONATE / CHOLECALCIFEROL / MAGNESIUM OXIDE,A02AC,A,Alimentary/Metabolism,A02,Calcium compounds,A02A,Calcium compounds,6,Alimentary/Metabolism
+CALCIUM GLUCONATE,A12AA,A,Alimentary/Metabolism,A12,Calcium,A12A,Calcium,3,Alimentary/Metabolism
+CALCIUM PHOSPHATE / CHOLECALCIFEROL,A12AA,A,Alimentary/Metabolism,A12,Calcium,A12A,Calcium,2,Alimentary/Metabolism
+CALONAL,N02BE,N,Nervous System,N02,Anilides,N02B,Anilides,0,Analgesic/Opioid
+CANDESARTAN,C09CA,C,Cardiovascular,C09,"Angiotensin II receptor blockers (ARBs), plain",C09C,"Angiotensin II receptor blockers (ARBs), plain",1,RAAS Inhibitor
+CANDESARTAN CILEXETIL,C09CA,C,Cardiovascular,C09,"Angiotensin II receptor blockers (ARBs), plain",C09C,"Angiotensin II receptor blockers (ARBs), plain",1,RAAS Inhibitor
+CANNABIS SATIVA SUBSP. INDICA TOP,N02BG,N,Nervous System,N02,Other analgesics,N02B,Other analgesics,0,Analgesic/Opioid
+CAPECITABINE,L01BC,L,Antineoplastic/Immunomodulating,L01,Pyrimidine analogues,L01B,Pyrimidine analogues,1,Antineoplastic
+CARBAMAZEPINE,N03AF,N,Nervous System,N03,Carboxamide derivatives,N03A,Carboxamide derivatives,1,Narrow Therapeutic Index
+CARBIDOPA / LEVODOPA,N04BA,N,Nervous System,N04,Dopa and dopa derivatives,N04B,Dopa and dopa derivatives,1,Nervous System (Other)
+CARBOPLATIN,L01XA,L,Antineoplastic/Immunomodulating,L01,Platinum compounds,L01X,Platinum compounds,1,Antineoplastic
+CARVEDILOL,C07AG,C,Cardiovascular,C07,Alpha and beta blocking agents,C07A,Alpha and beta blocking agents,1,Beta Blocker
+CASPOFUNGIN,J02AX,J,Anti-infectives,J02,Other antimycotics for systemic use,J02A,Other antimycotics for systemic use,1,Anti-infective (Other)
+"CAVIAR, UNSPECIFIED",,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+CEFAZOLIN,J01DB,J,Anti-infectives,J01,First-generation cephalosporins,J01D,First-generation cephalosporins,1,Antibacterial
+CEFAZOLIN SODIUM,J01DB,J,Anti-infectives,J01,First-generation cephalosporins,J01D,First-generation cephalosporins,1,Antibacterial
+CEFEPIME,J01DE,J,Anti-infectives,J01,Fourth-generation cephalosporins,J01D,Fourth-generation cephalosporins,1,Antibacterial
+CEFTAZIDIME,J01DD,J,Anti-infectives,J01,Third-generation cephalosporins,J01D,Third-generation cephalosporins,1,Antibacterial
+CEFTRIAXONE,J01DD,J,Anti-infectives,J01,Third-generation cephalosporins,J01D,Third-generation cephalosporins,1,Antibacterial
+CELEBREX,L01XX,L,Antineoplastic/Immunomodulating,L01,Other antineoplastic agents,L01X,Other antineoplastic agents,2,Antineoplastic
+CELECOXIB,L01XX,L,Antineoplastic/Immunomodulating,L01,Other antineoplastic agents,L01X,Other antineoplastic agents,4,Antineoplastic
+CELLCEPT,L04AA,L,Antineoplastic/Immunomodulating,L04,Selective immunosuppressants,L04A,Selective immunosuppressants,0,Immunosuppressant
+CERTOLIZUMAB PEGOL,L04AB,L,Antineoplastic/Immunomodulating,L04,Tumor necrosis factor alpha (TNF-alpha) inhibitors,L04A,Tumor necrosis factor alpha (TNF-alpha) inhibitors,1,Immunosuppressant
+CETIRIZINE,R06AE,R,Respiratory,R06,Piperazine derivatives,R06A,Piperazine derivatives,2,Respiratory (Other)
+CETIRIZINE HYDROCHLORIDE,R06AE,R,Respiratory,R06,Piperazine derivatives,R06A,Piperazine derivatives,2,Respiratory (Other)
+CETIRIZINE HYDROCHLORIDE\PSEUDOEPHEDRINE HYDROCHLORIDE,R06AE,R,Respiratory,R06,Piperazine derivatives,R06A,Piperazine derivatives,0,Respiratory (Other)
+CHLORHEXIDINE GLUCONATE,A01AB,B,Blood,B05,Antiinfectives,B05C,Antiinfectives,8,Blood (Other)
+CHLORPHENIRAMINE MALEATE,R06AB,R,Respiratory,R06,Substituted alkylamines,R06A,Substituted alkylamines,1,Respiratory (Other)
+CHLORPROMAZINE,N05AA,N,Nervous System,N05,Phenothiazines with aliphatic side-chain,N05A,Phenothiazines with aliphatic side-chain,1,Psycholeptic
+CHLORTHALIDONE,C03BA,C,Cardiovascular,C03,"Sulfonamides, plain",C03B,"Sulfonamides, plain",1,Cardiovascular (Other)
+CHOLECALCIFEROL,A11CC,A,Alimentary/Metabolism,A11,Vitamin D and analogues,A11C,Vitamin D and analogues,1,Alimentary/Metabolism
+CICLOBENZAPRINA,M03BX,M,Musculoskeletal,M03,Other centrally acting agents,M03B,Other centrally acting agents,0,Musculoskeletal (Other)
+CIMZIA,L04AB,L,Antineoplastic/Immunomodulating,L04,Tumor necrosis factor alpha (TNF-alpha) inhibitors,L04A,Tumor necrosis factor alpha (TNF-alpha) inhibitors,1,Immunosuppressant
+CIPROFLOXACIN,J01MA,J,Anti-infectives,J01,Fluoroquinolones,J01M,Fluoroquinolones,4,Antibacterial
+CISPLATIN,L01XA,L,Antineoplastic/Immunomodulating,L01,Platinum compounds,L01X,Platinum compounds,1,Antineoplastic
+CITALOPRAM,N06AB,N,Nervous System,N06,Selective serotonin reuptake inhibitors,N06A,Selective serotonin reuptake inhibitors,1,Psychoanaleptic
+CLARITIN,R06AX,R,Respiratory,R06,Other antihistamines for systemic use,R06A,Other antihistamines for systemic use,1,Respiratory (Other)
+CLAVULANIC ACID,J01CR,J,Anti-infectives,J01,Combinations of penicillins,J01C,Combinations of penicillins,0,Antibacterial
+CLINDAMYCIN,D10AF,J,Anti-infectives,J01,Lincosamides,J01F,Lincosamides,3,Antibacterial
+CLOBAZAM,N05BA,N,Nervous System,N05,Benzodiazepine derivatives,N05B,Benzodiazepine derivatives,1,Psycholeptic
+CLONAZEPAM,N03AE,N,Nervous System,N03,Benzodiazepine derivatives,N03A,Benzodiazepine derivatives,1,Antiepileptic
+CLONIDINE,C02AC,N,Nervous System,N02,Other antimigraine preparations,N02C,Other antimigraine preparations,3,Analgesic/Opioid
+CLOPIDOGREL,B01AC,B,Blood,B01,Platelet aggregation inhibitors excl. heparin,B01A,Platelet aggregation inhibitors excl. heparin,1,Antithrombotic
+CLOPIDOGREL BISULFATE,B01AC,B,Blood,B01,Platelet aggregation inhibitors excl. heparin,B01A,Platelet aggregation inhibitors excl. heparin,1,Antithrombotic
+CLORHEXIDINA,D08AC,D,Dermatologicals,D08,Biguanides and amidines,D08A,Biguanides and amidines,0,Dermatological
+CLOTRIMAZOLE,A01AB,D,Dermatologicals,D01,Imidazole and triazole derivatives,D01A,Imidazole and triazole derivatives,3,Dermatological
+CLOZAPINE,N05AH,N,Nervous System,N05,"Diazepines, oxazepines, thiazepines and oxepines",N05A,"Diazepines, oxazepines, thiazepines and oxepines",1,Psycholeptic
+CLOZARIL,N05AH,N,Nervous System,N05,"Diazepines, oxazepines, thiazepines and oxepines",N05A,"Diazepines, oxazepines, thiazepines and oxepines",1,Psycholeptic
+COCAINE,N01BC,N,Nervous System,N01,Esters of benzoic acid,N01B,Esters of benzoic acid,4,Anesthetic
+COCODAMOL,N02AJ,N,Nervous System,N02,Opioids with non-opioid analgesics,N02A,Opioids with non-opioid analgesics,0,Analgesic/Opioid
+CODEINE,N02AJ,N,Nervous System,N02,Opioids in combination with non-opioid analgesics,N02A,Opioids in combination with non-opioid analgesics,2,Analgesic/Opioid
+COLCHICINE,M04AC,M,Musculoskeletal,M04,Preparations with no effect on uric acid metabolism,M04A,Preparations with no effect on uric acid metabolism,1,Musculoskeletal (Other)
+COLESTYRAMINE,C10AC,C,Cardiovascular,C10,Bile acid sequestrants,C10A,Bile acid sequestrants,1,Lipid Modifying
+COMPAZINE,N05AB,N,Nervous System,N05,Phenothiazines with piperazine structure,N05A,Phenothiazines with piperazine structure,1,Psycholeptic
+CORTISONE ACETATE,H02AB,H,Systemic Hormones,H02,Glucocorticoids,H02A,Glucocorticoids,2,Corticosteroid
+COSENTYX,L04AC,L,Antineoplastic/Immunomodulating,L04,Interleukin inhibitors,L04A,Interleukin inhibitors,1,Immunosuppressant
+COVID-19 VACCINE MRNA,J07BX,J,Anti-infectives,J07,Other viral vaccines,J07B,Other viral vaccines,0,Anti-infective (Other)
+COZAAR,C09CA,C,Cardiovascular,C09,"Angiotensin II receptor blockers (ARBs), plain",C09C,"Angiotensin II receptor blockers (ARBs), plain",1,RAAS Inhibitor
+CREON,A09AA,A,Alimentary/Metabolism,A09,Enzyme preparations,A09A,Enzyme preparations,1,Alimentary/Metabolism
+CRESTOR,C10AA,C,Cardiovascular,C10,HMG CoA reductase inhibitors,C10A,HMG CoA reductase inhibitors,1,Lipid Modifying
+CYAMEMAZINE,N05AA,N,Nervous System,N05,Phenothiazines with aliphatic side-chain,N05A,Phenothiazines with aliphatic side-chain,1,Psycholeptic
+CYANOCOBALAMIN,B03BA,B,Blood,B03,Vitamin B12,B03B,Vitamin B12,0,Blood (Other)
+CYCLOPHOSPHAMIDE,L01AA,L,Antineoplastic/Immunomodulating,L01,Nitrogen mustard analogues,L01A,Nitrogen mustard analogues,1,Antineoplastic
+CYCLOSPORINE,L04AD,L,Antineoplastic/Immunomodulating,L04,Calcineurin inhibitors,L04A,Calcineurin inhibitors,2,Narrow Therapeutic Index
+CYTARABINE,L01XY,L,Antineoplastic/Immunomodulating,L01,Combinations of antineoplastic agents,L01X,Combinations of antineoplastic agents,2,Antineoplastic
+DALFAMPRIDINE,N07XX,N,Nervous System,N07,Other nervous system drugs,N07X,Other nervous system drugs,1,Nervous System (Other)
+DAPAGLIFLOZIN,A10BD,A,Alimentary/Metabolism,A10,Combinations of oral blood glucose lowering drugs,A10B,Combinations of oral blood glucose lowering drugs,2,Antidiabetic
+DAPTOMYCIN,J01XX,J,Anti-infectives,J01,Other antibacterials,J01X,Other antibacterials,1,Antibacterial
+DARATUMUMAB/HYALURONIDASE-FIHJ,L01FC,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+DARZALEX,L01FC,L,Antineoplastic/Immunomodulating,L01,CD38 (Clusters of Differentiation 38) inhibitors,L01F,CD38 (Clusters of Differentiation 38) inhibitors,1,Antineoplastic
+DAUNORUBICIN,L01XY,L,Antineoplastic/Immunomodulating,L01,Combinations of antineoplastic agents,L01X,Combinations of antineoplastic agents,2,Antineoplastic
+DECADRON,A01AC,H,Systemic Hormones,H02,Glucocorticoids,H02A,Glucocorticoids,11,Corticosteroid
+DELFLEX WITH DEXTROSE 15% LOW MAGNESIUM LOW CALCIUM,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+DELFLEX WITH DEXTROSE 25% LOW MAGNESIUM LOW CALCIUM,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+DELFLEX WITH DEXTROSE 425% LOW MAGNESIUM LOW CALCIUM,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+DENOSUMAB,M05BX,M,Musculoskeletal,M05,Other drugs affecting bone structure and mineralization,M05B,Other drugs affecting bone structure and mineralization,1,Musculoskeletal (Other)
+DEPAKOTE,N03AG,N,Nervous System,N03,Fatty acid derivatives,N03A,Fatty acid derivatives,1,Antiepileptic
+DESLORATADINE,R06AX,R,Respiratory,R06,Other antihistamines for systemic use,R06A,Other antihistamines for systemic use,1,Respiratory (Other)
+DESOXIMETASONE,D07AC,D,Dermatologicals,D07,"Corticosteroids, potent (group III)",D07A,"Corticosteroids, potent (group III)",2,Dermatological
+DEVICE,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+DEXAMETHASONE,A01AC,H,Systemic Hormones,H02,Glucocorticoids,H02A,Glucocorticoids,11,Corticosteroid
+DEXILANT,A02BC,A,Alimentary/Metabolism,A02,Proton pump inhibitors,A02B,Proton pump inhibitors,1,Alimentary/Metabolism
+DEXMEDETOMIDINE,N05CM,N,Nervous System,N05,Other hypnotics and sedatives,N05C,Other hypnotics and sedatives,1,Psycholeptic
+DEXTROSE,B05BA,B,Blood,B05,Solutions for parenteral nutrition,B05B,Solutions for parenteral nutrition,0,Blood (Other)
+DIANEAL PD-2 PERITONEAL DIALYSIS SOLUTION WITH DEXTROSE,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+DIANEAL PD-2 WITH DEXTROSE,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+DIAZEPAM,N05BA,N,Nervous System,N05,Benzodiazepine derivatives,N05B,Benzodiazepine derivatives,1,Psycholeptic
+DICLOFENAC,D11AX,M,Musculoskeletal,M01,Acetic acid derivatives and related substances,M01A,Acetic acid derivatives and related substances,4,Anti-inflammatory (NSAID)
+DICLOFENAC DIETHYLAMMONIUM,D11AX,M,Musculoskeletal,M01,Acetic acid derivatives and related substances,M01A,Acetic acid derivatives and related substances,4,Anti-inflammatory (NSAID)
+DICLOFENAC POTASSIUM,D11AX,M,Musculoskeletal,M01,Acetic acid derivatives and related substances,M01A,Acetic acid derivatives and related substances,4,Anti-inflammatory (NSAID)
+DICLOFENAC SODIUM,D11AX,M,Musculoskeletal,M01,Acetic acid derivatives and related substances,M01A,Acetic acid derivatives and related substances,4,Anti-inflammatory (NSAID)
+DIGOXIN,C01AA,C,Cardiovascular,C01,Digitalis glycosides,C01A,Digitalis glycosides,1,Narrow Therapeutic Index
+DILAUDID,N02AA,N,Nervous System,N02,Natural opium alkaloids,N02A,Natural opium alkaloids,1,Analgesic/Opioid
+DILTIAZEM,C05AE,C,Cardiovascular,C08,Benzothiazepine derivatives,C08D,Benzothiazepine derivatives,2,Cardiovascular (Other)
+DILTIAZEM HYDROCHLORIDE,C05AE,C,Cardiovascular,C08,Benzothiazepine derivatives,C08D,Benzothiazepine derivatives,2,Cardiovascular (Other)
+DIMENHYDRINATE,R06AA,R,Respiratory,R06,Aminoalkyl ethers,R06A,Aminoalkyl ethers,1,Respiratory (Other)
+DIPHENHYDRAMINE,M01AE,M,Musculoskeletal,M01,Propionic acid derivatives,M01A,Propionic acid derivatives,3,Anti-inflammatory (NSAID)
+DIPHENHYDRAMINE HYDROCHLORIDE,M01AE,M,Musculoskeletal,M01,Propionic acid derivatives,M01A,Propionic acid derivatives,3,Anti-inflammatory (NSAID)
+DIPYRONE,N02BB,N,Nervous System,N02,Pyrazolones,N02B,Pyrazolones,1,Analgesic/Opioid
+DIVALPROEX SODIUM,N03AG,N,Nervous System,N03,Fatty acid derivatives,N03A,Fatty acid derivatives,0,Narrow Therapeutic Index
+DOBUTAMINE,C01CA,C,Cardiovascular,C01,Adrenergic and dopaminergic agents,C01C,Adrenergic and dopaminergic agents,1,Cardiovascular (Other)
+DOCETAXEL,L01CD,L,Antineoplastic/Immunomodulating,L01,Taxanes,L01C,Taxanes,1,Antineoplastic
+DOCUSATE,A06AA,A,Alimentary/Metabolism,A06,"Softeners, emollients",A06A,"Softeners, emollients",1,Alimentary/Metabolism
+DOCUSATE SODIUM,A06AA,A,Alimentary/Metabolism,A06,"Softeners, emollients",A06A,"Softeners, emollients",1,Alimentary/Metabolism
+DOMPERIDONE,A03FA,A,Alimentary/Metabolism,A03,Propulsives,A03F,Propulsives,1,Alimentary/Metabolism
+DOMPERIDONE MALEATE,A03FA,A,Alimentary/Metabolism,A03,Propulsives,A03F,Propulsives,1,Alimentary/Metabolism
+DONEPEZILO,N06DA,N,Nervous System,N06,Anticholinesterases,N06D,Anticholinesterases,0,Psychoanaleptic
+DOXAZOSINA,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+DOXORUBICIN,L01DB,L,Antineoplastic/Immunomodulating,L01,Anthracyclines and related substances,L01D,Anthracyclines and related substances,1,Antineoplastic
+DOXORUBICIN HYDROCHLORIDE,L01DB,L,Antineoplastic/Immunomodulating,L01,Anthracyclines and related substances,L01D,Anthracyclines and related substances,1,Antineoplastic
+DOXYCYCLINE,A01AB,J,Anti-infectives,J01,Tetracyclines,J01A,Tetracyclines,2,Antibacterial
+DOXYCYCLINE HYCLATE,A01AB,J,Anti-infectives,J01,Tetracyclines,J01A,Tetracyclines,2,Antibacterial
+DULOXETINA,N06AX,N,Nervous System,N06,Other antidepressants,N06A,Other antidepressants,0,Psychoanaleptic
+DULOXETINE HYDROCHLORIDE,N06AX,N,Nervous System,N06,Other antidepressants,N06A,Other antidepressants,1,Psychoanaleptic
+DUPIXENT,D11AH,D,Dermatologicals,D11,"Agents for dermatitis, excluding corticosteroids",D11A,"Agents for dermatitis, excluding corticosteroids",1,Dermatological
+DUTASTERIDE,G04CA,G,Genitourinary/Sex Hormones,G04,Alpha-adrenoreceptor antagonists,G04C,Alpha-adrenoreceptor antagonists,2,Genitourinary
+EDOXABAN TOSYLATE,B01AF,B,Blood,B01,Direct factor Xa inhibitors,B01A,Direct factor Xa inhibitors,1,Antithrombotic
+ELEXACAFTOR / IVACAFTOR / TEZACAFTOR,R07AX,R,Respiratory,R07,Other respiratory system products,R07A,Other respiratory system products,1,Respiratory (Other)
+ELIGARD,L02AE,L,Antineoplastic/Immunomodulating,L02,Gonadotropin releasing hormone analogues,L02A,Gonadotropin releasing hormone analogues,1,Antineoplastic/Immuno (Other)
+ELIQUIS,B01AF,B,Blood,B01,Direct factor Xa inhibitors,B01A,Direct factor Xa inhibitors,1,Antithrombotic
+ELTROMBOPAG OLAMINE,B02BX,B,Blood,B02,Other systemic hemostatics,B02B,Other systemic hemostatics,1,Blood (Other)
+EMEND,A04AD,A,Alimentary/Metabolism,A04,Other antiemetics,A04A,Other antiemetics,1,Alimentary/Metabolism
+EMPAGLIFLOZIN,A10BK,A,Alimentary/Metabolism,A10,Sodium-glucose co-transporter 2 (SGLT2) inhibitors,A10B,Sodium-glucose co-transporter 2 (SGLT2) inhibitors,2,Antidiabetic
+ENALAPRIL,C09AA,C,Cardiovascular,C09,"ACE inhibitors, plain",C09A,"ACE inhibitors, plain",1,RAAS Inhibitor
+ENBREL,L04AB,L,Antineoplastic/Immunomodulating,L04,Tumor necrosis factor alpha (TNF-alpha) inhibitors,L04A,Tumor necrosis factor alpha (TNF-alpha) inhibitors,1,Immunosuppressant
+ENOXAPARIN,B01AB,B,Blood,B01,Heparin group,B01A,Heparin group,1,Antithrombotic
+ENOXAPARIN SODIUM,B01AB,B,Blood,B01,Heparin group,B01A,Heparin group,1,Antithrombotic
+ENTECAVIR,J05AF,J,Anti-infectives,J05,Nucleoside and nucleotide reverse transcriptase inhibitors,J05A,Nucleoside and nucleotide reverse transcriptase inhibitors,1,Antiviral
+ENTRESTO,C09DX,C,Cardiovascular,C09,"Angiotensin II receptor blockers (ARBs), other combinations",C09D,"Angiotensin II receptor blockers (ARBs), other combinations",2,RAAS Inhibitor
+ENVARSUS XR,L04AD,L,Antineoplastic/Immunomodulating,L04,Calcineurin inhibitors,L04A,Calcineurin inhibitors,0,Immunosuppressant
+EPCORITAMAB,L01FX,L,Antineoplastic/Immunomodulating,L01,Other monoclonal antibodies and antibody drug conjugates,L01F,Other monoclonal antibodies and antibody drug conjugates,1,Antineoplastic
+EPIDIOLEX,N03AX,N,Nervous System,N03,Other antiepileptics,N03A,Other antiepileptics,1,Antiepileptic
+EPINEPHRINE,A01AD,C,Cardiovascular,C01,Adrenergic and dopaminergic agents,C01C,Adrenergic and dopaminergic agents,6,Cardiovascular (Other)
+EPLERENONA,C03DA,C,Cardiovascular,C03,Aldosterone antagonists,C03D,Aldosterone antagonists,0,Cardiovascular (Other)
+ERBITUX,L01FE,L,Antineoplastic/Immunomodulating,L01,EGFR (Epidermal Growth Factor Receptor) inhibitors,L01F,EGFR (Epidermal Growth Factor Receptor) inhibitors,1,Antineoplastic
+ERELZI,L04AB,L,Antineoplastic/Immunomodulating,L04,TNF-alpha inhibitors,L04A,TNF-alpha inhibitors,0,Immunosuppressant
+ERYTHROMYCIN,D10AF,J,Anti-infectives,J01,Macrolides,J01F,Macrolides,3,Antibacterial
+ESCITALOPRAM,N06AB,N,Nervous System,N06,Selective serotonin reuptake inhibitors,N06A,Selective serotonin reuptake inhibitors,1,Psychoanaleptic
+ESCITALOPRAM OXALATE,N06AB,N,Nervous System,N06,Selective serotonin reuptake inhibitors,N06A,Selective serotonin reuptake inhibitors,1,Psychoanaleptic
+ESOMEPRAZOLE MAGNESIUM,A02BC,A,Alimentary/Metabolism,A02,Proton pump inhibitors,A02B,Proton pump inhibitors,1,Alimentary/Metabolism
+ETANERCEPT,L04AB,L,Antineoplastic/Immunomodulating,L04,Tumor necrosis factor alpha (TNF-alpha) inhibitors,L04A,Tumor necrosis factor alpha (TNF-alpha) inhibitors,1,Immunosuppressant
+ETOPOSIDE,L01CB,L,Antineoplastic/Immunomodulating,L01,Podophyllotoxin derivatives,L01C,Podophyllotoxin derivatives,1,Antineoplastic
+ETORICOXIB,M01AH,M,Musculoskeletal,M01,Coxibs,M01A,Coxibs,1,Anti-inflammatory (NSAID)
+EXTRANEAL,A12AA,G,Genitourinary/Sex Hormones,G04,Acidifiers,G04B,Acidifiers,6,Genitourinary
+EZETIMIBE,C10BA,C,Cardiovascular,C10,Combinations of various lipid modifying agents,C10B,Combinations of various lipid modifying agents,2,Lipid Modifying
+FAMOTIDINE,A02BA,A,Alimentary/Metabolism,A02,H2-receptor antagonists,A02B,H2-receptor antagonists,1,Alimentary/Metabolism
+FARXIGA,A10BK,A,Alimentary/Metabolism,A10,Sodium-glucose co-transporter 2 (SGLT2) inhibitors,A10B,Sodium-glucose co-transporter 2 (SGLT2) inhibitors,1,Antidiabetic
+FEBUXOSTAT,M04AA,M,Musculoskeletal,M04,Preparations inhibiting uric acid production,M04A,Preparations inhibiting uric acid production,1,Musculoskeletal (Other)
+FENOFIBRATE,C10BA,C,Cardiovascular,C10,Combinations of various lipid modifying agents,C10B,Combinations of various lipid modifying agents,2,Lipid Modifying
+FENTANYL,N01AH,N,Nervous System,N02,Phenylpiperidine derivatives,N02A,Phenylpiperidine derivatives,2,Analgesic/Opioid
+FERROUS FUMARATE,B03AD,B,Blood,B03,Iron in combination with folic acid,B03A,Iron in combination with folic acid,2,Blood (Other)
+FERROUS SULFATE,B03AD,B,Blood,B03,Iron in combination with folic acid,B03A,Iron in combination with folic acid,2,Blood (Other)
+FERRUM,B03AA,B,Blood,B03,"Iron bivalent, oral preparations",B03A,"Iron bivalent, oral preparations",0,Blood (Other)
+FILGRASTIM,L03AA,L,Antineoplastic/Immunomodulating,L03,Colony stimulating factors,L03A,Colony stimulating factors,1,Antineoplastic/Immuno (Other)
+FINASTERIDE,D11AX,G,Genitourinary/Sex Hormones,G04,Testosterone-5-alpha reductase inhibitors,G04C,Testosterone-5-alpha reductase inhibitors,2,Genitourinary
+FISHOIL,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+FLONASE ALLERGY RELIEF,R01AD,R,Respiratory,R01,Corticosteroids,R01A,Corticosteroids,0,Respiratory (Other)
+FLUCONAZOLE,D01AC,J,Anti-infectives,J02,Triazole and tetrazole derivatives,J02A,Triazole and tetrazole derivatives,2,Anti-infective (Other)
+FLUCYTOSINE,D01AE,J,Anti-infectives,J02,Other antimycotics for systemic use,J02A,Other antimycotics for systemic use,2,Anti-infective (Other)
+FLUDARABINE,L01BB,L,Antineoplastic/Immunomodulating,L01,Purine analogues,L01B,Purine analogues,1,Antineoplastic
+FLUMETHASONE PIVALATE,D07AB,D,Dermatologicals,D07,"Corticosteroids, moderately potent (group II)",D07A,"Corticosteroids, moderately potent (group II)",2,Dermatological
+FLUOROURACIL,L01BC,L,Antineoplastic/Immunomodulating,L01,Pyrimidine analogues,L01B,Pyrimidine analogues,1,Antineoplastic
+FLUOXETINE,N06AB,N,Nervous System,N06,Selective serotonin reuptake inhibitors,N06A,Selective serotonin reuptake inhibitors,1,Psychoanaleptic
+FLUOXETINE HYDROCHLORIDE,N06AB,N,Nervous System,N06,Selective serotonin reuptake inhibitors,N06A,Selective serotonin reuptake inhibitors,1,Psychoanaleptic
+FLUTICASONA,R03BA,R,Respiratory,R03,Glucocorticoids,R03B,Glucocorticoids,0,Anti-asthmatic
+FLUTICASONE PROPIONATE,R03AK,R,Respiratory,R03,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics",R03A,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics",4,Anti-asthmatic
+FLUVOXAMINE,N06AB,N,Nervous System,N06,Selective serotonin reuptake inhibitors,N06A,Selective serotonin reuptake inhibitors,1,Psychoanaleptic
+FOLIC ACID,B03AD,B,Blood,B03,Iron in combination with folic acid,B03A,Iron in combination with folic acid,3,Blood (Other)
+FOLINIC ACID,V03AF,V,Various,V03,Detoxifying agents for antineoplastic treatment,V03A,Detoxifying agents for antineoplastic treatment,0,Various
+FOSAMAX,M05BA,M,Musculoskeletal,M05,Bisphosphonates,M05B,Bisphosphonates,1,Musculoskeletal (Other)
+FOSCARBIDOPA/FOSLEVODOPA,N04BA,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+FOSPHENYTOIN,N03AB,N,Nervous System,N03,Hydantoin derivatives,N03A,Hydantoin derivatives,1,Narrow Therapeutic Index
+FUROSEMIDE,C03CB,C,Cardiovascular,C03,Sulfonamides and potassium in combination,C03C,Sulfonamides and potassium in combination,2,Cardiovascular (Other)
+G CSF,L03AA,L,Antineoplastic/Immunomodulating,L03,Colony stimulating factors,L03A,Colony stimulating factors,0,Antineoplastic/Immuno (Other)
+GABAPENTIN,N02BF,N,Nervous System,N02,Gabapentinoids,N02B,Gabapentinoids,1,Analgesic/Opioid
+GANCICLOVIR,J05AB,J,Anti-infectives,J05,Nucleosides and nucleotides excl. reverse transcriptase inhibitors,J05A,Nucleosides and nucleotides excl. reverse transcriptase inhibitors,2,Antiviral
+GEMCITABINE HYDROCHLORIDE,L01BC,L,Antineoplastic/Immunomodulating,L01,Pyrimidine analogues,L01B,Pyrimidine analogues,1,Antineoplastic
+GENTAMICIN,D06AX,J,Anti-infectives,J01,Other aminoglycosides,J01G,Other aminoglycosides,5,Narrow Therapeutic Index
+GIMERACIL\OTERACIL\TEGAFUR,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+GLICLAZIDE,A10BB,A,Alimentary/Metabolism,A10,Sulfonylureas,A10B,Sulfonylureas,1,Antidiabetic
+GLIMEPIRIDE,A10BB,A,Alimentary/Metabolism,A10,Sulfonylureas,A10B,Sulfonylureas,2,Antidiabetic
+GLIPIZIDE,A10BB,A,Alimentary/Metabolism,A10,Sulfonylureas,A10B,Sulfonylureas,1,Antidiabetic
+GLUCOSAMINA,M01AX,M,Musculoskeletal,M01,Other anti-inflammatory agents,M01A,Other anti-inflammatory agents,0,Anti-inflammatory (NSAID)
+GLYBURIDE,A10BB,A,Alimentary/Metabolism,A10,Sulfonylureas,A10B,Sulfonylureas,1,Antidiabetic
+GLYCERYL TRINITRATE,C01DA,C,Cardiovascular,C01,Organic nitrates,C01D,Organic nitrates,2,Cardiovascular (Other)
+GOLD,M01CB,M,Musculoskeletal,M01,Gold preparations,M01C,Gold preparations,0,Anti-inflammatory (NSAID)
+GOLIMUMAB,L04AB,L,Antineoplastic/Immunomodulating,L04,Tumor necrosis factor alpha (TNF-alpha) inhibitors,L04A,Tumor necrosis factor alpha (TNF-alpha) inhibitors,1,Immunosuppressant
+GRANISETRON,A04AA,A,Alimentary/Metabolism,A04,Serotonin (5HT3) antagonists,A04A,Serotonin (5HT3) antagonists,1,Alimentary/Metabolism
+HALOPERIDOL,N05AD,N,Nervous System,N05,Butyrophenone derivatives,N05A,Butyrophenone derivatives,1,Psycholeptic
+HEPARIN,B01AB,B,Blood,B01,Heparin group,B01A,Heparin group,3,Antithrombotic
+HEPARIN SODIUM,B01AB,B,Blood,B01,Heparin group,B01A,Heparin group,3,Antithrombotic
+HUMALOG,A10AB,A,Alimentary/Metabolism,A10,"Insulins and analogues for injection, fast-acting",A10A,"Insulins and analogues for injection, fast-acting",3,Antidiabetic
+HUMAN IMMUNOGLOBULIN G,J06BA,J,Anti-infectives,J06,"Immunoglobulins, normal human",J06B,"Immunoglobulins, normal human",0,Anti-infective (Other)
+HUMIRA,L04AB,L,Antineoplastic/Immunomodulating,L04,Tumor necrosis factor alpha (TNF-alpha) inhibitors,L04A,Tumor necrosis factor alpha (TNF-alpha) inhibitors,1,Immunosuppressant
+HYDRALAZINE,C02DB,C,Cardiovascular,C02,Hydrazinophthalazine derivatives,C02D,Hydrazinophthalazine derivatives,1,Cardiovascular (Other)
+HYDROCHLOROTHIAZIDE,C09XA,C,Cardiovascular,C09,Renin-inhibitors,C09X,Renin-inhibitors,3,RAAS Inhibitor
+HYDROCORTISONE,D07AB,H,Systemic Hormones,H02,Glucocorticoids,H02A,Glucocorticoids,11,Corticosteroid
+HYDROCORTISONE ACETATE,A01AC,H,Systemic Hormones,H02,Glucocorticoids,H02A,Glucocorticoids,9,Corticosteroid
+HYDROMORPHONE,N02AA,N,Nervous System,N02,Natural opium alkaloids,N02A,Natural opium alkaloids,1,Analgesic/Opioid
+HYDROMORPHONE HYDROCHLORIDE,N02AA,N,Nervous System,N02,Natural opium alkaloids,N02A,Natural opium alkaloids,1,Analgesic/Opioid
+HYDROXYCHLOROQUINE,P01BA,P,Antiparasitic,P01,Aminoquinolines,P01B,Aminoquinolines,1,Antiparasitic
+HYDROXYCHLOROQUINE SULFATE,P01BA,P,Antiparasitic,P01,Aminoquinolines,P01B,Aminoquinolines,1,Antiparasitic
+HYDROXYUREA,L01XX,L,Antineoplastic/Immunomodulating,L01,Other antineoplastic agents,L01X,Other antineoplastic agents,1,Antineoplastic
+HYDROXYZINE,N05BB,N,Nervous System,N05,Diphenylmethane derivatives,N05B,Diphenylmethane derivatives,1,Psycholeptic
+HYDROXYZINE DIHYDROCHLORIDE,N05BB,N,Nervous System,N05,Diphenylmethane derivatives,N05B,Diphenylmethane derivatives,1,Psycholeptic
+HYRIMOZ,L04AB,L,Antineoplastic/Immunomodulating,L04,Tumor necrosis factor alpha (TNF-alpha) inhibitors,L04A,Tumor necrosis factor alpha (TNF-alpha) inhibitors,1,Immunosuppressant
+IBUPROFEN,N02AJ,N,Nervous System,N02,Opioids in combination with non-opioid analgesics,N02A,Opioids in combination with non-opioid analgesics,6,Analgesic/Opioid
+ICATIBANT,B06AC,B,Blood,B06,Drugs used in hereditary angioedema,B06A,Drugs used in hereditary angioedema,1,Blood (Other)
+IDARUBICIN HYDROCHLORIDE,L01DB,L,Antineoplastic/Immunomodulating,L01,Anthracyclines and related substances,L01D,Anthracyclines and related substances,1,Antineoplastic
+IFOSFAMIDE,L01AA,L,Antineoplastic/Immunomodulating,L01,Nitrogen mustard analogues,L01A,Nitrogen mustard analogues,1,Antineoplastic
+IMFINZI,L01FF,L,Antineoplastic/Immunomodulating,L01,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,L01F,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,1,Antineoplastic
+IMODIUM,A07DA,A,Alimentary/Metabolism,A07,Antipropulsives,A07D,Antipropulsives,1,Alimentary/Metabolism
+INDAPAMIDE,C03BA,C,Cardiovascular,C03,"Sulfonamides, plain",C03B,"Sulfonamides, plain",1,Cardiovascular (Other)
+INFLIXIMAB,L04AB,L,Antineoplastic/Immunomodulating,L04,Tumor necrosis factor alpha (TNF-alpha) inhibitors,L04A,Tumor necrosis factor alpha (TNF-alpha) inhibitors,1,Immunosuppressant
+INSULIN,A10AB,A,Alimentary/Metabolism,A10,Insulins,A10A,Insulins,0,Antidiabetic
+INSULIN ASPART,A10AB,A,Alimentary/Metabolism,A10,"Insulins, fast-acting",A10A,"Insulins, fast-acting",0,Antidiabetic
+INSULIN GLARGINE,A10AE,A,Alimentary/Metabolism,A10,"Insulins and analogues for injection, long-acting",A10A,"Insulins and analogues for injection, long-acting",1,Antidiabetic
+INSULIN LISPRO,A10AB,A,Alimentary/Metabolism,A10,"Insulins and analogues for injection, fast-acting",A10A,"Insulins and analogues for injection, fast-acting",3,Antidiabetic
+IPRATROPIUM,R01AX,R,Respiratory,R03,Anticholinergics,R03B,Anticholinergics,2,Anti-asthmatic
+IPRATROPIUM BROMIDE,R01AX,R,Respiratory,R03,Anticholinergics,R03B,Anticholinergics,2,Anti-asthmatic
+IRBESARTAN,C09CA,C,Cardiovascular,C09,"Angiotensin II receptor blockers (ARBs), plain",C09C,"Angiotensin II receptor blockers (ARBs), plain",1,RAAS Inhibitor
+ISATUXIMAB,L01FC,L,Antineoplastic/Immunomodulating,L01,CD38 (Clusters of Differentiation 38) inhibitors,L01F,CD38 (Clusters of Differentiation 38) inhibitors,1,Antineoplastic
+ISMN,C01DA,C,Cardiovascular,C01,Organic nitrates,C01D,Organic nitrates,0,Cardiovascular (Other)
+ISONIAZID,J04AM,J,Anti-infectives,J04,Combinations of drugs for treatment of tuberculosis,J04A,Combinations of drugs for treatment of tuberculosis,2,Anti-infective (Other)
+ISOSORBIDI DINITRAS,C01DA,C,Cardiovascular,C01,Organic nitrates,C01D,Organic nitrates,0,Cardiovascular (Other)
+IVABRADINE,C01EB,C,Cardiovascular,C01,Other cardiac preparations,C01E,Other cardiac preparations,1,Cardiovascular (Other)
+JANUVIA,A10BH,A,Alimentary/Metabolism,A10,Dipeptidyl peptidase 4 (DPP-4) inhibitors,A10B,Dipeptidyl peptidase 4 (DPP-4) inhibitors,1,Antidiabetic
+JARDIANCE,A10BK,A,Alimentary/Metabolism,A10,Sodium-glucose co-transporter 2 (SGLT2) inhibitors,A10B,Sodium-glucose co-transporter 2 (SGLT2) inhibitors,1,Antidiabetic
+KALYDECO,R07AX,R,Respiratory,R07,Other respiratory system products,R07A,Other respiratory system products,1,Respiratory (Other)
+KARDEGIC,B01AC,B,Blood,B01,Platelet aggregation inhibitors,B01A,Platelet aggregation inhibitors,0,Antithrombotic
+KEPPRA,N03AX,N,Nervous System,N03,Other antiepileptics,N03A,Other antiepileptics,1,Antiepileptic
+KETAMINE,N01AX,N,Nervous System,N01,Other general anesthetics,N01A,Other general anesthetics,1,Anesthetic
+KETAMINE HYDROCHLORIDE,N01AX,N,Nervous System,N01,Other general anesthetics,N01A,Other general anesthetics,1,Anesthetic
+KETOPROFEN,M01AE,M,Musculoskeletal,M01,Propionic acid derivatives,M01A,Propionic acid derivatives,2,Anti-inflammatory (NSAID)
+KETOROLAC,S01FB,M,Musculoskeletal,M01,Acetic acid derivatives and related substances,M01A,Acetic acid derivatives and related substances,3,Anti-inflammatory (NSAID)
+KEVZARA,L04AC,L,Antineoplastic/Immunomodulating,L04,Interleukin inhibitors,L04A,Interleukin inhibitors,1,Immunosuppressant
+KEYTRUDA,L01FF,L,Antineoplastic/Immunomodulating,L01,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,L01F,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,1,Antineoplastic
+KORTISON,H02AB,H,Systemic Hormones,H02,Glucocorticoids,H02A,Glucocorticoids,0,Corticosteroid
+LABETOLOL,C07AG,C,Cardiovascular,C07,Alpha and beta blocking agents,C07A,Alpha and beta blocking agents,0,Beta Blocker
+LACOSAMIDE,N03AX,N,Nervous System,N03,Other antiepileptics,N03A,Other antiepileptics,1,Antiepileptic
+LACTULOSE,A06AD,A,Alimentary/Metabolism,A06,Osmotically acting laxatives,A06A,Osmotically acting laxatives,1,Alimentary/Metabolism
+LAMICTAL,N03AX,N,Nervous System,N03,Other antiepileptics,N03A,Other antiepileptics,1,Antiepileptic
+LAMOTRIGINE,N03AX,N,Nervous System,N03,Other antiepileptics,N03A,Other antiepileptics,1,Antiepileptic
+LANADELUMAB,B06AC,B,Blood,B06,Drugs used in hereditary angioedema,B06A,Drugs used in hereditary angioedema,1,Blood (Other)
+LANSOPRAZOLE,A02BC,A,Alimentary/Metabolism,A02,Proton pump inhibitors,A02B,Proton pump inhibitors,1,Alimentary/Metabolism
+LANTUS,A10AE,A,Alimentary/Metabolism,A10,"Insulins and analogues for injection, long-acting",A10A,"Insulins and analogues for injection, long-acting",1,Antidiabetic
+LANTUS SOLOSTAR,A10AE,A,Alimentary/Metabolism,A10,"Insulins, long-acting",A10A,"Insulins, long-acting",0,Antidiabetic
+LASIX,C03CA,C,Cardiovascular,C03,"Sulfonamides, plain",C03C,"Sulfonamides, plain",1,Cardiovascular (Other)
+LATANOPROST,S01EE,S,Sensory Organs,S01,Prostaglandin analogues,S01E,Prostaglandin analogues,1,Sensory
+LECITHIN,A05BA,A,Alimentary/Metabolism,A05,"Liver therapy, lipotropics",A05B,"Liver therapy, lipotropics",0,Alimentary/Metabolism
+LEFLUNOMIDE,L04AK,L,Antineoplastic/Immunomodulating,L04,Dihydroorotate dehydrogenase (DHODH) inhibitors,L04A,Dihydroorotate dehydrogenase (DHODH) inhibitors,1,Immunosuppressant
+LENALIDOMIDE,L04AX,L,Antineoplastic/Immunomodulating,L04,Other immunosuppressants,L04A,Other immunosuppressants,1,Immunosuppressant
+LENVIMA,L01EX,L,Antineoplastic/Immunomodulating,L01,Other protein kinase inhibitors,L01E,Other protein kinase inhibitors,1,Antineoplastic
+LERCANIDIPINO,C08CA,C,Cardiovascular,C08,Dihydropyridine derivatives,C08C,Dihydropyridine derivatives,0,Cardiovascular (Other)
+LETAIRIS,C02KX,C,Cardiovascular,C02,Antihypertensives for pulmonary arterial hypertension,C02K,Antihypertensives for pulmonary arterial hypertension,1,Cardiovascular (Other)
+LETROZOLE,L02BG,L,Antineoplastic/Immunomodulating,L02,Aromatase inhibitors,L02B,Aromatase inhibitors,1,Antineoplastic/Immuno (Other)
+LEUCOVORIN CALCIUM,V03AF,V,Various,V03,Detoxifying agents for antineoplastic treatment,V03A,Detoxifying agents for antineoplastic treatment,1,Various
+LEVEMIR,A10AE,A,Alimentary/Metabolism,A10,"Insulins and analogues for injection, long-acting",A10A,"Insulins and analogues for injection, long-acting",1,Antidiabetic
+LEVETIRACETAM,N03AX,N,Nervous System,N03,Other antiepileptics,N03A,Other antiepileptics,1,Antiepileptic
+LEVOFLOXACIN,J01MA,J,Anti-infectives,J01,Fluoroquinolones,J01M,Fluoroquinolones,2,Antibacterial
+LEVOTHYROXINE SODIUM,H03AA,H,Systemic Hormones,H03,Thyroid hormones,H03A,Thyroid hormones,1,Hormonal
+LIDOCAINE,C01BB,C,Cardiovascular,C01,"Antiarrhythmics, class Ib",C01B,"Antiarrhythmics, class Ib",7,Cardiovascular (Other)
+LIDOCAINE / PRILOCAINE,C01BB,C,Cardiovascular,C01,"Antiarrhythmics, class Ib",C01B,"Antiarrhythmics, class Ib",7,Cardiovascular (Other)
+LIDOCAINE HYDROCHLORIDE,C01BB,C,Cardiovascular,C01,"Antiarrhythmics, class Ib",C01B,"Antiarrhythmics, class Ib",7,Cardiovascular (Other)
+LINAGLIPTIN,A10BH,A,Alimentary/Metabolism,A10,Dipeptidyl peptidase 4 (DPP-4) inhibitors,A10B,Dipeptidyl peptidase 4 (DPP-4) inhibitors,2,Antidiabetic
+LINEZOLID,J01XX,J,Anti-infectives,J01,Other antibacterials,J01X,Other antibacterials,1,Antibacterial
+LIPITOR,C10AA,C,Cardiovascular,C10,HMG CoA reductase inhibitors,C10A,HMG CoA reductase inhibitors,1,Lipid Modifying
+LIPOGEN,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+LISINOPRIL,C09AA,C,Cardiovascular,C09,"ACE inhibitors, plain",C09A,"ACE inhibitors, plain",1,RAAS Inhibitor
+LITHIUM,N05AN,N,Nervous System,N05,Lithium,N05A,Lithium,1,Narrow Therapeutic Index
+LITHIUM CARBONATE,N05AN,N,Nervous System,N05,Lithium,N05A,Lithium,0,Narrow Therapeutic Index
+LOMOTIL,A03BA,A,Alimentary/Metabolism,A07,Antipropulsives,A07D,Antipropulsives,3,Alimentary/Metabolism
+LOPERAMIDE,A07DA,A,Alimentary/Metabolism,A07,Antipropulsives,A07D,Antipropulsives,1,Alimentary/Metabolism
+LOPERAMIDE HYDROCHLORIDE,A07DA,A,Alimentary/Metabolism,A07,Antipropulsives,A07D,Antipropulsives,1,Alimentary/Metabolism
+LORATADINE,R06AX,R,Respiratory,R06,Other antihistamines for systemic use,R06A,Other antihistamines for systemic use,1,Respiratory (Other)
+LORAZEPAM,N05BA,N,Nervous System,N05,Benzodiazepine derivatives,N05B,Benzodiazepine derivatives,1,Psycholeptic
+LOSARTAN,C09CA,C,Cardiovascular,C09,"Angiotensin II receptor blockers (ARBs), plain",C09C,"Angiotensin II receptor blockers (ARBs), plain",1,RAAS Inhibitor
+LOSARTAN POTASSIUM,C09CA,C,Cardiovascular,C09,"Angiotensin II receptor blockers (ARBs), plain",C09C,"Angiotensin II receptor blockers (ARBs), plain",1,RAAS Inhibitor
+LOVENOX,B01AB,B,Blood,B01,Heparin group,B01A,Heparin group,1,Antithrombotic
+LOXAPINE,N05AH,N,Nervous System,N05,"Diazepines, oxazepines, thiazepines and oxepines",N05A,"Diazepines, oxazepines, thiazepines and oxepines",1,Psycholeptic
+LOXOPROFEN,M01AE,M,Musculoskeletal,M01,Propionic acid derivatives,M01A,Propionic acid derivatives,2,Anti-inflammatory (NSAID)
+LT4,H03AA,H,Systemic Hormones,H03,Thyroid hormones,H03A,Thyroid hormones,0,Hormonal
+LYRICA,N02BF,N,Nervous System,N02,Gabapentinoids,N02B,Gabapentinoids,1,Analgesic/Opioid
+MAGNESIUM,A12CC,A,Alimentary/Metabolism,A12,Magnesium,A12C,Magnesium,0,Alimentary/Metabolism
+MAGNESIUM OXIDE,A02AA,A,Alimentary/Metabolism,A02,Magnesium compounds,A02A,Magnesium compounds,3,Alimentary/Metabolism
+MAGNESIUM SULFATE,A06AD,A,Alimentary/Metabolism,A06,Osmotically acting laxatives,A06A,Osmotically acting laxatives,5,Alimentary/Metabolism
+MELATONINA,N05CH,N,Nervous System,N05,Melatonin receptor agonists,N05C,Melatonin receptor agonists,0,Psycholeptic
+MELOXICAM,N01BB,M,Musculoskeletal,M01,Oxicams,M01A,Oxicams,2,Anti-inflammatory (NSAID)
+MEMANTINE,N06DA,N,Nervous System,N06,Anticholinesterases,N06D,Anticholinesterases,2,Psychoanaleptic
+MENTHOL/MINERAL OIL/VITAMIN A,A06AA,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+MEPOLIZUMAB,R03DX,R,Respiratory,R03,Other systemic drugs for obstructive airway diseases,R03D,Other systemic drugs for obstructive airway diseases,1,Anti-asthmatic
+MERCAPTOPURINE,L01BB,L,Antineoplastic/Immunomodulating,L01,Purine analogues,L01B,Purine analogues,1,Antineoplastic
+MEROPENEM,J01DH,J,Anti-infectives,J01,Carbapenems,J01D,Carbapenems,1,Antibacterial
+MESALAMINE,A07EC,A,Alimentary/Metabolism,A07,Aminosalicylic acid and similar agents,A07E,Aminosalicylic acid and similar agents,1,Alimentary/Metabolism
+MESNA,R05CB,R,Respiratory,R05,Mucolytics,R05C,Mucolytics,2,Respiratory (Other)
+METFORMIN,A10BD,A,Alimentary/Metabolism,A10,Combinations of oral blood glucose lowering drugs,A10B,Combinations of oral blood glucose lowering drugs,2,Antidiabetic
+METFORMIN HYDROCHLORIDE,A10BD,A,Alimentary/Metabolism,A10,Combinations of oral blood glucose lowering drugs,A10B,Combinations of oral blood glucose lowering drugs,2,Antidiabetic
+METHADONE,N07BC,N,Nervous System,N07,Drugs used in opioid dependence,N07B,Drugs used in opioid dependence,1,Nervous System (Other)
+METHADONE HYDROCHLORIDE,N07BC,N,Nervous System,N07,Drugs used in opioid dependence,N07B,Drugs used in opioid dependence,1,Nervous System (Other)
+METHAMPHETAMINE,N06BA,N,Nervous System,N06,Centrally acting sympathomimetics,N06B,Centrally acting sympathomimetics,1,Psychoanaleptic
+METHIMAZOLE,H03BB,H,Systemic Hormones,H03,Sulfur-containing imidazole derivatives,H03B,Sulfur-containing imidazole derivatives,1,Hormonal
+METHOCARBAMOL,M03BA,M,Musculoskeletal,M03,Carbamic acid esters,M03B,Carbamic acid esters,1,Musculoskeletal (Other)
+METHOTREXATE,L01BA,L,Antineoplastic/Immunomodulating,L01,Folic acid analogues,L01B,Folic acid analogues,2,Antineoplastic
+METHOTREXATE SODIUM,L01BA,L,Antineoplastic/Immunomodulating,L01,Folic acid analogues,L01B,Folic acid analogues,2,Antineoplastic
+METHOTRIMEPRAZINE,N05AA,N,Nervous System,N05,Phenothiazines with aliphatic side-chain,N05A,Phenothiazines with aliphatic side-chain,1,Psycholeptic
+METHYLPHENIDATE,N06BA,N,Nervous System,N06,Centrally acting sympathomimetics,N06B,Centrally acting sympathomimetics,1,Psychoanaleptic
+METHYLPREDNISOLONE,D07AC,H,Systemic Hormones,H02,Glucocorticoids,H02A,Glucocorticoids,4,Corticosteroid
+METHYLPREDNISOLONE SODIUM SUCCINATE,D07AA,H,Systemic Hormones,H02,Glucocorticoids,H02A,Glucocorticoids,3,Corticosteroid
+METOCLOPRAMIDE,A03FA,A,Alimentary/Metabolism,A03,Propulsives,A03F,Propulsives,1,Alimentary/Metabolism
+METOCLOPRAMIDE HYDROCHLORIDE,A03FA,A,Alimentary/Metabolism,A03,Propulsives,A03F,Propulsives,1,Alimentary/Metabolism
+METOLAZONE,C03BA,C,Cardiovascular,C03,"Sulfonamides, plain",C03B,"Sulfonamides, plain",1,Cardiovascular (Other)
+METOPROLOL,C07FB,C,Cardiovascular,C07,Beta blocking agents and calcium channel blockers,C07F,Beta blocking agents and calcium channel blockers,2,Beta Blocker
+METOPROLOL SUCCINATE,C07AB,C,Cardiovascular,C07,"Beta blocking agents, selective",C07A,"Beta blocking agents, selective",1,Beta Blocker
+METOPROLOL TARTRATE,C07AB,C,Cardiovascular,C07,"Beta blocking agents, selective",C07A,"Beta blocking agents, selective",1,Beta Blocker
+METRONIDAZOLE,A02BD,J,Anti-infectives,J01,Combinations of antibacterials,J01R,Combinations of antibacterials,7,Antibacterial
+MICAFUNGIN,J02AX,J,Anti-infectives,J02,Other antimycotics for systemic use,J02A,Other antimycotics for systemic use,1,Anti-infective (Other)
+MIDAZOLAM,N05CD,N,Nervous System,N05,Benzodiazepine derivatives,N05C,Benzodiazepine derivatives,1,Psycholeptic
+MIDODRINE,C01CA,C,Cardiovascular,C01,Adrenergic and dopaminergic agents,C01C,Adrenergic and dopaminergic agents,1,Cardiovascular (Other)
+MIDODRINE HYDROCHLORIDE,C01CA,C,Cardiovascular,C01,Adrenergic and dopaminergic agents,C01C,Adrenergic and dopaminergic agents,1,Cardiovascular (Other)
+MINOCICLINA,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+MIRABEGRON,G04BD,G,Genitourinary/Sex Hormones,G04,Drugs for urinary frequency and incontinence,G04B,Drugs for urinary frequency and incontinence,1,Genitourinary
+MIRALAX,A06AD,A,Alimentary/Metabolism,A06,Osmotically acting laxatives,A06A,Osmotically acting laxatives,0,Alimentary/Metabolism
+MIRTAZAPINE,N06AX,N,Nervous System,N06,Other antidepressants,N06A,Other antidepressants,1,Psychoanaleptic
+MOMETASONE FUROATE,R03AK,R,Respiratory,R03,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics",R03A,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics",5,Anti-asthmatic
+MONTELUKAST,R03DC,R,Respiratory,R03,Leukotriene receptor antagonists,R03D,Leukotriene receptor antagonists,1,Anti-asthmatic
+MONTELUKAST SODIUM,R03DC,R,Respiratory,R03,Leukotriene receptor antagonists,R03D,Leukotriene receptor antagonists,1,Anti-asthmatic
+MORPHINE,N02AA,N,Nervous System,N02,Natural opium alkaloids,N02A,Natural opium alkaloids,1,Analgesic/Opioid
+MORPHINE SULFATE,N02AA,N,Nervous System,N02,Natural opium alkaloids,N02A,Natural opium alkaloids,1,Analgesic/Opioid
+MOUNJARO,A10BX,A,Alimentary/Metabolism,A10,"Other blood glucose lowering drugs, excl. insulins",A10B,"Other blood glucose lowering drugs, excl. insulins",1,Antidiabetic
+MOVICOL,A06AD,A,Alimentary/Metabolism,A06,Osmotically acting laxatives,A06A,Osmotically acting laxatives,0,Alimentary/Metabolism
+MOXIFLOXACIN,J01MA,J,Anti-infectives,J01,Fluoroquinolones,J01M,Fluoroquinolones,2,Antibacterial
+MUCINEX,R05CA,R,Respiratory,R05,Expectorants,R05C,Expectorants,1,Respiratory (Other)
+MYCOPHENOLATE MOFETIL,L04AA,L,Antineoplastic/Immunomodulating,L04,Selective immunosuppressants,L04A,Selective immunosuppressants,0,Immunosuppressant
+MYCOPHENOLIC ACID,L04AA,L,Antineoplastic/Immunomodulating,L04,Selective immunosuppressants,L04A,Selective immunosuppressants,1,Immunosuppressant
+MYRBETRIQ,G04BD,G,Genitourinary/Sex Hormones,G04,Drugs for urinary frequency and incontinence,G04B,Drugs for urinary frequency and incontinence,1,Genitourinary
+NAPROXEN,M01AE,M,Musculoskeletal,M01,Propionic acid derivatives,M01A,Propionic acid derivatives,4,Anti-inflammatory (NSAID)
+NAPROXEN SODIUM,M01AE,M,Musculoskeletal,M01,Propionic acid derivatives,M01A,Propionic acid derivatives,4,Anti-inflammatory (NSAID)
+NEBIVOLOL,C09DX,C,Cardiovascular,C09,"Angiotensin II receptor blockers (ARBs), other combinations",C09D,"Angiotensin II receptor blockers (ARBs), other combinations",2,RAAS Inhibitor
+NEUPRO,N04BC,N,Nervous System,N04,Dopamine agonists,N04B,Dopamine agonists,1,Nervous System (Other)
+NEXIUM,A02BC,A,Alimentary/Metabolism,A02,Proton pump inhibitors,A02B,Proton pump inhibitors,1,Alimentary/Metabolism
+NICORANDIL,C01DX,C,Cardiovascular,C01,Other vasodilators used in cardiac diseases,C01D,Other vasodilators used in cardiac diseases,1,Cardiovascular (Other)
+NICOTINE,N07BA,N,Nervous System,N07,Drugs used in nicotine dependence,N07B,Drugs used in nicotine dependence,1,Nervous System (Other)
+NIFEDIPINE,C07FB,C,Cardiovascular,C07,Beta blocking agents and calcium channel blockers,C07F,Beta blocking agents and calcium channel blockers,2,Beta Blocker
+NIVOLUMAB,L01FF,L,Antineoplastic/Immunomodulating,L01,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,L01F,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,2,Antineoplastic
+NOREPINEPHRINE BITARTRATE,C01CA,C,Cardiovascular,C01,Adrenergic and dopaminergic agents,C01C,Adrenergic and dopaminergic agents,1,Cardiovascular (Other)
+NOURIANZ,N04CX,N,Nervous System,N04,Other antiparkinson drugs,N04C,Other antiparkinson drugs,1,Nervous System (Other)
+NOVOLOG,A10AB,A,Alimentary/Metabolism,A10,"Insulins and analogues for injection, fast-acting",A10A,"Insulins and analogues for injection, fast-acting",2,Antidiabetic
+NOVORAPID,A10AB,A,Alimentary/Metabolism,A10,"Insulins, fast-acting",A10A,"Insulins, fast-acting",0,Antidiabetic
+NUCALA,R03DX,R,Respiratory,R03,Other systemic drugs for obstructive airway diseases,R03D,Other systemic drugs for obstructive airway diseases,1,Anti-asthmatic
+NUPLAZID,N05AX,N,Nervous System,N05,Other antipsychotics,N05A,Other antipsychotics,1,Psycholeptic
+NYSTATIN,J01RA,J,Anti-infectives,J01,Combinations of antibacterials,J01R,Combinations of antibacterials,4,Antibacterial
+OCREVUS,L04AG,L,Antineoplastic/Immunomodulating,L04,Monoclonal antibodies,L04A,Monoclonal antibodies,1,Immunosuppressant
+OFEV,L01EX,L,Antineoplastic/Immunomodulating,L01,Other protein kinase inhibitors,L01E,Other protein kinase inhibitors,1,Antineoplastic
+OLANZAPINE,N05AH,N,Nervous System,N05,"Diazepines, oxazepines, thiazepines and oxepines",N05A,"Diazepines, oxazepines, thiazepines and oxepines",1,Psycholeptic
+OMEPRAZOLE,A02BD,A,Alimentary/Metabolism,A02,Combinations for eradication of Helicobacter pylori,A02B,Combinations for eradication of Helicobacter pylori,2,Alimentary/Metabolism
+ONDANSETRON,A04AA,A,Alimentary/Metabolism,A04,Serotonin (5HT3) antagonists,A04A,Serotonin (5HT3) antagonists,1,Alimentary/Metabolism
+ONDANSETRON HYDROCHLORIDE,A04AA,A,Alimentary/Metabolism,A04,Serotonin (5HT3) antagonists,A04A,Serotonin (5HT3) antagonists,1,Alimentary/Metabolism
+ONFI,N05BA,N,Nervous System,N05,Benzodiazepine derivatives,N05B,Benzodiazepine derivatives,1,Psycholeptic
+ONIVYDE,L01CE,L,Antineoplastic/Immunomodulating,L01,Topoisomerase 1 (TOP1) inhibitors,L01C,Topoisomerase 1 (TOP1) inhibitors,1,Antineoplastic
+OPDIVO,L01FF,L,Antineoplastic/Immunomodulating,L01,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,L01F,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,1,Antineoplastic
+OPSUMIT,C02KX,C,Cardiovascular,C02,Antihypertensives for pulmonary arterial hypertension,C02K,Antihypertensives for pulmonary arterial hypertension,1,Cardiovascular (Other)
+ORENCIA,L04AA,L,Antineoplastic/Immunomodulating,L04,Selective immunosuppressants,L04A,Selective immunosuppressants,1,Immunosuppressant
+ORENITRAM,B01AC,B,Blood,B01,Platelet aggregation inhibitors excl. heparin,B01A,Platelet aggregation inhibitors excl. heparin,1,Antithrombotic
+ORIDONIN,L01XX,L,Antineoplastic/Immunomodulating,L01,Other antineoplastic agents,L01X,Other antineoplastic agents,0,Antineoplastic
+OTEZLA,L04AA,L,Antineoplastic/Immunomodulating,L04,Selective immunosuppressants,L04A,Selective immunosuppressants,1,Immunosuppressant
+OXALIPLATIN,L01XA,L,Antineoplastic/Immunomodulating,L01,Platinum compounds,L01X,Platinum compounds,1,Antineoplastic
+OXAZEPAM,N05BA,N,Nervous System,N05,Benzodiazepine derivatives,N05B,Benzodiazepine derivatives,1,Psycholeptic
+OXYBUTYNIN,G04BD,G,Genitourinary/Sex Hormones,G04,Drugs for urinary frequency and incontinence,G04B,Drugs for urinary frequency and incontinence,1,Genitourinary
+OXYCODONE,N02AA,N,Nervous System,N02,Natural opium alkaloids,N02A,Natural opium alkaloids,2,Analgesic/Opioid
+OXYCODONE HYDROCHLORIDE,N02AJ,N,Nervous System,N02,Opioids in combination with non-opioid analgesics,N02A,Opioids in combination with non-opioid analgesics,2,Analgesic/Opioid
+OXYCONTIN,N02AA,N,Nervous System,N02,Natural opium alkaloids,N02A,Natural opium alkaloids,1,Analgesic/Opioid
+OXYGEN,V03AN,V,Various,V03,Medical gases,V03A,Medical gases,1,Various
+OZEMPIC,A10BJ,A,Alimentary/Metabolism,A10,Glucagon-like peptide-1 (GLP-1) analogues,A10B,Glucagon-like peptide-1 (GLP-1) analogues,1,Antidiabetic
+PACLITAXEL,L01CD,L,Antineoplastic/Immunomodulating,L01,Taxanes,L01C,Taxanes,1,Antineoplastic
+PALIPERIDONE,N05AX,N,Nervous System,N05,Other antipsychotics,N05A,Other antipsychotics,1,Psycholeptic
+PANTOPRAZOLE,A02BC,A,Alimentary/Metabolism,A02,Proton pump inhibitors,A02B,Proton pump inhibitors,1,Alimentary/Metabolism
+PANTOPRAZOLE SODIUM,A02BC,A,Alimentary/Metabolism,A02,Proton pump inhibitors,A02B,Proton pump inhibitors,1,Alimentary/Metabolism
+PAROXETINE,N06AB,N,Nervous System,N06,Selective serotonin reuptake inhibitors,N06A,Selective serotonin reuptake inhibitors,1,Psychoanaleptic
+PAROXETINE HYDROCHLORIDE,N06AB,N,Nervous System,N06,Selective serotonin reuptake inhibitors,N06A,Selective serotonin reuptake inhibitors,1,Psychoanaleptic
+PAXLOVID,J05AE,J,Anti-infectives,J05,Protease inhibitors,J05A,Protease inhibitors,0,Antiviral
+PEGASPARGASE,L01XX,L,Antineoplastic/Immunomodulating,L01,Other antineoplastic agents,L01X,Other antineoplastic agents,1,Antineoplastic
+PEMBROLIZUMAB,L01FF,L,Antineoplastic/Immunomodulating,L01,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,L01F,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,1,Antineoplastic
+PEMETREXED,L01BA,L,Antineoplastic/Immunomodulating,L01,Folic acid analogues,L01B,Folic acid analogues,1,Antineoplastic
+PEPCID,A02BA,A,Alimentary/Metabolism,A02,H2-receptor antagonists,A02B,H2-receptor antagonists,1,Alimentary/Metabolism
+PERINDOPRIL,C09BB,C,Cardiovascular,C09,ACE inhibitors and calcium channel blockers,C09B,ACE inhibitors and calcium channel blockers,2,RAAS Inhibitor
+PERPRAZOLE,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+PHENOBARBITAL,N03AA,N,Nervous System,N03,Barbiturates and derivatives,N03A,Barbiturates and derivatives,1,Antiepileptic
+PHENYLEPHRINE,S01FB,C,Cardiovascular,C01,Adrenergic and dopaminergic agents,C01C,Adrenergic and dopaminergic agents,7,Cardiovascular (Other)
+PHENYLEPHRINE HYDROCHLORIDE,C01CA,C,Cardiovascular,C01,Adrenergic and dopaminergic agents,C01C,Adrenergic and dopaminergic agents,7,Cardiovascular (Other)
+PHENYTOIN,N03AB,N,Nervous System,N03,Hydantoin derivatives,N03A,Hydantoin derivatives,1,Narrow Therapeutic Index
+PHLOROGLUCINOL,A03AX,A,Alimentary/Metabolism,A03,Other drugs for functional gastrointestinal disorders,A03A,Other drugs for functional gastrointestinal disorders,1,Alimentary/Metabolism
+PHTHALYLSULFATHIAZOLE,A07AB,A,Alimentary/Metabolism,A07,Sulfonamides,A07A,Sulfonamides,1,Alimentary/Metabolism
+PIPERACILLIN / TAZOBACTAM,J01CG,J,Anti-infectives,J01,Beta-lactamase inhibitors,J01C,Beta-lactamase inhibitors,2,Antibacterial
+PIPERACILLIN SODIUM\TAZOBACTAM SODIUM,J01CA,J,Anti-infectives,J01,Penicillins with extended spectrum,J01C,Penicillins with extended spectrum,0,Antibacterial
+PIRIDOSTIGMINA,N07AA,N,Nervous System,N07,Anticholinesterases,N07A,Anticholinesterases,0,Nervous System (Other)
+PLAQUENIL,P01BA,P,Antiparasitic,P01,Aminoquinolines,P01B,Aminoquinolines,1,Antiparasitic
+PLAVIX,B01AC,B,Blood,B01,Platelet aggregation inhibitors excl. heparin,B01A,Platelet aggregation inhibitors excl. heparin,1,Antithrombotic
+POLARAMINE,R06AB,R,Respiratory,R06,Substituted alkylamines,R06A,Substituted alkylamines,0,Respiratory (Other)
+POLOXAMER,A06AX,A,Alimentary/Metabolism,A06,Other drugs for constipation,A06A,Other drugs for constipation,0,Alimentary/Metabolism
+POLYETHYLENE GLYCOL,A06AD,A,Alimentary/Metabolism,A06,Osmotically acting laxatives,A06A,Osmotically acting laxatives,0,Alimentary/Metabolism
+POLYETHYLENE GLYCOL 3350,A06AD,A,Alimentary/Metabolism,A06,Osmotically acting laxatives,A06A,Osmotically acting laxatives,0,Alimentary/Metabolism
+POLYETHYLENE GLYCOL 4000,A06AD,A,Alimentary/Metabolism,A06,Osmotically acting laxatives,A06A,Osmotically acting laxatives,0,Alimentary/Metabolism
+POMALYST,L04AX,L,Antineoplastic/Immunomodulating,L04,Other immunosuppressants,L04A,Other immunosuppressants,1,Immunosuppressant
+PONATINIB,L01EA,L,Antineoplastic/Immunomodulating,L01,BCR-ABL tyrosine kinase inhibitors,L01E,BCR-ABL tyrosine kinase inhibitors,1,Antineoplastic
+POSACONAZOLE,J02AC,J,Anti-infectives,J02,Triazole and tetrazole derivatives,J02A,Triazole and tetrazole derivatives,1,Anti-infective (Other)
+POTASSIUM,C03CB,C,Cardiovascular,C03,Sulfonamides and potassium in combination,C03C,Sulfonamides and potassium in combination,2,Cardiovascular (Other)
+POTASSIUM CHLORIDE,A12BA,A,Alimentary/Metabolism,A12,Potassium,A12B,Potassium,2,Alimentary/Metabolism
+PRAMIPEXOLE,N04BC,N,Nervous System,N04,Dopamine agonists,N04B,Dopamine agonists,1,Nervous System (Other)
+PRAVASTATIN SODIUM,C10AA,C,Cardiovascular,C10,HMG CoA reductase inhibitors,C10A,HMG CoA reductase inhibitors,1,Lipid Modifying
+PREDNISOLONE,A01AC,H,Systemic Hormones,H02,Glucocorticoids,H02A,Glucocorticoids,11,Corticosteroid
+PREDNISONE,A07EA,H,Systemic Hormones,H02,Glucocorticoids,H02A,Glucocorticoids,2,Corticosteroid
+PREGABALIN,N02BF,N,Nervous System,N02,Gabapentinoids,N02B,Gabapentinoids,1,Analgesic/Opioid
+PRETOMANID,J04AK,J,Anti-infectives,J04,Other drugs for treatment of tuberculosis,J04A,Other drugs for treatment of tuberculosis,1,Anti-infective (Other)
+PROAIR,R03AC,R,Respiratory,R03,Selective beta-2-adrenoreceptor agonists,R03A,Selective beta-2-adrenoreceptor agonists,2,Anti-asthmatic
+PROCHLORPERAZINE,N05AB,N,Nervous System,N05,Phenothiazines with piperazine structure,N05A,Phenothiazines with piperazine structure,1,Psycholeptic
+PROGRAF,D11AH,L,Antineoplastic/Immunomodulating,L04,Calcineurin inhibitors,L04A,Calcineurin inhibitors,2,Immunosuppressant
+PROMETHAZINE,D04AA,R,Respiratory,R06,Phenothiazine derivatives,R06A,Phenothiazine derivatives,2,Respiratory (Other)
+PROPOFOL,N01AX,N,Nervous System,N01,Other general anesthetics,N01A,Other general anesthetics,1,Anesthetic
+PROPRANOLOL,C07AA,C,Cardiovascular,C07,"Beta blocking agents, non-selective",C07A,"Beta blocking agents, non-selective",1,Beta Blocker
+PROTONIX,A02BC,A,Alimentary/Metabolism,A02,Proton pump inhibitors,A02B,Proton pump inhibitors,1,Alimentary/Metabolism
+PSEUDOEPHEDRINE HYDROCHLORIDE,R01BA,R,Respiratory,R01,Sympathomimetics,R01B,Sympathomimetics,1,Respiratory (Other)
+PULMOZYME,R05CB,R,Respiratory,R05,Mucolytics,R05C,Mucolytics,1,Respiratory (Other)
+PYRIDOXINE,A11HA,A,Alimentary/Metabolism,A11,Other plain vitamin preparations,A11H,Other plain vitamin preparations,1,Alimentary/Metabolism
+QUETIAPINE,N05AH,N,Nervous System,N05,"Diazepines, oxazepines, thiazepines and oxepines",N05A,"Diazepines, oxazepines, thiazepines and oxepines",1,Psycholeptic
+QUETIAPINE FUMARATE,N05AH,N,Nervous System,N05,"Diazepines, oxazepines, thiazepines and oxepines",N05A,"Diazepines, oxazepines, thiazepines and oxepines",1,Psycholeptic
+RAMIPRIL,C09AA,C,Cardiovascular,C09,"ACE inhibitors, plain",C09A,"ACE inhibitors, plain",2,RAAS Inhibitor
+RANITIDINA,A02BA,A,Alimentary/Metabolism,A02,H2-receptor antagonists,A02B,H2-receptor antagonists,0,Alimentary/Metabolism
+REBAMIPIDE,A02BX,A,Alimentary/Metabolism,A02,Other drugs for peptic ulcer,A02B,Other drugs for peptic ulcer,0,Alimentary/Metabolism
+REGUNEAL LCA,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+REMDESIVIR,J05AB,J,Anti-infectives,J05,Nucleosides and nucleotides excl. reverse transcriptase inhibitors,J05A,Nucleosides and nucleotides excl. reverse transcriptase inhibitors,1,Antiviral
+REMICADE,L04AB,L,Antineoplastic/Immunomodulating,L04,Tumor necrosis factor alpha (TNF-alpha) inhibitors,L04A,Tumor necrosis factor alpha (TNF-alpha) inhibitors,1,Immunosuppressant
+REMODULIN,B01AC,B,Blood,B01,Platelet aggregation inhibitors excl. heparin,B01A,Platelet aggregation inhibitors excl. heparin,1,Antithrombotic
+REPAGLINIDE,A10BX,A,Alimentary/Metabolism,A10,"Other blood glucose lowering drugs, excl. insulins",A10B,"Other blood glucose lowering drugs, excl. insulins",2,Antidiabetic
+RETINOL,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+REVATIO,G04BE,G,Genitourinary/Sex Hormones,G04,Drugs used in erectile dysfunction,G04B,Drugs used in erectile dysfunction,1,Genitourinary
+REVLIMID,L04AX,L,Antineoplastic/Immunomodulating,L04,Other immunosuppressants,L04A,Other immunosuppressants,1,Immunosuppressant
+RIFAMPIN,J04AM,J,Anti-infectives,J04,Combinations of drugs for treatment of tuberculosis,J04A,Combinations of drugs for treatment of tuberculosis,2,Anti-infective (Other)
+RIFAXIMIN,A07AA,A,Alimentary/Metabolism,A07,Antibiotics,A07A,Antibiotics,2,Alimentary/Metabolism
+RINVOQ,L04AF,L,Antineoplastic/Immunomodulating,L04,Janus-associated kinase (JAK) inhibitors,L04A,Janus-associated kinase (JAK) inhibitors,1,Immunosuppressant
+RISEDRONATE SODIUM,M05BA,M,Musculoskeletal,M05,Bisphosphonates,M05B,Bisphosphonates,0,Musculoskeletal (Other)
+RISPERIDONE,N05AX,N,Nervous System,N05,Other antipsychotics,N05A,Other antipsychotics,1,Psycholeptic
+RITONAVIR,J05AP,J,Anti-infectives,J05,Antivirals for treatment of HCV infections,J05A,Antivirals for treatment of HCV infections,3,Antiviral
+RITUXIMAB,L01FA,L,Antineoplastic/Immunomodulating,L01,CD20 (Clusters of Differentiation 20) inhibitors,L01F,CD20 (Clusters of Differentiation 20) inhibitors,1,Antineoplastic
+RIVAROXABAN,B01AF,B,Blood,B01,Direct factor Xa inhibitors,B01A,Direct factor Xa inhibitors,1,Antithrombotic
+RIVASTIGMINE,N06DA,N,Nervous System,N06,Anticholinesterases,N06D,Anticholinesterases,1,Psychoanaleptic
+RIVOTRIL,N03AE,N,Nervous System,N03,Benzodiazepine derivatives,N03A,Benzodiazepine derivatives,0,Antiepileptic
+ROCURONIUM,M03AC,M,Musculoskeletal,M03,Other quaternary ammonium compounds,M03A,Other quaternary ammonium compounds,1,Musculoskeletal (Other)
+ROCURONIUM BROMIDE,M03AC,M,Musculoskeletal,M03,Other quaternary ammonium compounds,M03A,Other quaternary ammonium compounds,1,Musculoskeletal (Other)
+ROSUVASTATIN,C10BA,C,Cardiovascular,C10,Combinations of various lipid modifying agents,C10B,Combinations of various lipid modifying agents,2,Lipid Modifying
+ROSUVASTATIN CALCIUM,C10AA,C,Cardiovascular,C10,HMG CoA reductase inhibitors,C10A,HMG CoA reductase inhibitors,1,Lipid Modifying
+ROTIGOTINE,N04BC,N,Nervous System,N04,Dopamine agonists,N04B,Dopamine agonists,1,Nervous System (Other)
+RUXOLITINIB,D11AH,L,Antineoplastic/Immunomodulating,L01,Janus-associated kinase (JAK) inhibitors,L01E,Janus-associated kinase (JAK) inhibitors,2,Antineoplastic
+RYBELSUS,A10BJ,A,Alimentary/Metabolism,A10,Glucagon-like peptide-1 (GLP-1) analogues,A10B,Glucagon-like peptide-1 (GLP-1) analogues,1,Antidiabetic
+SEMAGLUTIDE,A10BJ,A,Alimentary/Metabolism,A10,Glucagon-like peptide-1 (GLP-1) analogues,A10B,Glucagon-like peptide-1 (GLP-1) analogues,1,Antidiabetic
+SENNOSIDES,A06AB,A,Alimentary/Metabolism,A06,Contact laxatives,A06A,Contact laxatives,0,Alimentary/Metabolism
+SEROQUEL,N05AH,N,Nervous System,N05,"Diazepines, oxazepines, thiazepines and oxepines",N05A,"Diazepines, oxazepines, thiazepines and oxepines",1,Psycholeptic
+SERTRALINE,N06AB,N,Nervous System,N06,Selective serotonin reuptake inhibitors,N06A,Selective serotonin reuptake inhibitors,1,Psychoanaleptic
+SERTRALINE HYDROCHLORIDE,N06AB,N,Nervous System,N06,Selective serotonin reuptake inhibitors,N06A,Selective serotonin reuptake inhibitors,1,Psychoanaleptic
+SEVOFLURANE,N01AB,N,Nervous System,N01,Halogenated hydrocarbons,N01A,Halogenated hydrocarbons,1,Anesthetic
+SILDENAFIL CITRATE,G04BE,G,Genitourinary/Sex Hormones,G04,Drugs used in erectile dysfunction,G04B,Drugs used in erectile dysfunction,1,Genitourinary
+SILDENAFILO,G04BE,G,Genitourinary/Sex Hormones,G04,Drugs used in erectile dysfunction,G04B,Drugs used in erectile dysfunction,0,Genitourinary
+SIMPONI,L04AB,L,Antineoplastic/Immunomodulating,L04,Tumor necrosis factor alpha (TNF-alpha) inhibitors,L04A,Tumor necrosis factor alpha (TNF-alpha) inhibitors,1,Immunosuppressant
+SIMVASTATIN,A10BH,A,Alimentary/Metabolism,A10,Dipeptidyl peptidase 4 (DPP-4) inhibitors,A10B,Dipeptidyl peptidase 4 (DPP-4) inhibitors,3,Antidiabetic
+SINGULAIR,R03DC,R,Respiratory,R03,Leukotriene receptor antagonists,R03D,Leukotriene receptor antagonists,1,Anti-asthmatic
+SIROLIMUS,L01EG,L,Antineoplastic/Immunomodulating,L01,Mammalian target of rapamycin (mTOR) kinase inhibitors,L01E,Mammalian target of rapamycin (mTOR) kinase inhibitors,3,Antineoplastic
+SITAGLIPTIN,A10BH,A,Alimentary/Metabolism,A10,Dipeptidyl peptidase 4 (DPP-4) inhibitors,A10B,Dipeptidyl peptidase 4 (DPP-4) inhibitors,2,Antidiabetic
+SKENAN,N02AA,N,Nervous System,N02,Natural opium alkaloids,N02A,Natural opium alkaloids,0,Analgesic/Opioid
+SODIUM BICARBONATE,B05CB,B,Blood,B05,Salt solutions,B05C,Salt solutions,2,Blood (Other)
+SODIUM CHLORIDE,A12CA,A,Alimentary/Metabolism,A12,Sodium,A12C,Sodium,3,Alimentary/Metabolism
+SOLU-MEDROL,D07AA,H,Systemic Hormones,H02,Glucocorticoids,H02A,Glucocorticoids,3,Corticosteroid
+SOTATERCEPT,C02KX,C,Cardiovascular,C02,Antihypertensives for pulmonary arterial hypertension,C02K,Antihypertensives for pulmonary arterial hypertension,1,Cardiovascular (Other)
+SPIRIVA,R03BB,R,Respiratory,R03,Anticholinergics,R03B,Anticholinergics,1,Anti-asthmatic
+SPIRIVA RESPIMAT,R03BB,R,Respiratory,R03,Anticholinergics,R03B,Anticholinergics,0,Anti-asthmatic
+SPIROCTAN,C03DA,C,Cardiovascular,C03,Aldosterone antagonists,C03D,Aldosterone antagonists,0,Cardiovascular (Other)
+SPIRONOLACTONE,C03DA,C,Cardiovascular,C03,Aldosterone antagonists,C03D,Aldosterone antagonists,1,Cardiovascular (Other)
+STELARA,L04AC,L,Antineoplastic/Immunomodulating,L04,Interleukin inhibitors,L04A,Interleukin inhibitors,1,Immunosuppressant
+STERILE WATER,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+SUFENTANIL,N01AH,N,Nervous System,N01,Opioid anesthetics,N01A,Opioid anesthetics,1,Anesthetic
+SULFAMETHOXAZOLE,J01EC,J,Anti-infectives,J01,Intermediate-acting sulfonamides,J01E,Intermediate-acting sulfonamides,2,Antibacterial
+SULFAMETHOXAZOLE / TRIMETHOPRIM,J01EC,J,Anti-infectives,J01,Intermediate-acting sulfonamides,J01E,Intermediate-acting sulfonamides,3,Antibacterial
+SULFASALAZINE,A07EC,A,Alimentary/Metabolism,A07,Aminosalicylic acid and similar agents,A07E,Aminosalicylic acid and similar agents,1,Alimentary/Metabolism
+SYMBICORT,A07EA,R,Respiratory,R03,Glucocorticoids,R03B,Glucocorticoids,7,Anti-asthmatic
+SYNTHROID,H03AA,H,Systemic Hormones,H03,Thyroid hormones,H03A,Thyroid hormones,1,Hormonal
+TACROLIMUS,D11AH,L,Antineoplastic/Immunomodulating,L04,Calcineurin inhibitors,L04A,Calcineurin inhibitors,2,Narrow Therapeutic Index
+TADALAFIL,G04CB,C,Cardiovascular,C02,Antihypertensives for pulmonary arterial hypertension,C02K,Antihypertensives for pulmonary arterial hypertension,3,Cardiovascular (Other)
+TAFASITAMAB,L01FX,L,Antineoplastic/Immunomodulating,L01,Other monoclonal antibodies and antibody drug conjugates,L01F,Other monoclonal antibodies and antibody drug conjugates,1,Antineoplastic
+TAMSULOSIN,G04CA,G,Genitourinary/Sex Hormones,G04,Alpha-adrenoreceptor antagonists,G04C,Alpha-adrenoreceptor antagonists,1,Genitourinary
+TAMSULOSIN HYDROCHLORIDE,G04CA,G,Genitourinary/Sex Hormones,G04,Alpha-adrenoreceptor antagonists,G04C,Alpha-adrenoreceptor antagonists,1,Genitourinary
+TAVNEOS,L04AJ,L,Antineoplastic/Immunomodulating,L04,Complement inhibitors,L04A,Complement inhibitors,1,Immunosuppressant
+TECENTRIQ,L01FF,L,Antineoplastic/Immunomodulating,L01,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,L01F,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,1,Antineoplastic
+TEDUGLUTIDE,A16AX,A,Alimentary/Metabolism,A16,Various alimentary tract and metabolism products,A16A,Various alimentary tract and metabolism products,1,Alimentary/Metabolism
+TEICOPLANIN,J01XA,J,Anti-infectives,J01,Glycopeptide antibacterials,J01X,Glycopeptide antibacterials,1,Antibacterial
+TELMISARTAN,C09CA,C,Cardiovascular,C09,"Angiotensin II receptor blockers (ARBs), plain",C09C,"Angiotensin II receptor blockers (ARBs), plain",2,RAAS Inhibitor
+TEMOZOLOMIDE,L01AX,L,Antineoplastic/Immunomodulating,L01,Other alkylating agents,L01A,Other alkylating agents,1,Antineoplastic
+THIAMINE,A11DA,A,Alimentary/Metabolism,A11,"Vitamin B1, plain",A11D,"Vitamin B1, plain",1,Alimentary/Metabolism
+THIOTEPA,L01AC,L,Antineoplastic/Immunomodulating,L01,Ethylene imines,L01A,Ethylene imines,1,Antineoplastic
+THYMOGLOBULIN,L04AA,L,Antineoplastic/Immunomodulating,L04,Selective immunosuppressants,L04A,Selective immunosuppressants,1,Immunosuppressant
+TICAGRELOR,B01AC,B,Blood,B01,Platelet aggregation inhibitors excl. heparin,B01A,Platelet aggregation inhibitors excl. heparin,1,Antithrombotic
+TIGECYCLINE,J01AA,J,Anti-infectives,J01,Tetracyclines,J01A,Tetracyclines,1,Antibacterial
+TIRAGOLUMAB,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+TIZANIDINE,M03BX,M,Musculoskeletal,M03,Other centrally acting agents,M03B,Other centrally acting agents,1,Musculoskeletal (Other)
+TOBRAMYCIN,J01GB,J,Anti-infectives,J01,Other aminoglycosides,J01G,Other aminoglycosides,2,Antibacterial
+TOCILIZUMAB,L04AC,L,Antineoplastic/Immunomodulating,L04,Interleukin inhibitors,L04A,Interleukin inhibitors,1,Immunosuppressant
+TOFACITINIB,L04AF,L,Antineoplastic/Immunomodulating,L04,Janus-associated kinase (JAK) inhibitors,L04A,Janus-associated kinase (JAK) inhibitors,1,Immunosuppressant
+TOFACITINIB CITRATE,L04AF,L,Antineoplastic/Immunomodulating,L04,Janus-associated kinase (JAK) inhibitors,L04A,Janus-associated kinase (JAK) inhibitors,1,Immunosuppressant
+TOLVAPTAN,C03XA,C,Cardiovascular,C03,Vasopressin antagonists,C03X,Vasopressin antagonists,1,Cardiovascular (Other)
+TOPIRAMATE,A08AA,N,Nervous System,N03,Other antiepileptics,N03A,Other antiepileptics,2,Antiepileptic
+TOPOTECAN,L01CE,L,Antineoplastic/Immunomodulating,L01,Topoisomerase 1 (TOP1) inhibitors,L01C,Topoisomerase 1 (TOP1) inhibitors,1,Antineoplastic
+TORIPALIMAB,L01FF,L,Antineoplastic/Immunomodulating,L01,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,L01F,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,1,Antineoplastic
+TORSEMIDE,C03CA,C,Cardiovascular,C03,"Sulfonamides, plain",C03C,"Sulfonamides, plain",1,Cardiovascular (Other)
+TOUJEO,A10AE,A,Alimentary/Metabolism,A10,"Insulins and analogues for injection, long-acting",A10A,"Insulins and analogues for injection, long-acting",1,Antidiabetic
+TPN,B05BA,B,Blood,B05,Solutions for parenteral nutrition,B05B,Solutions for parenteral nutrition,0,Blood (Other)
+TRAMADOL,N02AX,N,Nervous System,N02,Other opioids,N02A,Other opioids,2,Analgesic/Opioid
+TRAMADOL HYDROCHLORIDE,N02AX,N,Nervous System,N02,Other opioids,N02A,Other opioids,2,Analgesic/Opioid
+TRANEXAMIC ACID,B02AA,B,Blood,B02,Amino acids,B02A,Amino acids,1,Blood (Other)
+TRAZODONE,N06AX,N,Nervous System,N06,Other antidepressants,N06A,Other antidepressants,1,Psychoanaleptic
+TRAZODONE HYDROCHLORIDE,N06AX,N,Nervous System,N06,Other antidepressants,N06A,Other antidepressants,1,Psychoanaleptic
+TRELEGY ELLIPTA,R03AL,R,Respiratory,R03,Adrenergics with anticholinergics,R03A,Adrenergics with anticholinergics,0,Anti-asthmatic
+TREMFYA,L04AC,L,Antineoplastic/Immunomodulating,L04,Interleukin inhibitors,L04A,Interleukin inhibitors,1,Immunosuppressant
+TREPROSTINIL,B01AC,B,Blood,B01,Platelet aggregation inhibitors excl. heparin,B01A,Platelet aggregation inhibitors excl. heparin,1,Antithrombotic
+TREPROSTINIL SODIUM,B01AC,B,Blood,B01,Platelet aggregation inhibitors excl. heparin,B01A,Platelet aggregation inhibitors excl. heparin,1,Antithrombotic
+TRESIBA,A10AE,A,Alimentary/Metabolism,A10,"Insulins and analogues for injection, long-acting",A10A,"Insulins and analogues for injection, long-acting",1,Antidiabetic
+TRIAMCINOLONE ACETONIDE,A01AC,H,Systemic Hormones,H02,Glucocorticoids,H02A,Glucocorticoids,8,Corticosteroid
+TRIKAFTA,R07AX,R,Respiratory,R07,Other respiratory system products,R07A,Other respiratory system products,0,Respiratory (Other)
+TRIMEPRAZINE,R06AD,R,Respiratory,R06,Phenothiazine derivatives,R06A,Phenothiazine derivatives,1,Respiratory (Other)
+TRULICITY,A10BJ,A,Alimentary/Metabolism,A10,Glucagon-like peptide-1 (GLP-1) analogues,A10B,Glucagon-like peptide-1 (GLP-1) analogues,1,Antidiabetic
+TUMS,A02AC,A,Alimentary/Metabolism,A02,Calcium compounds,A02A,Calcium compounds,2,Alimentary/Metabolism
+TYLENOL,N02BE,N,Nervous System,N02,Anilides,N02B,Anilides,1,Analgesic/Opioid
+TYLENOL EXTRA STRENGTH,N02BE,N,Nervous System,N02,Anilides,N02B,Anilides,0,Analgesic/Opioid
+TYVASO,B01AC,B,Blood,B01,Platelet aggregation inhibitors excl. heparin,B01A,Platelet aggregation inhibitors excl. heparin,1,Antithrombotic
+TYVASO DPI,B01AC,B,Blood,B01,Platelet aggregation inhibitors,B01A,Platelet aggregation inhibitors,0,Antithrombotic
+UPTRAVI,B01AC,B,Blood,B01,Platelet aggregation inhibitors excl. heparin,B01A,Platelet aggregation inhibitors excl. heparin,1,Antithrombotic
+URSADIOL 300 MG ORAL CAPSULE [URSODIOL],,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+USTEKINUMAB,L04AC,L,Antineoplastic/Immunomodulating,L04,Interleukin inhibitors,L04A,Interleukin inhibitors,1,Immunosuppressant
+VALACICLOVIR,J05AB,J,Anti-infectives,J05,Nucleosides and nucleotides,J05A,Nucleosides and nucleotides,0,Antiviral
+VALACYCLOVIR HYDROCHLORIDE,J05AB,J,Anti-infectives,J05,Nucleosides and nucleotides excl. reverse transcriptase inhibitors,J05A,Nucleosides and nucleotides excl. reverse transcriptase inhibitors,1,Antiviral
+VALGANCICLOVIR,J05AB,J,Anti-infectives,J05,Nucleosides and nucleotides excl. reverse transcriptase inhibitors,J05A,Nucleosides and nucleotides excl. reverse transcriptase inhibitors,1,Antiviral
+VALPROATE SODIUM,N03AG,N,Nervous System,N03,Fatty acid derivatives,N03A,Fatty acid derivatives,0,Narrow Therapeutic Index
+VALPROIC ACID,N03AG,N,Nervous System,N03,Fatty acid derivatives,N03A,Fatty acid derivatives,1,Narrow Therapeutic Index
+VALSARTAN,C09DX,C,Cardiovascular,C09,"Angiotensin II receptor blockers (ARBs), other combinations",C09D,"Angiotensin II receptor blockers (ARBs), other combinations",3,RAAS Inhibitor
+VANCOMYCIN,A07AA,J,Anti-infectives,J01,Glycopeptide antibacterials,J01X,Glycopeptide antibacterials,3,Narrow Therapeutic Index
+VANCOMYCIN HYDROCHLORIDE,A07AA,J,Anti-infectives,J01,Glycopeptide antibacterials,J01X,Glycopeptide antibacterials,3,Narrow Therapeutic Index
+VASOPRESSIN,H01BA,H,Systemic Hormones,H01,Vasopressin and analogues,H01B,Vasopressin and analogues,0,Hormonal
+VENCLEXTA,L01XX,L,Antineoplastic/Immunomodulating,L01,Other antineoplastic agents,L01X,Other antineoplastic agents,1,Antineoplastic
+VENETOCLAX,L01XX,L,Antineoplastic/Immunomodulating,L01,Other antineoplastic agents,L01X,Other antineoplastic agents,1,Antineoplastic
+VENLAFAXINE,N06AX,N,Nervous System,N06,Other antidepressants,N06A,Other antidepressants,1,Psychoanaleptic
+VENLAFAXINE HYDROCHLORIDE,N06AX,N,Nervous System,N06,Other antidepressants,N06A,Other antidepressants,1,Psychoanaleptic
+VICTOZA,A10BJ,A,Alimentary/Metabolism,A10,Glucagon-like peptide-1 (GLP-1) analogues,A10B,Glucagon-like peptide-1 (GLP-1) analogues,1,Antidiabetic
+VIDAZA,L01BC,L,Antineoplastic/Immunomodulating,L01,Pyrimidine analogues,L01B,Pyrimidine analogues,1,Antineoplastic
+VIMPAT,N03AX,N,Nervous System,N03,Other antiepileptics,N03A,Other antiepileptics,1,Antiepileptic
+VINCRISTINE,L01CA,L,Antineoplastic/Immunomodulating,L01,Vinca alkaloids and analogues,L01C,Vinca alkaloids and analogues,1,Antineoplastic
+VINCRISTINE SULFATE,L01CA,L,Antineoplastic/Immunomodulating,L01,Vinca alkaloids and analogues,L01C,Vinca alkaloids and analogues,1,Antineoplastic
+VITAMIN B COMPLEX,A11EA,A,Alimentary/Metabolism,A11,Vitamin B-complex,A11E,Vitamin B-complex,0,Alimentary/Metabolism
+VITAMIN D NOS,A11CC,A,Alimentary/Metabolism,A11,Vitamin D and analogues,A11C,Vitamin D and analogues,0,Alimentary/Metabolism
+VITAMIN D2,A11CC,A,Alimentary/Metabolism,A11,Vitamin D and analogues,A11C,Vitamin D and analogues,1,Alimentary/Metabolism
+VITAMIN D3,A11CC,A,Alimentary/Metabolism,A11,Vitamin D and analogues,A11C,Vitamin D and analogues,0,Alimentary/Metabolism
+VITAMINS,A11BA,A,Alimentary/Metabolism,A11,Multivitamins,A11B,Multivitamins,0,Alimentary/Metabolism
+VOLTARENE,M01AB,M,Musculoskeletal,M01,Acetic acid derivatives,M01A,Acetic acid derivatives,0,Anti-inflammatory (NSAID)
+VONOPRAZAN FUMARATE,A02BC,A,Alimentary/Metabolism,A02,Proton pump inhibitors,A02B,Proton pump inhibitors,1,Alimentary/Metabolism
+VORICONAZOLE,J02AC,J,Anti-infectives,J02,Triazole and tetrazole derivatives,J02A,Triazole and tetrazole derivatives,1,Anti-infective (Other)
+VYALEV,N04BA,N,Nervous System,N04,Dopa and dopa derivatives,N04B,Dopa and dopa derivatives,1,Nervous System (Other)
+VYXEOS,L01XY,L,Antineoplastic/Immunomodulating,L01,Combinations of antineoplastic agents,L01X,Combinations of antineoplastic agents,3,Antineoplastic
+WARFARIN,B01AA,B,Blood,B01,Vitamin K antagonists,B01A,Vitamin K antagonists,1,Narrow Therapeutic Index
+WARFARIN SODIUM,B01AA,B,Blood,B01,Vitamin K antagonists,B01A,Vitamin K antagonists,1,Narrow Therapeutic Index
+WINREVAIR,C02KX,C,Cardiovascular,C02,Antihypertensives for pulmonary arterial hypertension,C02K,Antihypertensives for pulmonary arterial hypertension,1,Cardiovascular (Other)
+XARELTO,B01AF,B,Blood,B01,Direct factor Xa inhibitors,B01A,Direct factor Xa inhibitors,1,Antithrombotic
+XCOPRI,N03AX,N,Nervous System,N03,Other antiepileptics,N03A,Other antiepileptics,1,Antiepileptic
+XELJANZ,L04AF,L,Antineoplastic/Immunomodulating,L04,Janus-associated kinase (JAK) inhibitors,L04A,Janus-associated kinase (JAK) inhibitors,1,Immunosuppressant
+ZETIA,C10AX,C,Cardiovascular,C10,Other lipid modifying agents,C10A,Other lipid modifying agents,1,Lipid Modifying
+ZINCUM METALLICUM,,,UNCLASSIFIED,,UNCLASSIFIED,,,0,Unclassified
+ZOFRAN,A04AA,A,Alimentary/Metabolism,A04,Serotonin antagonists,A04A,Serotonin antagonists,0,Alimentary/Metabolism
+ZOLEDRONIC ACID,M05BA,M,Musculoskeletal,M05,Bisphosphonates,M05B,Bisphosphonates,1,Musculoskeletal (Other)
+ZOLPIDEM,N05CF,N,Nervous System,N05,Benzodiazepine related drugs,N05C,Benzodiazepine related drugs,1,Psycholeptic
+ZOLPIDEM TARTRATE,N05CF,N,Nervous System,N05,Benzodiazepine related drugs,N05C,Benzodiazepine related drugs,1,Psycholeptic
+ZOPICLONE,N05CF,N,Nervous System,N05,Benzodiazepine related drugs,N05C,Benzodiazepine related drugs,1,Psycholeptic
+ZUCLOPENTHIXOL,N05AF,N,Nervous System,N05,Thioxanthene derivatives,N05A,Thioxanthene derivatives,1,Psycholeptic
+ZYRTEC,R06AE,R,Respiratory,R06,Piperazine derivatives,R06A,Piperazine derivatives,2,Respiratory (Other)
