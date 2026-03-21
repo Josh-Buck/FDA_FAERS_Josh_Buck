@@ -7537,7 +7537,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [35]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [1]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Consolidated Import Statements</span>
@@ -7593,6 +7593,14 @@ Numpy version: 2.0.2
 </pre>
 </div>
 </div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
+<pre>/Users/joshbuck/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+</pre>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -7622,7 +7630,7 @@ Numpy version: 2.0.2
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [36]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [2]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1">#Load all 7 FAERS tables</span>
@@ -7699,7 +7707,7 @@ The higher row counts in tables such as the drug and reactions tables indicate t
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [37]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [3]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">demo</span><span class="o">.</span><span class="n">columns</span>
@@ -7713,7 +7721,7 @@ The higher row counts in tables such as the drug and reactions tables indicate t
 </div>
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[37]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[3]:</div>
 <div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
 <pre>Index(['primaryid', 'caseid', 'caseversion', 'i_f_code', 'event_dt', 'mfr_dt',
        'init_fda_dt', 'fda_dt', 'rept_cod', 'auth_num', 'mfr_num', 'mfr_sndr',
@@ -7729,7 +7737,7 @@ The higher row counts in tables such as the drug and reactions tables indicate t
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [38]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [4]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">drug</span><span class="o">.</span><span class="n">columns</span>
@@ -7743,7 +7751,7 @@ The higher row counts in tables such as the drug and reactions tables indicate t
 </div>
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[38]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[4]:</div>
 <div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
 <pre>Index(['primaryid', 'caseid', 'drug_seq', 'role_cod', 'drugname', 'prod_ai',
        'val_vbm', 'route', 'dose_vbm', 'cum_dose_chr', 'cum_dose_unit',
@@ -7759,7 +7767,7 @@ The higher row counts in tables such as the drug and reactions tables indicate t
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [39]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [5]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">reac</span><span class="o">.</span><span class="n">columns</span>
@@ -7773,7 +7781,7 @@ The higher row counts in tables such as the drug and reactions tables indicate t
 </div>
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[39]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[5]:</div>
 <div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
 <pre>Index(['primaryid', 'caseid', 'pt', 'drug_rec_act'], dtype='object')</pre>
 </div>
@@ -7785,7 +7793,7 @@ The higher row counts in tables such as the drug and reactions tables indicate t
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [40]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [6]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">outc</span><span class="o">.</span><span class="n">columns</span>
@@ -7799,7 +7807,7 @@ The higher row counts in tables such as the drug and reactions tables indicate t
 </div>
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[40]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[6]:</div>
 <div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
 <pre>Index(['primaryid', 'caseid', 'outc_cod'], dtype='object')</pre>
 </div>
@@ -7811,7 +7819,7 @@ The higher row counts in tables such as the drug and reactions tables indicate t
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [41]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [7]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">indi</span><span class="o">.</span><span class="n">columns</span>
@@ -7825,7 +7833,7 @@ The higher row counts in tables such as the drug and reactions tables indicate t
 </div>
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[41]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[7]:</div>
 <div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
 <pre>Index(['primaryid', 'caseid', 'indi_drug_seq', 'indi_pt'], dtype='object')</pre>
 </div>
@@ -7837,7 +7845,7 @@ The higher row counts in tables such as the drug and reactions tables indicate t
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [42]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [8]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">ther</span><span class="o">.</span><span class="n">columns</span>
@@ -7851,7 +7859,7 @@ The higher row counts in tables such as the drug and reactions tables indicate t
 </div>
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[42]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[8]:</div>
 <div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
 <pre>Index(['primaryid', 'caseid', 'dsg_drug_seq', 'start_dt', 'end_dt', 'dur',
        'dur_cod'],
@@ -7865,7 +7873,7 @@ The higher row counts in tables such as the drug and reactions tables indicate t
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [43]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [9]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">reac</span><span class="o">.</span><span class="n">columns</span>
@@ -7879,7 +7887,7 @@ The higher row counts in tables such as the drug and reactions tables indicate t
 </div>
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[43]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[9]:</div>
 <div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
 <pre>Index(['primaryid', 'caseid', 'pt', 'drug_rec_act'], dtype='object')</pre>
 </div>
@@ -7891,7 +7899,7 @@ The higher row counts in tables such as the drug and reactions tables indicate t
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [44]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [10]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1">#exploring the structure</span>
@@ -8034,7 +8042,7 @@ Columns with 0 percent missing (complete columns)
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [45]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [11]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1">#analyze the outcomes table</span>
@@ -8187,7 +8195,7 @@ Multiple outcome codes can exist for a single report. For example, one primaryid
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [46]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [12]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1">#merging DEMO with OUTC to analyze serious outcome patterns</span>
@@ -8404,7 +8412,7 @@ AU                         3244           1346            41.5
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [47]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [13]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1">#quick drug eda</span>
@@ -8493,7 +8501,7 @@ dtype: float64
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [48]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [14]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># =============================================================================</span>
@@ -8670,7 +8678,7 @@ Good - approximately one row per patient
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [49]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [15]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># =============================================================================</span>
@@ -8757,7 +8765,7 @@ Name: count, dtype: int64
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [50]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [16]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># separate features and target</span>
@@ -9011,7 +9019,7 @@ Cross-Validation ROC AUC: 0.7866 (+/- 0.0032)
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [51]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [17]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1">#Import Algorithms and Metrics</span>
@@ -9036,7 +9044,7 @@ Cross-Validation ROC AUC: 0.7866 (+/- 0.0032)
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [52]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [18]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1">##5.2 Decision Trees &amp; RandomForests</span>
@@ -9216,7 +9224,7 @@ dtype: float64
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [53]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [19]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">knn</span> <span class="o">=</span> <span class="n">KNeighborsClassifier</span><span class="p">()</span>
@@ -9230,7 +9238,7 @@ dtype: float64
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [54]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [20]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Initialize and train KNN model</span>
@@ -9473,7 +9481,7 @@ Patient Demographics</p>
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [55]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [21]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># =============================================================================</span>
@@ -9602,7 +9610,7 @@ ALL QUARTERS LOADED SUCCESSFULLY
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [56]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [22]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># =============================================================================</span>
@@ -9687,7 +9695,7 @@ Deduplication complete. All downstream analysis uses unique cases only.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [57]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [23]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># =============================================================================</span>
@@ -9827,7 +9835,7 @@ Ready to proceed with standardized drug names
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [58]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [24]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># -----------------------------------------------------------------------------</span>
@@ -10074,25 +10082,25 @@ Extracting drug pairs...
   Processing: 556,806/556,806 patients (100%)
 
 Total drug pairs extracted: 14,939,340
-Unique drug combinations: 2,442,838
+Unique drug combinations: 2,440,668
 
 ============================================================
 PART 5: Filtering to combinations with 10+ occurrences...
 Pair frequency distribution:
-  Pairs appearing 1 time: 1,455,792
-  Pairs appearing 2-9 times: 761,490
-  Pairs appearing 10+ times: 225,556
-  Pairs appearing 100+ times: 20,455
+  Pairs appearing 1 time: 1,453,317
+  Pairs appearing 2-9 times: 761,874
+  Pairs appearing 10+ times: 225,477
+  Pairs appearing 100+ times: 20,368
 
 After filtering to 10+ occurrences:
-  Drug pairs remaining: 10,738,899
-  Unique combinations: 225,556
-Patients with outcome data retained: 393,279
+  Drug pairs remaining: 10,738,194
+  Unique combinations: 225,477
+Patients with outcome data retained: 393,339
 
 Serious outcomes in filtered pairs:
 SERIOUS
-1    5197341
-0    2928883
+1    5196444
+0    2928657
 Name: count, dtype: int64
 
 ============================================================
@@ -10101,31 +10109,31 @@ STEP 1 COMPLETE - SUMMARY
 Quarters loaded: 4 (Q1-Q4 2025)
 Total patient reports: 1,469,305
 Patients with 2+ drugs: 556,806
-Drug pairs (10+ occurrences): 225,181
-Total pair-patient observations: 8,126,224
+Drug pairs (10+ occurrences): 225,091
+Total pair-patient observations: 8,125,101
 
 Top 20 Most Common Drug Pairs:
 PAIR
-CARBOPLATIN + PACLITAXEL              6561
-CYCLOPHOSPHAMIDE + RITUXIMAB          5879
-PREDNISONE + RITUXIMAB                5809
-MYCOPHENOLATE MOFETIL + TACROLIMUS    5700
-ASPIRIN + ATORVASTATIN                4995
-CYCLOPHOSPHAMIDE + DOXORUBICIN        4925
-PREDNISONE + TACROLIMUS               4798
-FLUOROURACIL + OXALIPLATIN            4357
-CYCLOPHOSPHAMIDE + PREDNISONE         4356
-METHOTREXATE + PREDNISONE             4351
-MYCOPHENOLATE MOFETIL + PREDNISONE    4248
-CYCLOPHOSPHAMIDE + VINCRISTINE        4197
-FOLIC ACID + METHOTREXATE             3885
-AMLODIPINE + ATORVASTATIN             3361
-ACETAMINOPHEN + DIPHENHYDRAMINE       3267
-PREDNISONE + VEDOLIZUMAB              3223
-DOXORUBICIN + VINCRISTINE             3219
-CYCLOPHOSPHAMIDE + DEXAMETHASONE      3181
-ATORVASTATIN + METFORMIN              3126
-METHOTREXATE + RITUXIMAB              3081
+CARBOPLATIN + PACLITAXEL              6553
+CYCLOPHOSPHAMIDE + RITUXIMAB          5878
+PREDNISONE + RITUXIMAB                5790
+MYCOPHENOLATE MOFETIL + TACROLIMUS    5709
+ASPIRIN + ATORVASTATIN                4989
+CYCLOPHOSPHAMIDE + DOXORUBICIN        4909
+PREDNISONE + TACROLIMUS               4799
+FLUOROURACIL + OXALIPLATIN            4363
+CYCLOPHOSPHAMIDE + PREDNISONE         4342
+METHOTREXATE + PREDNISONE             4324
+MYCOPHENOLATE MOFETIL + PREDNISONE    4228
+CYCLOPHOSPHAMIDE + VINCRISTINE        4193
+FOLIC ACID + METHOTREXATE             3908
+AMLODIPINE + ATORVASTATIN             3350
+ACETAMINOPHEN + DIPHENHYDRAMINE       3286
+PREDNISONE + VEDOLIZUMAB              3220
+DOXORUBICIN + VINCRISTINE             3212
+CYCLOPHOSPHAMIDE + DEXAMETHASONE      3179
+ATORVASTATIN + METFORMIN              3127
+METHOTREXATE + RITUXIMAB              3088
 Name: count, dtype: int64
 
  Saved: FAERS_DRUG_PAIRS_2025.csv
@@ -10150,7 +10158,7 @@ Name: count, dtype: int64
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [59]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [25]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># =============================================================================</span>
@@ -10386,43 +10394,43 @@ Extracting drug pairs...
   Processing: 556,666/556,666 (100%)
 
 Total drug pairs extracted: 14,925,815
-Unique drug combinations: 2,214,088
+Unique drug combinations: 2,212,460
 
 ============================================================
 Filtering to combinations with 10+ occurrences...
-Pairs appearing 1 time: 1,247,416
-Pairs appearing 2-9 times: 740,066
-Pairs appearing 10+ times: 226,606
-Pairs appearing 100+ times: 21,104
-Patients with outcome data retained: 394,807
+Pairs appearing 1 time: 1,245,180
+Pairs appearing 2-9 times: 740,509
+Pairs appearing 10+ times: 226,771
+Pairs appearing 100+ times: 21,090
+Patients with outcome data retained: 394,784
 
 After filtering to 10+ occurrences:
-  Drug pairs remaining: 8,321,573
-  Unique combinations: 226,256
-  Serious outcomes: 5,324,780
+  Drug pairs remaining: 8,319,230
+  Unique combinations: 226,418
+  Serious outcomes: 5,322,158
 
 Top 20 Most Common Drug Pairs (RXCUI Standardized):
 PAIR
-CARBOPLATIN + PACLITAXEL              6562
-CYCLOPHOSPHAMIDE + RITUXIMAB          5867
-PREDNISONE + RITUXIMAB                5821
-MYCOPHENOLATE MOFETIL + TACROLIMUS    5705
-ASPIRIN + ATORVASTATIN                5041
-CYCLOPHOSPHAMIDE + DOXORUBICIN        4928
-PREDNISONE + TACROLIMUS               4807
-FLUOROURACIL + OXALIPLATIN            4397
-METHOTREXATE + PREDNISONE             4373
-CYCLOPHOSPHAMIDE + PREDNISONE         4356
-MYCOPHENOLATE MOFETIL + PREDNISONE    4245
-CYCLOPHOSPHAMIDE + VINCRISTINE        4188
-FOLIC ACID + METHOTREXATE             3975
-AMLODIPINE + ATORVASTATIN             3391
-ACETAMINOPHEN + DIPHENHYDRAMINE       3289
+CARBOPLATIN + PACLITAXEL              6566
+CYCLOPHOSPHAMIDE + RITUXIMAB          5871
+PREDNISONE + RITUXIMAB                5818
+MYCOPHENOLATE MOFETIL + TACROLIMUS    5700
+ASPIRIN + ATORVASTATIN                5040
+CYCLOPHOSPHAMIDE + DOXORUBICIN        4932
+PREDNISONE + TACROLIMUS               4794
+FLUOROURACIL + OXALIPLATIN            4402
+METHOTREXATE + PREDNISONE             4375
+CYCLOPHOSPHAMIDE + PREDNISONE         4353
+MYCOPHENOLATE MOFETIL + PREDNISONE    4238
+CYCLOPHOSPHAMIDE + VINCRISTINE        4200
+FOLIC ACID + METHOTREXATE             3965
+AMLODIPINE + ATORVASTATIN             3378
+ACETAMINOPHEN + DIPHENHYDRAMINE       3294
+PREDNISONE + VEDOLIZUMAB              3226
 DOXORUBICIN + VINCRISTINE             3223
-PREDNISONE + VEDOLIZUMAB              3209
-CYCLOPHOSPHAMIDE + DEXAMETHASONE      3169
-ATORVASTATIN + METFORMIN              3151
-METHOTREXATE + RITUXIMAB              3093
+CYCLOPHOSPHAMIDE + DEXAMETHASONE      3178
+ATORVASTATIN + METFORMIN              3157
+METHOTREXATE + RITUXIMAB              3110
 Name: count, dtype: int64
 
  Saved: FAERS_DRUG_PAIRS_RXNORM.csv
@@ -10452,7 +10460,7 @@ Name: count, dtype: int64
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [60]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [26]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># =============================================================================</span>
@@ -10666,8 +10674,8 @@ Name: count, dtype: int64
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>STEP 2: Calculating Reporting Odds Ratios (ROR)
 ============================================================
-Drug pairs loaded: 8,321,573 observations
-Unique combinations: 226,256
+Drug pairs loaded: 8,319,230 observations
+Unique combinations: 226,418
 Denominator consistency check passed
 
 Total patients: 823,213
@@ -10676,7 +10684,7 @@ Non-serious outcomes: 404,626 (49.2%)
 
 ============================================================
 Calculating ROR for each drug pair...
-Calculating ROR for 226,256 drug pairs...
+Calculating ROR for 226,418 drug pairs...
 Computing ROR values (this may take 1-2 minutes)...
 ROR calculation complete.
 
@@ -10690,103 +10698,103 @@ Identifying DDI signals:
   - Lower 95% CI &gt; 1.0
   - FDR-adjusted p-value &lt; 0.05
 
-*** DDI Signals identified: 52,434 out of 226,256 pairs ***
+*** DDI Signals identified: 52,115 out of 226,418 pairs ***
 
 ============================================================
 ROR DISTRIBUTION SUMMARY
 ============================================================
 
 Pairs by ROR category:
-  ROR &lt; 1.0 (protective): 63,751
-  ROR 1.0-2.0 (no signal): 59,591
-  ROR 2.0-5.0 (moderate signal): 58,187
-  ROR 5.0-10.0 (strong signal): 18,852
-  ROR &gt; 10.0 (very strong signal): 25,875
+  ROR &lt; 1.0 (protective): 63,825
+  ROR 1.0-2.0 (no signal): 59,395
+  ROR 2.0-5.0 (moderate signal): 58,565
+  ROR 5.0-10.0 (strong signal): 18,829
+  ROR &gt; 10.0 (very strong signal): 25,804
 
 ============================================================
-TOP 30 DDI SIGNALS (by ROR) - Total: 52,434
+TOP 30 DDI SIGNALS (by ROR) - Total: 52,115
 ============================================================
-                                                PAIR  N_EXPOSED  A_SERIOUS_EXPOSED         ROR   CI_LOWER     CI_UPPER   P_VALUE_FDR
-12219                            AIMOVIG + RITUXIMAB        301                301  583.307803  36.399521  9347.595267  6.589204e-61
-12081                               AIMOVIG + ERELZI        269                269  521.357969  32.524864  8357.118255  2.069863e-54
-9258                            ADALIMUMAB + AIMOVIG        238                238  461.353104  28.771858  7397.738626  5.151551e-48
-107262  DICLOFENAC POTASSIUM + MYCOPHENOLATE MOFETIL        223                223  432.321685  26.956089  6933.573946  6.395051e-45
-17088         ALENDRONIC ACID + DICLOFENAC POTASSIUM        212                212  411.033300  25.624609  6593.207787  1.149188e-42
-103115         DESOXIMETASONE + DICLOFENAC POTASSIUM        190                190  368.459889  22.961862  5912.529543  3.254771e-38
-195573                     NAPROXEN SODIUM + ORENCIA        182                182  352.979759  21.993662  5665.028083  1.396801e-36
-195585       NAPROXEN SODIUM + PHTHALYLSULFATHIAZOLE        180                180  349.109819  21.751617  5603.154212  3.597805e-36
-203337             OXYCODONE + PHTHALYLSULFATHIAZOLE        179                179  347.174863  21.630596  5572.217501  5.786379e-36
-124711                            ERELZI + OXYCODONE        350                349  337.640590  47.426029  2403.767936  2.193354e-70
-11999                      AIMOVIG + ALENDRONIC ACID        173                173  335.565320  20.904481  5386.600375  9.424584e-35
-16649      ALENDRONATE SODIUM + DICLOFENAC POTASSIUM        172                172  333.630428  20.783464  5355.664711  1.482545e-34
-107571           DICLOFENAC SODIUM + NAPROXEN SODIUM        168                168  325.890955  20.299401  5231.923552  9.524822e-34
-107309              DICLOFENAC POTASSIUM + RITUXIMAB        317                316  305.690569  42.925661  2176.943160  1.400570e-63
-12055                             AIMOVIG + COSENTYX        303                302  292.137538  41.016630  2080.725312  1.032394e-60
-203822           OXYCODONE TEREPHTHALATE + RITUXIMAB        149                149  289.130478  18.000234  4644.185835  6.936298e-30
-94055               COSENTYX + MYCOPHENOLATE MOFETIL        295                294  284.393356  39.925814  2025.746586  4.191825e-59
-162011              ISOPROPYL ALCOHOL + METHOTREXATE        146                146  283.326497  17.637228  4551.390107  2.754395e-29
-124701                      ERELZI + NAPROXEN SODIUM        146                146  283.326497  17.637228  4551.390107  2.754395e-29
-124697                ERELZI + MYCOPHENOLATE MOFETIL        292                291  281.489364  39.516768  2005.130108  1.704825e-58
-195612                     NAPROXEN SODIUM + SIMPONI        145                145  281.391856  17.516227  4520.458500  4.352275e-29
-162053                 ISOPROPYL ALCOHOL + RITUXIMAB        142                142  275.587986  17.153228  4427.664583  1.734283e-28
-12132                          AIMOVIG + LEFLUNOMIDE        284                283  273.745589  38.426010  1950.154285  7.387993e-57
-124768                           ERELZI + TOPIRAMATE        140                140  271.718786  16.911231  4365.802727  4.401545e-28
-103176            DESOXIMETASONE + ISOPROPYL ALCOHOL        139                139  269.784199  16.790234  4334.872025  7.050175e-28
-166839                          LAMICTAL + RITUXIMAB        135                135  262.045947  16.306250  4211.150735  4.486562e-27
-107302               DICLOFENAC POTASSIUM + RAMIPRIL        135                135  262.045947  16.306250  4211.150735  4.486562e-27
-141096          FOLIC ACID + OXYCODONE TEREPHTHALATE        134                134  260.111407  16.185256  4180.220792  7.099278e-27
-93803            CORTISONE ACETATE + NAPROXEN SODIUM        133                133  258.176876  16.064262  4149.291000  1.128830e-26
-195601                    NAPROXEN SODIUM + REMICADE        132                132  256.242354  15.943269  4118.361360  1.791158e-26
+                                             PAIR  N_EXPOSED  A_SERIOUS_EXPOSED         ROR   CI_LOWER      CI_UPPER   P_VALUE_FDR
+107487           DICLOFENAC POTASSIUM + RITUXIMAB        325                325  629.776400  39.305906  10090.552726  7.932398e-66
+9258                         ADALIMUMAB + AIMOVIG        253                253  490.386606  30.587759   7861.936751  4.292641e-51
+124886           ERELZI + OXYCODONE HYDROCHLORIDE        226                226  438.127802  27.319233   7026.404205  1.526217e-45
+17158      ALENDRONIC ACID + DICLOFENAC POTASSIUM        216                216  418.774401  26.108776   6716.975216  1.704395e-43
+12045                   AIMOVIG + ALENDRONIC ACID        190                190  368.459889  22.961862   5912.529543  3.344345e-38
+195802    NAPROXEN SODIUM + PHTHALYLSULFATHIAZOLE        182                182  352.979759  21.993662   5665.028083  1.424996e-36
+162195           ISOPROPYL ALCOHOL + METHOTREXATE        175                175  339.435130  21.146517   5448.472152  3.786155e-35
+107390      DICLOFENAC POTASSIUM + HYDROCORTISONE        171                171  331.695546  20.662447   5324.729196  2.494820e-34
+204037        OXYCODONE TEREPHTHALATE + RITUXIMAB        165                165  320.086447  19.936360   5139.119257  4.009669e-33
+79086    CHLORHEXIDINE GLUCONATE + DESOXIMETASONE        165                165  320.086447  19.936360   5139.119257  4.009669e-33
+12101                          AIMOVIG + COSENTYX        327                326  315.371861  44.289333   2245.674151  1.260569e-65
+195819                 NAPROXEN SODIUM + REMICADE        153                153  296.869248  18.484251   4767.915582  1.077621e-30
+12268                         AIMOVIG + RITUXIMAB        306                305  295.041682  41.425697   2101.342878  2.577297e-61
+94244            COSENTYX + MYCOPHENOLATE MOFETIL        306                305  295.041682  41.425697   2101.342878  2.577297e-61
+103405         DESOXIMETASONE + ISOPROPYL ALCOHOL        148                148  287.195808  17.879232   4613.253775  1.083447e-29
+124875                   ERELZI + NAPROXEN SODIUM        147                147  285.261148  17.758229   4582.321866  1.697167e-29
+141280       FOLIC ACID + OXYCODONE TEREPHTHALATE        146                146  283.326497  17.637228   4551.390107  2.701039e-29
+79107            CHLORHEXIDINE GLUCONATE + ERELZI        143                143  277.522600  17.274227   4458.595737  1.118891e-28
+66787         CALCIUM GLUBIONATE + DESOXIMETASONE        141                141  273.653381  17.032229   4396.733579  2.838536e-28
+204043    OXYCODONE TEREPHTHALATE + SULFASALAZINE        138                138  267.849622  16.669237   4303.941476  1.137443e-27
+12129                            AIMOVIG + ERELZI        277                276  266.970029  37.471631   1902.052173  2.112962e-55
+162237              ISOPROPYL ALCOHOL + RITUXIMAB        134                134  260.111407  16.185256   4180.220792  7.370903e-27
+94188                         COSENTYX + LAMICTAL        134                134  260.111407  16.185256   4180.220792  7.370903e-27
+93987         CORTISONE ACETATE + NAPROXEN SODIUM        134                134  260.111407  16.185256   4180.220792  7.370903e-27
+162226             ISOPROPYL ALCOHOL + PREDNISONE        132                132  256.242354  15.943269   4118.361360  1.866611e-26
+162222  ISOPROPYL ALCOHOL + PHTHALYLSULFATHIAZOLE        132                132  256.242354  15.943269   4118.361360  1.866611e-26
+207911    PHTHALYLSULFATHIAZOLE + PSEUDOEPHEDRINE        132                132  256.242354  15.943269   4118.361360  1.866611e-26
+124944                        ERELZI + TOPIRAMATE        129                129  250.438845  15.580294   4025.573351  7.570596e-26
+17226                ALENDRONIC ACID + INFLIXIMAB        127                127  246.569885  15.338313   3963.715440  1.916750e-25
+94268          COSENTYX + OXYCODONE TEREPHTHALATE        126                126  244.635419  15.217324   3932.786713  3.048629e-25
 
 ============================================================
 TOP 30 DDI SIGNALS (by sample size - more clinically relevant)
 ============================================================
                                                 PAIR  N_EXPOSED  A_SERIOUS_EXPOSED       ROR  CI_LOWER  CI_UPPER   P_VALUE_FDR
-143715                   FUROSEMIDE + SPIRONOLACTONE       2525               1779  2.310752  2.121177  2.517271  2.604920e-82
-35666                           ASPIRIN + FUROSEMIDE       2483               1721  2.188087  2.008990  2.383150  9.733026e-72
-40026                    ATORVASTATIN + PANTOPRAZOLE       1972               1366  2.182804  1.983472  2.402169  1.251583e-56
-2740                      ACETAMINOPHEN + FUROSEMIDE       1879               1354  2.497875  2.258222  2.762961  1.375214e-71
-2710                      ACETAMINOPHEN + FOLIC ACID       1850               1299  2.282883  2.066175  2.522321  1.050466e-58
-3376                     ACETAMINOPHEN + ONDANSETRON       1814               1259  2.196407  1.987473  2.427306  8.062874e-53
-3427                    ACETAMINOPHEN + PANTOPRAZOLE       1768               1338  3.014285  2.703711  3.360535  2.463399e-92
-54172                        BISOPROLOL + FUROSEMIDE       1756               1197  2.072973  1.874765  2.292136  1.860173e-44
-165264                            KEYTRUDA + LENVIMA       1698               1177  2.187107  1.972598  2.424944  6.349154e-49
-143503               FUROSEMIDE + POTASSIUM CHLORIDE       1644               1272  3.312337  2.950704  3.718291  4.820436e-98
-2414                   ACETAMINOPHEN + DEXAMETHASONE       1643               1136  2.169073  1.953312  2.408667  2.038283e-46
-119532                          ELIQUIS + FUROSEMIDE       1565               1198  3.161618  2.812481  3.554097  1.891557e-87
-143425                     FUROSEMIDE + PANTOPRAZOLE       1542               1130  2.655711  2.372227  2.973072  1.324355e-65
-3553                      ACETAMINOPHEN + PREGABALIN       1501               1033  2.136451  1.915249  2.383201  6.472614e-41
-141109                     FOLIC ACID + PANTOPRAZOLE       1390                938  2.008266  1.794924  2.246966  1.746117e-32
-143520                       FUROSEMIDE + PREDNISONE       1388                974  2.277161  2.029634  2.554876  1.035505e-43
-2245                 ACETAMINOPHEN + CHOLECALCIFEROL       1378               1009  2.647188  2.349446  2.982662  2.649610e-58
-25613                        AMLODIPINE + FUROSEMIDE       1312                926  2.321876  2.061738  2.614837  4.627198e-43
-210931  PREDNISONE + SULFAMETHOXAZOLE / TRIMETHOPRIM       1267                959  3.014403  2.651062  3.427543  4.743906e-66
-19214                       ALLOPURINOL + FUROSEMIDE       1249                871  2.229940  1.976201  2.516258  1.376259e-37
-94032                        COSENTYX + METHOTREXATE       1247                876  2.285124  2.023714  2.580301  1.361104e-39
-39331                         ATORVASTATIN + ELIQUIS       1228                841  2.102863  1.864194  2.372088  2.978772e-32
-178925                            LT4 + PANTOPRAZOLE       1164                809  2.205196  1.946361  2.498451  3.530409e-34
-184744                      METFORMIN + PANTOPRAZOLE       1162                791  2.062974  1.823465  2.333942  4.008887e-29
-3156                       ACETAMINOPHEN + METFORMIN       1138                825  2.550929  2.239540  2.905614  6.059595e-45
-143223                        FUROSEMIDE + METFORMIN       1131                815  2.496006  2.191822  2.842406  6.991586e-43
-100272                    DAPAGLIFLOZIN + FUROSEMIDE       1121                787  2.280106  2.006019  2.591641  2.052666e-35
-79987                   CHOLECALCIFEROL + FOLIC ACID       1113                764  2.118140  1.866066  2.404265  9.258924e-30
-143171                              FUROSEMIDE + LT4       1103                819  2.791125  2.438550  3.194676  5.620821e-51
-35161                      ASPIRIN + CHOLECALCIFEROL       1083                741  2.096343  1.844102  2.383087  2.888667e-28
+143900                   FUROSEMIDE + SPIRONOLACTONE       2507               1762  2.291655  2.103306  2.496871  3.379875e-80
+35802                           ASPIRIN + FUROSEMIDE       2442               1697  2.206772  2.024416  2.405555  6.589879e-72
+40178                    ATORVASTATIN + PANTOPRAZOLE       1977               1369  2.180407  1.981573  2.399192  1.313007e-56
+2764                      ACETAMINOPHEN + FUROSEMIDE       1848               1322  2.434011  2.199889  2.693050  7.492903e-67
+2732                      ACETAMINOPHEN + FOLIC ACID       1822               1287  2.329462  2.105853  2.576815  2.567478e-60
+3393                     ACETAMINOPHEN + ONDANSETRON       1789               1227  2.113721  1.912715  2.335849  1.515328e-47
+3444                    ACETAMINOPHEN + PANTOPRAZOLE       1763               1326  2.939265  2.637845  3.275129  1.530840e-88
+54379                        BISOPROLOL + FUROSEMIDE       1757               1198  2.074710  1.876361  2.294026  1.414333e-44
+165479                            KEYTRUDA + LENVIMA       1697               1176  2.185244  1.970891  2.422910  8.719474e-49
+143687               FUROSEMIDE + POTASSIUM CHLORIDE       1651               1274  3.273521  2.917918  3.672460  6.698240e-97
+2442                   ACETAMINOPHEN + DEXAMETHASONE       1623               1124  2.180548  1.962174  2.423225  1.991418e-46
+119698                          ELIQUIS + FUROSEMIDE       1560               1197  3.193813  2.839691  3.592095  1.971415e-88
+143612                     FUROSEMIDE + PANTOPRAZOLE       1550               1131  2.613616  2.336273  2.923882  4.309427e-64
+3570                      ACETAMINOPHEN + PREGABALIN       1495               1028  2.130643  1.909731  2.377109  1.785383e-40
+2265                 ACETAMINOPHEN + CHOLECALCIFEROL       1382               1004  2.571266  2.284262  2.894330  1.768354e-55
+143705                       FUROSEMIDE + PREDNISONE       1378                961  2.230518  1.988177  2.502399  1.809780e-41
+25715                        AMLODIPINE + FUROSEMIDE       1312                920  2.271457  2.018034  2.556704  4.247822e-41
+3194                    ACETAMINOPHEN + METHOTREXATE       1297                880  2.042118  1.817356  2.294677  1.184132e-31
+94222                        COSENTYX + METHOTREXATE       1245                868  2.228143  1.974264  2.514670  2.191562e-37
+211158  PREDNISONE + SULFAMETHOXAZOLE / TRIMETHOPRIM       1244                946  3.073304  2.697920  3.500919  1.129038e-66
+39486                         ATORVASTATIN + ELIQUIS       1234                848  2.125900  1.884710  2.397955  2.996872e-33
+19277                       ALLOPURINOL + FUROSEMIDE       1231                850  2.158916  1.913029  2.436406  2.159121e-34
+179139                            LT4 + PANTOPRAZOLE       1159                808  2.227586  1.965109  2.525122  8.751035e-35
+184963                      METFORMIN + PANTOPRAZOLE       1144                779  2.065046  1.823492  2.338597  9.564497e-29
+3180                       ACETAMINOPHEN + METFORMIN       1117                797  2.410241  2.116880  2.744257  1.414446e-39
+100459                    DAPAGLIFLOZIN + FUROSEMIDE       1115                782  2.272402  1.998729  2.583547  5.779454e-35
+80198                   CHOLECALCIFEROL + FOLIC ACID       1108                761  2.121978  1.868834  2.409412  9.230784e-30
+143412                        FUROSEMIDE + METFORMIN       1102                794  2.494777  2.187057  2.845793  9.493316e-42
+54662                      BISOPROLOL + PANTOPRAZOLE       1086                779  2.455537  2.151566  2.802453  6.574785e-40
+143360                              FUROSEMIDE + LT4       1085                799  2.703781  2.362040  3.094965  1.563474e-47
 
 ============================================================
 SAVING RESULTS
 ============================================================
- Saved all ROR results: FAERS_DDI_ROR_ALL.csv (226,256 pairs)
- Saved DDI signals: FAERS_DDI_SIGNALS.csv (52,434 signals)
+ Saved all ROR results: FAERS_DDI_ROR_ALL.csv (226,418 pairs)
+ Saved DDI signals: FAERS_DDI_SIGNALS.csv (52,115 signals)
 
 ============================================================
 STEP 2 COMPLETE - SUMMARY
 ============================================================
-Total drug pairs analyzed: 226,256
-DDI signals identified (ROR&gt;2, CI&gt;1, FDR&lt;0.05): 52,434
-Signal rate: 23.2%
-Highest ROR: 583.3
-Most common signal: FUROSEMIDE + SPIRONOLACTONE (n=2,525)
+Total drug pairs analyzed: 226,418
+DDI signals identified (ROR&gt;2, CI&gt;1, FDR&lt;0.05): 52,115
+Signal rate: 23.0%
+Highest ROR: 629.8
+Most common signal: FUROSEMIDE + SPIRONOLACTONE (n=2,507)
 </pre>
 </div>
 </div>
@@ -10814,7 +10822,7 @@ Most common signal: FUROSEMIDE + SPIRONOLACTONE (n=2,525)
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [61]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [27]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># =============================================================================</span>
@@ -10918,52 +10926,52 @@ Most common signal: FUROSEMIDE + SPIRONOLACTONE (n=2,525)
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>SIGNAL QUALITY ASSESSMENT
 ============================================================
-Total signals: 52,434
+Total signals: 52,115
 
 Potentially suspicious signals:
-  Near 100% serious rate (&gt;90%): 25,085
-  Very wide CI (ratio &gt;100): 13,995
-  Small N with extreme ROR: 565
-  Possible veterinary drugs: 66
-  Same-drug artifacts: 148
+  Near 100% serious rate (&gt;90%): 24,939
+  Very wide CI (ratio &gt;100): 13,901
+  Small N with extreme ROR: 585
+  Possible veterinary drugs: 69
+  Same-drug artifacts: 140
 
 Signals by quality flag count:
 QUALITY_FLAGS
-0    27256
-1    11139
-2    13399
-3      638
+0    27086
+1    11082
+2    13291
+3      654
 4        2
 Name: count, dtype: int64
 
-*** HIGH CONFIDENCE SIGNALS: 5,501 ***
+*** HIGH CONFIDENCE SIGNALS: 5,485 ***
 (No quality flags, N &gt;= 100)
 
 Top 20 High-Confidence DDI Signals:
                                                PAIR  N_EXPOSED  PCT_SERIOUS       ROR  CI_LOWER  CI_UPPER
-49589                   FUROSEMIDE + SPIRONOLACTONE       2525    70.455446  2.310752  2.121177  2.517271
-50765                          ASPIRIN + FUROSEMIDE       2483    69.311317  2.188087  2.008990  2.383150
-50835                   ATORVASTATIN + PANTOPRAZOLE       1972    69.269777  2.182804  1.983472  2.402169
-47919                    ACETAMINOPHEN + FUROSEMIDE       1879    72.059606  2.497875  2.258222  2.762961
-49873                    ACETAMINOPHEN + FOLIC ACID       1850    70.216216  2.282883  2.066175  2.522321
-50680                   ACETAMINOPHEN + ONDANSETRON       1814    69.404631  2.196407  1.987473  2.427306
-43864                  ACETAMINOPHEN + PANTOPRAZOLE       1768    75.678733  3.014285  2.703711  3.360535
-51823                       BISOPROLOL + FUROSEMIDE       1756    68.166287  2.072973  1.874765  2.292136
-50787                            KEYTRUDA + LENVIMA       1698    69.316843  2.187107  1.972598  2.424944
-41736               FUROSEMIDE + POTASSIUM CHLORIDE       1644    77.372263  3.312337  2.950704  3.718291
-50940                 ACETAMINOPHEN + DEXAMETHASONE       1643    69.141814  2.169073  1.953312  2.408667
-42810                          ELIQUIS + FUROSEMIDE       1565    76.549521  3.161618  2.812481  3.554097
-46716                     FUROSEMIDE + PANTOPRAZOLE       1542    73.281453  2.655711  2.372227  2.973072
-51214                    ACETAMINOPHEN + PREGABALIN       1501    68.820786  2.136451  1.915249  2.383201
-52369                     FOLIC ACID + PANTOPRAZOLE       1390    67.482014  2.008266  1.794924  2.246966
-49949                       FUROSEMIDE + PREDNISONE       1388    70.172911  2.277161  2.029634  2.554876
-46747               ACETAMINOPHEN + CHOLECALCIFEROL       1378    73.222061  2.647188  2.349446  2.982662
-49478                       AMLODIPINE + FUROSEMIDE       1312    70.579268  2.321876  2.061738  2.614837
-43863  PREDNISONE + SULFAMETHOXAZOLE / TRIMETHOPRIM       1267    75.690608  3.014403  2.651062  3.427543
-50379                      ALLOPURINOL + FUROSEMIDE       1249    69.735789  2.229940  1.976201  2.516258
+49564                   FUROSEMIDE + SPIRONOLACTONE       2507    70.283207  2.291655  2.103306  2.496871
+50307                          ASPIRIN + FUROSEMIDE       2442    69.492219  2.206772  2.024416  2.405555
+50575                   ATORVASTATIN + PANTOPRAZOLE       1977    69.246333  2.180407  1.981573  2.399192
+48335                    ACETAMINOPHEN + FUROSEMIDE       1848    71.536797  2.434011  2.199889  2.693050
+49214                    ACETAMINOPHEN + FOLIC ACID       1822    70.636663  2.329462  2.105853  2.576815
+51145                   ACETAMINOPHEN + ONDANSETRON       1789    68.585802  2.113721  1.912715  2.335849
+44151                  ACETAMINOPHEN + PANTOPRAZOLE       1763    75.212706  2.939265  2.637845  3.275129
+51489                       BISOPROLOL + FUROSEMIDE       1757    68.184405  2.074710  1.876361  2.294026
+50545                            KEYTRUDA + LENVIMA       1697    69.298763  2.185244  1.970891  2.422910
+41646               FUROSEMIDE + POTASSIUM CHLORIDE       1651    77.165354  3.273521  2.917918  3.672460
+50573                 ACETAMINOPHEN + DEXAMETHASONE       1623    69.254467  2.180548  1.962174  2.423225
+42281                          ELIQUIS + FUROSEMIDE       1560    76.730769  3.193813  2.839691  3.592095
+46720                     FUROSEMIDE + PANTOPRAZOLE       1550    72.967742  2.613616  2.336273  2.923882
+51017                    ACETAMINOPHEN + PREGABALIN       1495    68.762542  2.130643  1.909731  2.377109
+47104               ACETAMINOPHEN + CHOLECALCIFEROL       1382    72.648336  2.571266  2.284262  2.894330
+50122                       FUROSEMIDE + PREDNISONE       1378    69.738752  2.230518  1.988177  2.502399
+49777                       AMLODIPINE + FUROSEMIDE       1312    70.121951  2.271457  2.018034  2.556704
+51751                  ACETAMINOPHEN + METHOTREXATE       1297    67.848882  2.042118  1.817356  2.294677
+50132                       COSENTYX + METHOTREXATE       1245    69.718876  2.228143  1.974264  2.514670
+43148  PREDNISONE + SULFAMETHOXAZOLE / TRIMETHOPRIM       1244    76.045016  3.073304  2.697920  3.500919
 
- Saved: FAERS_DDI_SIGNALS_FLAGGED.csv (52,434 signals)
- Saved: FAERS_DDI_SIGNALS_HIGH_CONFIDENCE.csv (5,501 signals)
+ Saved: FAERS_DDI_SIGNALS_FLAGGED.csv (52,115 signals)
+ Saved: FAERS_DDI_SIGNALS_HIGH_CONFIDENCE.csv (5,485 signals)
 </pre>
 </div>
 </div>
@@ -10974,7 +10982,7 @@ Top 20 High-Confidence DDI Signals:
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [62]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [28]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># =============================================================================</span>
@@ -11054,7 +11062,7 @@ FAERS DDI ANALYSIS SUMMARY - READY FOR REVIEW
   DDI signals identified: 19,741 (14.0%)
   High-confidence signals: 1,366
   (No quality flags, N ≥ 100)
-  Same-drug artifacts: 148
+  Same-drug artifacts: 140
 
  METHODOLOGY
 ----------------------------------------
@@ -11092,7 +11100,7 @@ FAERS DDI ANALYSIS SUMMARY - READY FOR REVIEW
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [63]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [29]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># =============================================================================</span>
@@ -11208,26 +11216,26 @@ FAERS DDI ANALYSIS SUMMARY - READY FOR REVIEW
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>CREATING PRIORITIZED SIGNAL LIST
 ============================================================
-High-confidence signals loaded: 5,501
-High-confidence signals loaded for class filtering: 5,501
+High-confidence signals loaded: 5,485
+High-confidence signals loaded for class filtering: 5,485
 
 ============================================================
 PART 1: Top 200 signals by ROR magnitude
 Selected: 200 signals
-ROR range: 7.0 - 8.7
+ROR range: 6.9 - 8.7
 
 ============================================================
 PART 2: High-risk drug class signals
-Signals involving high-risk drugs: 1,464
+Signals involving high-risk drugs: 1,480
 
 Signals by drug class:
-  ANTICOAGULANTS: 259
-  ANTIPLATELET: 166
-  IMMUNOSUPPRESSANTS: 105
-  BIOLOGICS: 348
-  OPIOIDS: 320
+  ANTICOAGULANTS: 257
+  ANTIPLATELET: 173
+  IMMUNOSUPPRESSANTS: 103
+  BIOLOGICS: 353
+  OPIOIDS: 326
   ANTINEOPLASTICS: 223
-  NARROW_THERAPEUTIC_INDEX: 107
+  NARROW_THERAPEUTIC_INDEX: 109
 
 Additional high-risk signals (not in top ROR): 100
 
@@ -11242,37 +11250,37 @@ Total priority signals: 300
 ============================================================
 TOP 30 PRIORITY SIGNALS FOR VALIDATION
 ============================================================
-                                                                                   PAIR  N_EXPOSED       ROR  CI_LOWER      RISK_CLASS_STR PRIORITY_REASON
-0                                                               ACYCLOVIR + VINCRISTINE        200  8.703138  5.483190     ANTINEOPLASTICS         TOP_ROR
-1                   CETIRIZINE HYDROCHLORIDE\PSEUDOEPHEDRINE HYDROCHLORIDE + FOLIC ACID        169  8.645741  5.237266                NONE         TOP_ROR
-2   CETIRIZINE HYDROCHLORIDE\PSEUDOEPHEDRINE HYDROCHLORIDE + HYDROXYCHLOROQUINE SULFATE        119  8.621220  4.747050                NONE         TOP_ROR
-3                                                                ACETAMINOPHEN + CIMZIA        317  8.614387  5.977435                NONE         TOP_ROR
-4                                                           CALCIUM CARBONATE + XELJANZ        109  8.613731  4.618620                NONE         TOP_ROR
-5                                    PIPERACILLIN SODIUM\TAZOBACTAM SODIUM + PREDNISONE        237  8.582853  5.627822                NONE         TOP_ROR
-6                                                                     SIMPONI + STELARA        227  8.577434  5.573378                NONE         TOP_ROR
-7                                                                 CELECOXIB + OXYCODONE        207  8.565095  5.454649             OPIOIDS         TOP_ROR
-8                                      HYDROCORTISONE + SULFAMETHOXAZOLE / TRIMETHOPRIM        197  8.558025  5.389655                NONE         TOP_ROR
-9                                                               ADALIMUMAB + DICLOFENAC        315  8.553894  5.934686           BIOLOGICS         TOP_ROR
-10                                        CERTOLIZUMAB PEGOL + CETIRIZINE HYDROCHLORIDE        128  8.553186  4.820021                NONE         TOP_ROR
-11                                                           DIPHENHYDRAMINE + FENTANYL        167  8.531940  5.166593             OPIOIDS         TOP_ROR
-12                                              ALENDRONATE SODIUM + HYDROXYCHLOROQUINE        216  8.527561  5.486832                NONE         TOP_ROR
-13                                                             LINEZOLID + PANTOPRAZOLE        108  8.525816  4.569999                NONE         TOP_ROR
-14                                                         PANTOPRAZOLE + PEMBROLIZUMAB        108  8.525816  4.569999     ANTINEOPLASTICS         TOP_ROR
-15                                            CORTISONE ACETATE + FLUMETHASONE PIVALATE        137  8.494889  4.887141                NONE         TOP_ROR
-16                                                                LEFLUNOMIDE + STELARA        176  8.487842  5.212365                NONE         TOP_ROR
-17                                                          ALENDRONATE SODIUM + ENBREL        205  8.472957  5.394629           BIOLOGICS         TOP_ROR
-18                                                  LEFLUNOMIDE + MYCOPHENOLATE MOFETIL        380  8.458043  6.072539  IMMUNOSUPPRESSANTS         TOP_ROR
-19                                                                 FOSAMAX + LISINOPRIL        107  8.437901  4.521379                NONE         TOP_ROR
-20                                                     DICLOFENAC SODIUM + METHOTREXATE        640  8.417073  6.523905     ANTINEOPLASTICS         TOP_ROR
-21                                                             ACETAMINOPHEN + COSENTYX        320  8.411984  5.867081                NONE         TOP_ROR
-22                                                               DICLOFENAC + OXYCODONE        368  8.400403  6.004386             OPIOIDS         TOP_ROR
-23                                                       HYDROXYCHLOROQUINE + OXYCODONE        203  8.380819  5.334611             OPIOIDS         TOP_ROR
-24                                                CORTISONE ACETATE + DICLOFENAC SODIUM        241  8.355628  5.522599                NONE         TOP_ROR
-25                                                       CETIRIZINE + DICLOFENAC SODIUM        221  8.325037  5.405801                NONE         TOP_ROR
-26                                                CHOLECALCIFEROL + QUETIAPINE FUMARATE        115  8.298852  4.564216                NONE         TOP_ROR
-27                                                                 FENTANYL + ZOPICLONE        115  8.298852  4.564216             OPIOIDS         TOP_ROR
-28                                                                   COSENTYX + ORENCIA        249  8.294746  5.525762                NONE         TOP_ROR
-29                                                              EPCORITAMAB + RITUXIMAB        220  8.282972  5.377873           BIOLOGICS         TOP_ROR
+                                                               PAIR  N_EXPOSED       ROR  CI_LOWER      RISK_CLASS_STR PRIORITY_REASON
+0                                           STELARA + SULFASALAZINE        220  8.703470  5.602558                NONE         TOP_ROR
+2                   MYCOPHENOLATE MOFETIL + TRIAMCINOLONE ACETONIDE        120  8.701813  4.792761  IMMUNOSUPPRESSANTS         TOP_ROR
+1                            POLYETHYLENE GLYCOL + PROCHLORPERAZINE        120  8.701813  4.792761                NONE         TOP_ROR
+3                                        DESOXIMETASONE + IBUPROFEN        110  8.701647  4.667243                NONE         TOP_ROR
+4                                               ERELZI + INFLIXIMAB        309  8.673740  5.984302           BIOLOGICS         TOP_ROR
+5                      PREGABALIN + SULFAMETHOXAZOLE / TRIMETHOPRIM        199  8.654767  5.452011                NONE         TOP_ROR
+6                                                RAMIPRIL + XELJANZ        139  8.633059  4.968876                NONE         TOP_ROR
+7                                                CELEBREX + ORENCIA        129  8.627582  4.863167                NONE         TOP_ROR
+8                                               MESNA + ONDANSETRON        129  8.627582  4.863167                NONE         TOP_ROR
+9                                       CORTISONE ACETATE + KEVZARA        119  8.621220  4.747050                NONE         TOP_ROR
+10                              CETIRIZINE HYDROCHLORIDE + COSENTYX        218  8.615515  5.544694                NONE         TOP_ROR
+13                     HYDROXYCHLOROQUINE + TRIAMCINOLONE ACETONIDE        109  8.613731  4.618620                NONE         TOP_ROR
+11                                     PANTOPRAZOLE + PEMBROLIZUMAB        109  8.613731  4.618620     ANTINEOPLASTICS         TOP_ROR
+12                                  CALCIUM CARBONATE + MIRTAZAPINE        109  8.613731  4.618620                NONE         TOP_ROR
+14                      LEFLUNOMIDE + PSEUDOEPHEDRINE HYDROCHLORIDE        198  8.606396  5.420833                NONE         TOP_ROR
+15                                              OXYCODONE + XELJANZ        158  8.581567  5.117825             OPIOIDS         TOP_ROR
+16                LEFLUNOMIDE + METHYLPREDNISOLONE SODIUM SUCCINATE        138  8.563974  4.928008                NONE         TOP_ROR
+17                                               COSENTYX + XELJANZ        266  8.560936  5.750274                NONE         TOP_ROR
+18  CETIRIZINE HYDROCHLORIDE\PSEUDOEPHEDRINE HYDROCHLORIDE + HUMIRA        166  8.475040  5.131258           BIOLOGICS         TOP_ROR
+19                                           MEROPENEM + PREDNISONE        244  8.471740  5.600990                NONE         TOP_ROR
+20                                   ACETAMINOPHEN + DESOXIMETASONE        390  8.464405  6.102559                NONE         TOP_ROR
+21                              LEFLUNOMIDE + MYCOPHENOLATE MOFETIL        369  8.425879  6.022910  IMMUNOSUPPRESSANTS         TOP_ROR
+22                             ACETAMINOPHEN / CODEINE + PREDNISONE        136  8.425805  4.846274             OPIOIDS         TOP_ROR
+23                                     ALENDRONIC ACID + PREDNISONE        301  8.423975  5.808779                NONE         TOP_ROR
+24                                      DICLOFENAC + HYDROCORTISONE        165  8.418141  5.095923                NONE         TOP_ROR
+25                                         ACETAMINOPHEN + COSENTYX        329  8.392297  5.884420                NONE         TOP_ROR
+26                            CORTISONE ACETATE + DICLOFENAC SODIUM        212  8.351655  5.371112                NONE         TOP_ROR
+27                                       ARAVA + CERTOLIZUMAB PEGOL        106  8.349986  4.472761                NONE         TOP_ROR
+28                 ADALIMUMAB + METHYLPREDNISOLONE SODIUM SUCCINATE        106  8.349986  4.472761           BIOLOGICS         TOP_ROR
+29                               ADALIMUMAB + PHTHALYLSULFATHIAZOLE        183  8.346571  5.190567           BIOLOGICS         TOP_ROR
 </pre>
 </div>
 </div>
@@ -11283,7 +11291,7 @@ TOP 30 PRIORITY SIGNALS FOR VALIDATION
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [64]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [30]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># =============================================================================</span>
@@ -11532,7 +11540,7 @@ DrugBank DDI lookup ready: 1,455,276 known interactions
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [65]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [31]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># =============================================================================</span>
@@ -11788,14 +11796,14 @@ Unique drugs in DrugBank: 4,629
 
 ============================================================
 EXACT MATCHING
-DrugBank matches found: 96 / 300 (32.0%)
+DrugBank matches found: 78 / 300 (26.0%)
 
 ============================================================
 COMPONENT DRUG MATCHING
 DRUG_STATUS
-BOTH_DRUGS_KNOWN    163
-ONE_DRUG_KNOWN      110
-NEITHER_KNOWN        27
+BOTH_DRUGS_KNOWN    145
+ONE_DRUG_KNOWN      121
+NEITHER_KNOWN        34
 Name: count, dtype: int64
 
 ============================================================
@@ -11803,63 +11811,63 @@ SIGNAL CATEGORIZATION
 
 Validation Results:
 VALIDATION_STATUS
-PARTIAL_MATCH        110
-KNOWN_DDI             96
+PARTIAL_MATCH        121
+KNOWN_DDI             78
 POTENTIALLY_NOVEL     67
-UNKNOWN_DRUGS         27
+UNKNOWN_DRUGS         34
 Name: count, dtype: int64
 
 ============================================================
 KNOWN DDIs (validates our method)
 ============================================================
-Found 96 signals that match known DrugBank DDIs
+Found 78 signals that match known DrugBank DDIs
 
 Top 15 Known DDIs with DrugBank Descriptions:
 
-CETIRIZINE HYDROCHLORIDE\PSEUDOEPHEDRINE HYDROCHLORIDE + FOLIC ACID (ROR=8.6, N=169)
+DESOXIMETASONE + IBUPROFEN (ROR=8.7, N=110)
+  DrugBank: The risk or severity of gastrointestinal irritation can be increased when Desoximetasone is combined...
+
+PREGABALIN + SULFAMETHOXAZOLE / TRIMETHOPRIM (ROR=8.7, N=199)
   DrugBank: None
 
-CETIRIZINE HYDROCHLORIDE\PSEUDOEPHEDRINE HYDROCHLORIDE + HYDROXYCHLOROQUINE SULFATE (ROR=8.6, N=119)
-  DrugBank: None
+MEROPENEM + PREDNISONE (ROR=8.5, N=244)
+  DrugBank: Prednisone may decrease the excretion rate of Meropenem which could result in a higher serum level.
 
-PIPERACILLIN SODIUM\TAZOBACTAM SODIUM + PREDNISONE (ROR=8.6, N=237)
-  DrugBank: None
-
-CELECOXIB + OXYCODONE (ROR=8.6, N=207)
-  DrugBank: The metabolism of Oxycodone can be decreased when combined with Celecoxib.
-
-HYDROCORTISONE + SULFAMETHOXAZOLE / TRIMETHOPRIM (ROR=8.6, N=197)
-  DrugBank: None
-
-ADALIMUMAB + DICLOFENAC (ROR=8.6, N=315)
-  DrugBank: The metabolism of Diclofenac can be increased when combined with Adalimumab.
-
-CERTOLIZUMAB PEGOL + CETIRIZINE HYDROCHLORIDE (ROR=8.6, N=128)
-  DrugBank: None
-
-DIPHENHYDRAMINE + FENTANYL (ROR=8.5, N=167)
-  DrugBank: The risk or severity of adverse effects can be increased when Diphenhydramine is combined with Fenta...
-
-LEFLUNOMIDE + MYCOPHENOLATE MOFETIL (ROR=8.5, N=380)
+LEFLUNOMIDE + MYCOPHENOLATE MOFETIL (ROR=8.4, N=369)
   DrugBank: The risk or severity of adverse effects can be increased when Mycophenolate mofetil is combined with...
 
-DICLOFENAC SODIUM + METHOTREXATE (ROR=8.4, N=640)
+DICLOFENAC + HYDROCORTISONE (ROR=8.4, N=165)
+  DrugBank: The risk or severity of gastrointestinal irritation can be increased when Hydrocortisone is combined...
+
+CORTISONE ACETATE + DICLOFENAC SODIUM (ROR=8.4, N=212)
   DrugBank: None
 
-HYDROXYCHLOROQUINE + OXYCODONE (ROR=8.4, N=203)
-  DrugBank: The metabolism of Oxycodone can be decreased when combined with Hydroxychloroquine.
-
-CORTISONE ACETATE + DICLOFENAC SODIUM (ROR=8.4, N=241)
+ACETAMINOPHEN / CODEINE + METHOTREXATE (ROR=8.3, N=125)
   DrugBank: None
 
-CETIRIZINE + DICLOFENAC SODIUM (ROR=8.3, N=221)
+DICLOFENAC SODIUM + METHOTREXATE (ROR=8.3, N=623)
   DrugBank: None
 
-CHOLECALCIFEROL + QUETIAPINE FUMARATE (ROR=8.3, N=115)
+MYCOPHENOLATE MOFETIL + PREGABALIN (ROR=8.3, N=172)
+  DrugBank: Pregabalin may decrease the excretion rate of Mycophenolate mofetil which could result in a higher s...
+
+HYDROCORTISONE + SULFAMETHOXAZOLE / TRIMETHOPRIM (ROR=8.3, N=191)
   DrugBank: None
 
-FENTANYL + ZOPICLONE (ROR=8.3, N=115)
-  DrugBank: The risk or severity of adverse effects can be increased when Fentanyl is combined with Zopiclone.
+CALCIUM CARBONATE + NAPROXEN (ROR=8.3, N=105)
+  DrugBank: Naproxen can cause a decrease in the absorption of Calcium carbonate resulting in a reduced serum co...
+
+DICLOFENAC SODIUM + SULFASALAZINE (ROR=8.2, N=379)
+  DrugBank: None
+
+CORTISONE ACETATE + RITUXIMAB (ROR=8.1, N=235)
+  DrugBank: The risk or severity of adverse effects can be increased when Rituximab is combined with Cortisone a...
+
+SULFASALAZINE + TRAMADOL HYDROCHLORIDE (ROR=8.1, N=168)
+  DrugBank: None
+
+APIXABAN + OLANZAPINE (ROR=8.0, N=120)
+  DrugBank: The metabolism of Apixaban can be decreased when combined with Olanzapine.
 
 ============================================================
 POTENTIALLY NOVEL SIGNALS (for further investigation)
@@ -11868,42 +11876,42 @@ Found 67 signals where both drugs are in DrugBank but pair is NOT a known DDI
 These are candidates for novel DDI discovery!
 
 Top 20 Novel Signals (by sample size):
-                                              PAIR  N_EXPOSED       ROR                             RISK_CLASS_STR
-298                         FOLIC ACID + OXYCODONE        516  5.351693                                    OPIOIDS
-83                          DICLOFENAC + RITUXIMAB        454  7.817090                                  BIOLOGICS
-206                       METHOTREXATE + OXYCODONE        434  6.807605                   OPIOIDS, ANTINEOPLASTICS
-22                          DICLOFENAC + OXYCODONE        368  8.400403                                    OPIOIDS
-234                           NAPROXEN + RITUXIMAB        362  6.327481                                  BIOLOGICS
-87                  ACETAMINOPHEN + DESOXIMETASONE        354  7.812663                                       NONE
-181           FOLIC ACID + OXYCODONE HYDROCHLORIDE        317  7.101293                                    OPIOIDS
-52                          CETIRIZINE + RITUXIMAB        308  8.060033                                  BIOLOGICS
-150          PHTHALYLSULFATHIAZOLE + SULFASALAZINE        291  7.310591                                       NONE
-132                   ALENDRONIC ACID + PREDNISONE        286  7.414840                                       NONE
-255                  CYCLOPHOSPHAMIDE + VANCOMYCIN        259  5.990502  ANTINEOPLASTICS, NARROW_THERAPEUTIC_INDEX
-268                      AZITHROMYCIN + VANCOMYCIN        250  5.748609                   NARROW_THERAPEUTIC_INDEX
-170                         LEFLUNOMIDE + RAMIPRIL        244  7.169692                                       NONE
-176                OXYCODONE + PANTOPRAZOLE SODIUM        243  7.136328                                    OPIOIDS
-197              ASCORBIC ACID + DICLOFENAC SODIUM        239  7.002871                                       NONE
-114            LEFLUNOMIDE + PHTHALYLSULFATHIAZOLE        238  7.557475                                       NONE
-241  OXYCODONE HYDROCHLORIDE + PANTOPRAZOLE SODIUM        232  6.270147                                    OPIOIDS
-29                         EPCORITAMAB + RITUXIMAB        220  8.282972                                  BIOLOGICS
-131    LEFLUNOMIDE + PSEUDOEPHEDRINE HYDROCHLORIDE        217  7.426799                                       NONE
-0                          ACYCLOVIR + VINCRISTINE        200  8.703138                            ANTINEOPLASTICS
+                                               PAIR  N_EXPOSED       ROR                             RISK_CLASS_STR
+166                        METHOTREXATE + OXYCODONE        476  7.111824                   OPIOIDS, ANTINEOPLASTICS
+126                          DICLOFENAC + RITUXIMAB        445  7.473918                                  BIOLOGICS
+20                   ACETAMINOPHEN + DESOXIMETASONE        390  8.464405                                       NONE
+238                            NAPROXEN + RITUXIMAB        379  6.364756                                  BIOLOGICS
+197                          CETIRIZINE + RITUXIMAB        317  6.894375                                  BIOLOGICS
+227            FOLIC ACID + OXYCODONE HYDROCHLORIDE        308  6.480046                                    OPIOIDS
+23                     ALENDRONIC ACID + PREDNISONE        301  8.423975                                       NONE
+62                  QUETIAPINE FUMARATE + RITUXIMAB        289  8.049345                                  BIOLOGICS
+237    METHOTREXATE + PSEUDOEPHEDRINE HYDROCHLORIDE        273  6.366800                            ANTINEOPLASTICS
+258                   CYCLOPHOSPHAMIDE + VANCOMYCIN        259  5.990502  ANTINEOPLASTICS, NARROW_THERAPEUTIC_INDEX
+260                       AZITHROMYCIN + VANCOMYCIN        250  5.940514                   NARROW_THERAPEUTIC_INDEX
+47   DESOXIMETASONE + PSEUDOEPHEDRINE HYDROCHLORIDE        246  8.183099                                       NONE
+215   OXYCODONE HYDROCHLORIDE + PANTOPRAZOLE SODIUM        236  6.640421                                    OPIOIDS
+254                         ACYCLOVIR + DOXORUBICIN        232  6.043956                            ANTINEOPLASTICS
+205                            OXYCODONE + RAMIPRIL        216  6.769136                                    OPIOIDS
+267       PSEUDOEPHEDRINE HYDROCHLORIDE + RITUXIMAB        212  5.866443                                  BIOLOGICS
+124                   ASCORBIC ACID + SULFASALAZINE        210  7.494402                                       NONE
+95                          EPCORITAMAB + RITUXIMAB        207  7.736140                                  BIOLOGICS
+104                            NAPROXEN + OXYCODONE        205  7.652015                                    OPIOIDS
+252                        FOLIC ACID + TOCILIZUMAB        204  6.078204                                  BIOLOGICS
 
  Saved: FAERS_DDI_VALIDATED.csv
- Saved: FAERS_DDI_KNOWN.csv (96 signals)
+ Saved: FAERS_DDI_KNOWN.csv (78 signals)
  Saved: FAERS_DDI_NOVEL.csv (67 signals)
 
 ============================================================
 VALIDATION SUMMARY
 ============================================================
 Total priority signals validated: 300
-   Known DDIs (exact match in DrugBank): 96
+   Known DDIs (exact match in DrugBank): 78
    Potentially novel (both drugs known, pair not): 67
-   Partial match (one drug known): 110
-   Unknown drugs: 27
+   Partial match (one drug known): 121
+   Unknown drugs: 34
 
-Method Validation: 32.0% of top signals are confirmed known DDIs
+Method Validation: 26.0% of top signals are confirmed known DDIs
 This demonstrates our FAERS-based detection method is working correctly
 </pre>
 </div>
@@ -11915,7 +11923,7 @@ This demonstrates our FAERS-based detection method is working correctly
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [66]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># =============================================================================</span>
@@ -12085,7 +12093,7 @@ This demonstrates our FAERS-based detection method is working correctly
 
     <span class="c1"># Topical-only drugs unlikely to cause systemic DDIs</span>
     <span class="s1">'DESOXIMETASONE'</span><span class="p">,</span>           <span class="c1"># Topical corticosteroid</span>
-    
+
     <span class="c1"># Rarely used / suspicious frequency in signals</span>
     <span class="s1">'PHTHALYLSULFATHIAZOLE'</span><span class="p">,</span>    <span class="c1"># Old sulfonamide, rarely prescribed</span>
 
@@ -12241,15 +12249,13 @@ Filter 2 - Known interactions (name mismatch): 0
 
 Filter 3 - International name variants flagged: 0
 
-Filter 4 - Manual exclusions: 7
+Filter 4 - Manual exclusions: 5
 Removed:
-  EXCLUDED  ALENDRONIC ACID + DESOXIMETASONE
   EXCLUDED  ACETAMINOPHEN + DESOXIMETASONE
-  EXCLUDED  PHTHALYLSULFATHIAZOLE + TOCILIZUMAB
-  EXCLUDED  CETIRIZINE HYDROCHLORIDE\PSEUDOEPHEDRINE HYDROCHLORIDE + DESOXIMETASONE
-  EXCLUDED  LEFLUNOMIDE + PHTHALYLSULFATHIAZOLE
   EXCLUDED  ADALIMUMAB + PHTHALYLSULFATHIAZOLE
-  EXCLUDED  PHTHALYLSULFATHIAZOLE + SULFASALAZINE
+  EXCLUDED  DESOXIMETASONE + PSEUDOEPHEDRINE HYDROCHLORIDE
+  EXCLUDED  ALENDRONIC ACID + PHTHALYLSULFATHIAZOLE
+  EXCLUDED  DICLOFENAC SODIUM + PHTHALYLSULFATHIAZOLE
 
 ============================================================
 APPLYING FILTERS
@@ -12257,12 +12263,12 @@ APPLYING FILTERS
 Original novel signals:     67
 Removed (same-drug):        0
 Removed (known missed):     0
-Removed (manual exclusion): 7
-Remaining novel signals:    60
-  - Clean (ready for lit search):  60
+Removed (manual exclusion): 5
+Remaining novel signals:    62
+  - Clean (ready for lit search):  62
   - Flagged for review:            0
 
- Saved: FAERS_DDI_NOVEL_CLEANED.csv (60 signals)
+ Saved: FAERS_DDI_NOVEL_CLEANED.csv (62 signals)
  Saved: FAERS_DDI_KNOWN_RECLASSIFIED.csv (0 signals)
  Saved: FAERS_DDI_SAME_DRUG_ARTIFACTS.csv (0 artifacts)
 
@@ -12270,26 +12276,26 @@ Remaining novel signals:    60
 TOP 20 CLEANED NOVEL SIGNALS (by sample size)
 ============================================================
                                          PAIR  N_EXPOSED      ROR  CI_LOWER
-                       FOLIC ACID + OXYCODONE        516 5.351693  4.211219
-                       DICLOFENAC + RITUXIMAB        454 7.817090  5.826651
-                     METHOTREXATE + OXYCODONE        434 6.807605  5.119022
-                       DICLOFENAC + OXYCODONE        368 8.400403  6.004386
-                         NAPROXEN + RITUXIMAB        362 6.327481  4.669796
-         FOLIC ACID + OXYCODONE HYDROCHLORIDE        317 7.101293  5.059833
-                       CETIRIZINE + RITUXIMAB        308 8.060033  5.617057
-                 ALENDRONIC ACID + PREDNISONE        286 7.414840  5.158757
+                     METHOTREXATE + OXYCODONE        476 7.111824  5.392565
+                       DICLOFENAC + RITUXIMAB        445 7.473918  5.582908
+                         NAPROXEN + RITUXIMAB        379 6.364756  4.726763
+                       CETIRIZINE + RITUXIMAB        317 6.894375  4.930963
+         FOLIC ACID + OXYCODONE HYDROCHLORIDE        308 6.480046  4.648168
+                 ALENDRONIC ACID + PREDNISONE        301 8.423975  5.808779
+              QUETIAPINE FUMARATE + RITUXIMAB        289 8.049345  5.545519
+ METHOTREXATE + PSEUDOEPHEDRINE HYDROCHLORIDE        273 6.366800  4.483797
                 CYCLOPHOSPHAMIDE + VANCOMYCIN        259 5.990502  4.212686
-                    AZITHROMYCIN + VANCOMYCIN        250 5.748609  4.038429
-                       LEFLUNOMIDE + RAMIPRIL        244 7.169692  4.865189
-              OXYCODONE + PANTOPRAZOLE SODIUM        243 7.136328  4.842028
-            ASCORBIC ACID + DICLOFENAC SODIUM        239 7.002871  4.749384
-OXYCODONE HYDROCHLORIDE + PANTOPRAZOLE SODIUM        232 6.270147  4.295532
-                      EPCORITAMAB + RITUXIMAB        220 8.282972  5.377873
-  LEFLUNOMIDE + PSEUDOEPHEDRINE HYDROCHLORIDE        217 7.426799  4.895578
-                      ACYCLOVIR + VINCRISTINE        200 8.703138  5.483190
-        ADALIMUMAB + CETIRIZINE HYDROCHLORIDE        199 6.730247  4.425457
-                         NAPROXEN + OXYCODONE        188 7.296290  4.676933
-                         OXYCODONE + RAMIPRIL        186 6.527008  4.251326
+                    AZITHROMYCIN + VANCOMYCIN        250 5.940514  4.155859
+OXYCODONE HYDROCHLORIDE + PANTOPRAZOLE SODIUM        236 6.640421  4.527338
+                      ACYCLOVIR + DOXORUBICIN        232 6.043956  4.161439
+                         OXYCODONE + RAMIPRIL        216 6.769136  4.522678
+    PSEUDOEPHEDRINE HYDROCHLORIDE + RITUXIMAB        212 5.866443  3.986886
+                ASCORBIC ACID + SULFASALAZINE        210 7.494402  4.898956
+                      EPCORITAMAB + RITUXIMAB        207 7.736140  5.014842
+                         NAPROXEN + OXYCODONE        205 7.652015  4.958997
+                     FOLIC ACID + TOCILIZUMAB        204 6.078204  4.079211
+  LEFLUNOMIDE + PSEUDOEPHEDRINE HYDROCHLORIDE        198 8.606396  5.420833
+        ADALIMUMAB + CETIRIZINE HYDROCHLORIDE        189 6.647927  4.332265
 
  Saved: FAERS_DDI_LIT_SEARCH_TARGETS.csv
 Before filtering: 20 signals
@@ -12297,55 +12303,55 @@ After removing ROR &gt; 50 and duplicates: 20
 
 LIT SEARCH TARGETS (plausible ROR range):
                                          PAIR  N_EXPOSED      ROR  CI_LOWER
-                       FOLIC ACID + OXYCODONE        516 5.351693  4.211219
-                       DICLOFENAC + RITUXIMAB        454 7.817090  5.826651
-                     METHOTREXATE + OXYCODONE        434 6.807605  5.119022
-                       DICLOFENAC + OXYCODONE        368 8.400403  6.004386
-                         NAPROXEN + RITUXIMAB        362 6.327481  4.669796
-         FOLIC ACID + OXYCODONE HYDROCHLORIDE        317 7.101293  5.059833
-                       CETIRIZINE + RITUXIMAB        308 8.060033  5.617057
-                 ALENDRONIC ACID + PREDNISONE        286 7.414840  5.158757
+                     METHOTREXATE + OXYCODONE        476 7.111824  5.392565
+                       DICLOFENAC + RITUXIMAB        445 7.473918  5.582908
+                         NAPROXEN + RITUXIMAB        379 6.364756  4.726763
+                       CETIRIZINE + RITUXIMAB        317 6.894375  4.930963
+         FOLIC ACID + OXYCODONE HYDROCHLORIDE        308 6.480046  4.648168
+                 ALENDRONIC ACID + PREDNISONE        301 8.423975  5.808779
+              QUETIAPINE FUMARATE + RITUXIMAB        289 8.049345  5.545519
+ METHOTREXATE + PSEUDOEPHEDRINE HYDROCHLORIDE        273 6.366800  4.483797
                 CYCLOPHOSPHAMIDE + VANCOMYCIN        259 5.990502  4.212686
-                    AZITHROMYCIN + VANCOMYCIN        250 5.748609  4.038429
-                       LEFLUNOMIDE + RAMIPRIL        244 7.169692  4.865189
-              OXYCODONE + PANTOPRAZOLE SODIUM        243 7.136328  4.842028
-            ASCORBIC ACID + DICLOFENAC SODIUM        239 7.002871  4.749384
-OXYCODONE HYDROCHLORIDE + PANTOPRAZOLE SODIUM        232 6.270147  4.295532
-                      EPCORITAMAB + RITUXIMAB        220 8.282972  5.377873
-  LEFLUNOMIDE + PSEUDOEPHEDRINE HYDROCHLORIDE        217 7.426799  4.895578
-                      ACYCLOVIR + VINCRISTINE        200 8.703138  5.483190
-        ADALIMUMAB + CETIRIZINE HYDROCHLORIDE        199 6.730247  4.425457
-                         NAPROXEN + OXYCODONE        188 7.296290  4.676933
-                         OXYCODONE + RAMIPRIL        186 6.527008  4.251326
+                    AZITHROMYCIN + VANCOMYCIN        250 5.940514  4.155859
+OXYCODONE HYDROCHLORIDE + PANTOPRAZOLE SODIUM        236 6.640421  4.527338
+                      ACYCLOVIR + DOXORUBICIN        232 6.043956  4.161439
+                         OXYCODONE + RAMIPRIL        216 6.769136  4.522678
+    PSEUDOEPHEDRINE HYDROCHLORIDE + RITUXIMAB        212 5.866443  3.986886
+                ASCORBIC ACID + SULFASALAZINE        210 7.494402  4.898956
+                      EPCORITAMAB + RITUXIMAB        207 7.736140  5.014842
+                         NAPROXEN + OXYCODONE        205 7.652015  4.958997
+                     FOLIC ACID + TOCILIZUMAB        204 6.078204  4.079211
+  LEFLUNOMIDE + PSEUDOEPHEDRINE HYDROCHLORIDE        198 8.606396  5.420833
+        ADALIMUMAB + CETIRIZINE HYDROCHLORIDE        189 6.647927  4.332265
 
 Saved updated search targets
 Expanded lit search targets: 25
-                                         PAIR  N_EXPOSED      ROR  CI_LOWER
-                       FOLIC ACID + OXYCODONE        516 5.351693  4.211219
-                       DICLOFENAC + RITUXIMAB        454 7.817090  5.826651
-                     METHOTREXATE + OXYCODONE        434 6.807605  5.119022
-                       DICLOFENAC + OXYCODONE        368 8.400403  6.004386
-                         NAPROXEN + RITUXIMAB        362 6.327481  4.669796
-         FOLIC ACID + OXYCODONE HYDROCHLORIDE        317 7.101293  5.059833
-                       CETIRIZINE + RITUXIMAB        308 8.060033  5.617057
-                 ALENDRONIC ACID + PREDNISONE        286 7.414840  5.158757
-                CYCLOPHOSPHAMIDE + VANCOMYCIN        259 5.990502  4.212686
-                    AZITHROMYCIN + VANCOMYCIN        250 5.748609  4.038429
-                       LEFLUNOMIDE + RAMIPRIL        244 7.169692  4.865189
-              OXYCODONE + PANTOPRAZOLE SODIUM        243 7.136328  4.842028
-            ASCORBIC ACID + DICLOFENAC SODIUM        239 7.002871  4.749384
-OXYCODONE HYDROCHLORIDE + PANTOPRAZOLE SODIUM        232 6.270147  4.295532
-                      EPCORITAMAB + RITUXIMAB        220 8.282972  5.377873
-  LEFLUNOMIDE + PSEUDOEPHEDRINE HYDROCHLORIDE        217 7.426799  4.895578
-                      ACYCLOVIR + VINCRISTINE        200 8.703138  5.483190
-        ADALIMUMAB + CETIRIZINE HYDROCHLORIDE        199 6.730247  4.425457
-                         NAPROXEN + OXYCODONE        188 7.296290  4.676933
-                         OXYCODONE + RAMIPRIL        186 6.527008  4.251326
-        CETIRIZINE HYDROCHLORIDE + INFLIXIMAB        182 6.365787  4.143416
-                 ADALIMUMAB + CHOLECALCIFEROL        179 5.443480  3.614887
-                      ADALIMUMAB + CETIRIZINE        171 7.735624  4.801295
-            RAMIPRIL + TRAMADOL HYDROCHLORIDE        170 7.684714  4.768859
-        ASCORBIC ACID + MYCOPHENOLATE MOFETIL        162 6.153116  3.925246
+                                                              PAIR  N_EXPOSED      ROR  CI_LOWER
+                                          METHOTREXATE + OXYCODONE        476 7.111824  5.392565
+                                            DICLOFENAC + RITUXIMAB        445 7.473918  5.582908
+                                              NAPROXEN + RITUXIMAB        379 6.364756  4.726763
+                                            CETIRIZINE + RITUXIMAB        317 6.894375  4.930963
+                              FOLIC ACID + OXYCODONE HYDROCHLORIDE        308 6.480046  4.648168
+                                      ALENDRONIC ACID + PREDNISONE        301 8.423975  5.808779
+                                   QUETIAPINE FUMARATE + RITUXIMAB        289 8.049345  5.545519
+                      METHOTREXATE + PSEUDOEPHEDRINE HYDROCHLORIDE        273 6.366800  4.483797
+                                     CYCLOPHOSPHAMIDE + VANCOMYCIN        259 5.990502  4.212686
+                                         AZITHROMYCIN + VANCOMYCIN        250 5.940514  4.155859
+                     OXYCODONE HYDROCHLORIDE + PANTOPRAZOLE SODIUM        236 6.640421  4.527338
+                                           ACYCLOVIR + DOXORUBICIN        232 6.043956  4.161439
+                                              OXYCODONE + RAMIPRIL        216 6.769136  4.522678
+                         PSEUDOEPHEDRINE HYDROCHLORIDE + RITUXIMAB        212 5.866443  3.986886
+                                     ASCORBIC ACID + SULFASALAZINE        210 7.494402  4.898956
+                                           EPCORITAMAB + RITUXIMAB        207 7.736140  5.014842
+                                              NAPROXEN + OXYCODONE        205 7.652015  4.958997
+                                          FOLIC ACID + TOCILIZUMAB        204 6.078204  4.079211
+                       LEFLUNOMIDE + PSEUDOEPHEDRINE HYDROCHLORIDE        198 8.606396  5.420833
+                             ADALIMUMAB + CETIRIZINE HYDROCHLORIDE        189 6.647927  4.332265
+CETIRIZINE HYDROCHLORIDE\PSEUDOEPHEDRINE HYDROCHLORIDE + RITUXIMAB        178 7.229176  4.584542
+                                           ADALIMUMAB + CETIRIZINE        175 6.724685  4.301038
+                                 AMPHOTERICIN B + CYCLOPHOSPHAMIDE        174 5.762913  3.772771
+                                      ADALIMUMAB + CHOLECALCIFEROL        167 5.761233  3.738838
+                       OXYCODONE + SULFAMETHOXAZOLE / TRIMETHOPRIM        166 7.950447  4.874148
 
 Saved expanded search targets
 </pre>
@@ -12358,7 +12364,7 @@ Saved expanded search targets
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [67]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [33]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># =============================================================================</span>
@@ -12441,16 +12447,16 @@ FAERS DDI ANALYSIS - FINAL SUMMARY
 
  TOP NOVEL SIGNALS FOR INVESTIGATION
 ----------------------------------------
-  • FOLIC ACID + OXYCODONE: ROR=5.4, N=516
-  • DICLOFENAC + RITUXIMAB: ROR=7.8, N=454
-  • METHOTREXATE + OXYCODONE: ROR=6.8, N=434
-  • DICLOFENAC + OXYCODONE: ROR=8.4, N=368
-  • NAPROXEN + RITUXIMAB: ROR=6.3, N=362
-  • ACETAMINOPHEN + DESOXIMETASONE: ROR=7.8, N=354
-  • FOLIC ACID + OXYCODONE HYDROCHLORIDE: ROR=7.1, N=317
-  • CETIRIZINE + RITUXIMAB: ROR=8.1, N=308
-  • PHTHALYLSULFATHIAZOLE + SULFASALAZINE: ROR=7.3, N=291
-  • ALENDRONIC ACID + PREDNISONE: ROR=7.4, N=286
+  • METHOTREXATE + OXYCODONE: ROR=7.1, N=476
+  • DICLOFENAC + RITUXIMAB: ROR=7.5, N=445
+  • ACETAMINOPHEN + DESOXIMETASONE: ROR=8.5, N=390
+  • NAPROXEN + RITUXIMAB: ROR=6.4, N=379
+  • CETIRIZINE + RITUXIMAB: ROR=6.9, N=317
+  • FOLIC ACID + OXYCODONE HYDROCHLORIDE: ROR=6.5, N=308
+  • ALENDRONIC ACID + PREDNISONE: ROR=8.4, N=301
+  • QUETIAPINE FUMARATE + RITUXIMAB: ROR=8.0, N=289
+  • METHOTREXATE + PSEUDOEPHEDRINE HYDROCHLORIDE: ROR=6.4, N=273
+  • CYCLOPHOSPHAMIDE + VANCOMYCIN: ROR=6.0, N=259
 
  FILES GENERATED
 ----------------------------------------
@@ -12471,7 +12477,7 @@ FAERS DDI ANALYSIS - FINAL SUMMARY
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [68]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [34]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># =============================================================================</span>
@@ -12509,13 +12515,13 @@ FAERS DDI ANALYSIS - FINAL SUMMARY
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>CONFOUNDING BY INDICATION — EVIDENCE
 ============================================================
-  Serious rate 50-70%: 2,223 signals, median ROR = 2.1
-  Serious rate 70-80%: 11,458 signals, median ROR = 2.9
-  Serious rate 80-90%: 13,318 signals, median ROR = 5.5
-  Serious rate 90-95%: 8,202 signals, median ROR = 11.6
-  Serious rate 95-100%: 3,238 signals, median ROR = 26.6
+  Serious rate 50-70%: 2,159 signals, median ROR = 2.1
+  Serious rate 70-80%: 11,437 signals, median ROR = 2.9
+  Serious rate 80-90%: 13,206 signals, median ROR = 5.5
+  Serious rate 90-95%: 8,163 signals, median ROR = 11.6
+  Serious rate 95-100%: 3,249 signals, median ROR = 26.6
 
-Correlation between serious rate and ROR: 0.586
+Correlation between serious rate and ROR: 0.583
 
 Interpretation: Higher correlation suggests ROR is partly driven by
 disease severity (confounding) rather than purely drug interactions.
