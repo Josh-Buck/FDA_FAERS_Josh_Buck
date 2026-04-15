@@ -1,0 +1,5 @@
+Level,Type,Replicates,Total,Rate
+All main-pipeline,Same-class,1512,2013,75.1117734724292
+All main-pipeline,Cross-class,14671,18536,79.14868364264134
+HC signals,Same-class,545,750,72.66666666666667
+HC signals,Cross-class,3392,4598,73.77120487168334
