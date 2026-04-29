@@ -1,0 +1,21 @@
+class,degree,degree_centrality,num_drugs
+Alimentary/Metabolism,15,0.6,14
+Immunosuppressant,13,0.52,27
+Analgesic/Opioid,13,0.52,9
+Corticosteroid,11,0.44,7
+Antineoplastic,11,0.44,8
+Respiratory (Other),10,0.4,4
+Anti-inflammatory (NSAID),9,0.36,6
+Musculoskeletal (Other),8,0.32,4
+Antibacterial,7,0.28,8
+Dermatological,7,0.28,2
+RAAS Inhibitor,7,0.28,4
+Psycholeptic,6,0.24,8
+Antiparasitic,5,0.2,2
+Cardiovascular (Other),4,0.16,4
+Blood (Other),4,0.16,2
+Antithrombotic,3,0.12,3
+Antiepileptic,3,0.12,3
+Anesthetic,2,0.08,2
+Antidiabetic,2,0.08,2
+Anti-infective (Other),2,0.08,2

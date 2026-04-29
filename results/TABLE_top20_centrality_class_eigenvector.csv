@@ -1,0 +1,21 @@
+class,degree,eigenvector_centrality,num_drugs
+Immunosuppressant,13,0.567,27
+Alimentary/Metabolism,15,0.401,14
+Respiratory (Other),10,0.327,4
+Corticosteroid,11,0.313,7
+Anti-inflammatory (NSAID),9,0.313,6
+Musculoskeletal (Other),8,0.263,4
+Analgesic/Opioid,13,0.221,9
+Antineoplastic,11,0.168,8
+Antibacterial,7,0.143,8
+Dermatological,7,0.134,2
+RAAS Inhibitor,7,0.112,4
+Psycholeptic,6,0.092,8
+Antiparasitic,5,0.072,2
+Blood (Other),4,0.04,2
+Cardiovascular (Other),4,0.026,4
+Anti-infective (Other),2,0.024,2
+Antidiabetic,2,0.018,2
+Antithrombotic,3,0.016,3
+Psychoanaleptic,1,0.013,1
+Antiviral,1,0.011,2

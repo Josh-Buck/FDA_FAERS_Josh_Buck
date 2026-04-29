@@ -1,0 +1,21 @@
+drug,degree,eigenvector_centrality,drug_class
+ACETAMINOPHEN,260,0.1938,Analgesic/Opioid
+FOLIC ACID,125,0.1642,Blood (Other)
+PANTOPRAZOLE,185,0.1579,Alimentary/Metabolism
+DICLOFENAC,58,0.151,Anti-inflammatory (NSAID)
+CHOLECALCIFEROL,115,0.1498,Alimentary/Metabolism
+SULFASALAZINE,59,0.1333,Alimentary/Metabolism
+DESOXIMETASONE,36,0.1326,Dermatological
+SULFAMETHOXAZOLE / TRIMETHOPRIM,91,0.1294,Antibacterial
+CETIRIZINE HYDROCHLORIDE,55,0.1294,Respiratory (Other)
+RITUXIMAB,84,0.1263,Antineoplastic
+PANTOPRAZOLE SODIUM,101,0.1262,Alimentary/Metabolism
+RAMIPRIL,71,0.1241,RAAS Inhibitor
+PREDNISONE,153,0.1211,Corticosteroid
+FUROSEMIDE,230,0.1198,Cardiovascular (Other)
+ORENCIA,43,0.1192,Immunosuppressant
+ACTEMRA,51,0.1182,Immunosuppressant
+XELJANZ,39,0.1181,Immunosuppressant
+DICLOFENAC SODIUM,42,0.1178,Anti-inflammatory (NSAID)
+ASCORBIC ACID,59,0.1177,Alimentary/Metabolism
+ADALIMUMAB,38,0.1172,Immunosuppressant

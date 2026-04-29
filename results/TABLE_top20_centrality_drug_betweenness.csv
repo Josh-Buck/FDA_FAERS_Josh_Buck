@@ -1,0 +1,21 @@
+drug,degree,betweenness_centrality,drug_class
+ACETAMINOPHEN,260,0.1859,Analgesic/Opioid
+FUROSEMIDE,230,0.1111,Cardiovascular (Other)
+PREDNISONE,153,0.086,Corticosteroid
+PANTOPRAZOLE,185,0.0739,Alimentary/Metabolism
+ASPIRIN,116,0.0643,Antithrombotic
+ELIQUIS,131,0.035,Antithrombotic
+DEXAMETHASONE,91,0.0341,Corticosteroid
+SODIUM CHLORIDE,95,0.0337,Alimentary/Metabolism
+ONDANSETRON,94,0.0309,Alimentary/Metabolism
+ATORVASTATIN,79,0.0298,Lipid Modifying
+FENTANYL,52,0.0272,Analgesic/Opioid
+CHOLECALCIFEROL,115,0.0258,Alimentary/Metabolism
+FOLIC ACID,125,0.0249,Blood (Other)
+METHOTREXATE,72,0.0236,Antineoplastic
+METFORMIN,68,0.0219,Antidiabetic
+AMLODIPINE,93,0.0213,RAAS Inhibitor
+POTASSIUM CHLORIDE,134,0.0211,Alimentary/Metabolism
+QUETIAPINE,74,0.0205,Psycholeptic
+LORAZEPAM,102,0.0202,Psycholeptic
+GABAPENTIN,81,0.0197,Analgesic/Opioid
