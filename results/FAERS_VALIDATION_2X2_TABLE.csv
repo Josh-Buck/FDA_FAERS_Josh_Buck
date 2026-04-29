@@ -1,0 +1,4 @@
+,DrugBank Known DDI,Not in DrugBank,Total
+"Signal (ROR > 2.0, CI > 1.0, FDR < 0.05)",11504,40815,52319
+Likely safe (ROR < 1.0),10056,53742,63798
+Total,21560,94557,116117

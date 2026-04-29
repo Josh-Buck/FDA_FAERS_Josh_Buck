@@ -1,0 +1,7 @@
+Metric,Estimate,95% CI,Formula
+Sensitivity (full universe),28.5%,"[28.0%, 28.9%]","TP / (TP + FN+intermediate) = 11,504 / 40,406"
+Sensitivity (restricted to definitive calls),53.4%,"[52.7%, 54.0%]","TP / (TP + FN) = 11,504 / 21,560"
+Specificity (ROR < 1.0 = non-interaction),56.8%,"[56.5%, 57.2%]","TN / (TN + FP) = 53,742 / 94,557"
+Positive Predictive Value (PPV),22.0%,"[21.6%, 22.3%]","TP / (TP + FP) = 11,504 / 52,319"
+Negative Predictive Value (NPV),84.2%,"[84.0%, 84.5%]","TN / (TN + FN) = 53,742 / 63,798"
+AUC (log ROR vs DrugBank),0.514,—,ROC curve area (Wilson method N/A)
