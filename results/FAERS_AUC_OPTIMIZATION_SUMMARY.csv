@@ -1,0 +1,9 @@
+Approach,Variant,N_pairs,N_positives,AUC
+1. Continuous log(ROR),Full universe (N>=10),226153,40790,0.5146
+2. Sample-size restriction,N >= 10,182930,36925,0.5021
+2. Sample-size restriction,N >= 50,34898,10152,0.4819
+2. Sample-size restriction,N >= 100,14944,4889,0.4861
+3. Temporal composite,"Baseline log(ROR), temporal subset",70901,17798,0.4944
+3. Temporal composite,Geometric mean of H1/H2 ROR,70901,17798,0.4924
+3. Temporal composite,Replication-weighted log(ROR),70901,17798,0.4996
+4. Catalogued-drug universe,Both drugs in DrugBank,74693,40790,0.4805
