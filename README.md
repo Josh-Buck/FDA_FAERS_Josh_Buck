@@ -1,14 +1,14 @@
 # FDA FAERS Drug Safety Prediction & DDI Signal Detection
 
-Predictive modeling and pharmacovigilance analysis using the FDA Adverse Event Reporting System (FAERS) Q1–Q4 2025 data.
+Predictive modeling and pharmacovigilance analysis using the FDA Adverse Event Reporting System (FAERS) Q1-Q4 2025 data.
 
 ## Project Overview
 
 This project has two components:
 
-1. **Adverse Event Severity Prediction** — Binary classification models (Logistic Regression, Decision Tree, Random Forest, KNN) predicting whether an adverse drug event will result in a serious outcome (death, hospitalization, life-threatening, disability, congenital anomaly, or required intervention).
+1. **Adverse Event Severity Prediction**: Binary classification models (Logistic Regression, Decision Tree, Random Forest, KNN) predicting whether an adverse drug event will result in a serious outcome (death, hospitalization, life-threatening, disability, congenital anomaly, or required intervention).
 
-2. **Drug-Drug Interaction (DDI) Signal Detection** — Reporting Odds Ratio (ROR) analysis across 1.6M patient reports to identify potential drug-drug interactions, validated against DrugBank's known DDI database.
+2. **Drug-Drug Interaction (DDI) Signal Detection**: Reporting Odds Ratio (ROR) analysis across 1.6M patient reports to identify potential drug-drug interactions, validated against DrugBank's known DDI database.
 
 ## Key Results
 
@@ -22,7 +22,7 @@ This project has two components:
 
 | Source | Access | Notes |
 |--------|--------|-------|
-| [FDA FAERS](https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html) | Public | Download Q1–Q4 2025 ASCII files |
+| [FDA FAERS](https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html) | Public | Download Q1-Q4 2025 ASCII files |
 | [NIH RxNorm API](https://rxnav.nlm.nih.gov/REST) | Public | Drug name standardization |
 | [DrugBank](https://go.drugbank.com/) | Licensed | DDI validation reference (not redistributed here) |
 
@@ -38,11 +38,11 @@ pip install pandas numpy scikit-learn matplotlib seaborn scipy
 
 1. Download FAERS quarterly ASCII files from the FDA link above
 2. Extract to a local directory and update `dataPath` / `base_path` in the notebook
-3. (Optional) Download DrugBank XML for DDI validation — requires a free academic license
+3. (Optional) Download DrugBank XML for DDI validation, requires a free academic license
 
 ### Running
 
-Open and run the Jupyter notebook sequentially. The RxNorm API mapping step takes 2–4 hours on first run; results are cached to `rxnorm_mapping_cache.json` for subsequent runs.
+Open and run the Jupyter notebook sequentially. The RxNorm API mapping step takes 2-4 hours on first run; results are cached to `rxnorm_mapping_cache.json` for subsequent runs.
 
 ## Generated Files
 
@@ -54,13 +54,13 @@ Files tracked via Git LFS (large):
 | `FAERS_DRUG_PAIRS_RXNORM.csv` | RxNorm-standardized drug pairs | Large |
 | `FAERS_DDI_ROR_ALL.csv` | ROR statistics for all pairs | 141K |
 | `FAERS_DDI_SIGNALS.csv` | Flagged DDI signals | 19.7K |
-| `rxnorm_mapping_cache.json` | Cached RxNorm API results | — |
+| `rxnorm_mapping_cache.json` | Cached RxNorm API results | n/a |
 
 Files tracked normally (small):
 
 | File | Description | Rows |
 |------|-------------|------|
-| `FAERS_DDI_SIGNALS_HIGH_CONFIDENCE.csv` | Vetted signals (no quality flags, N≥100) | 1,366 |
+| `FAERS_DDI_SIGNALS_HIGH_CONFIDENCE.csv` | Vetted signals (no quality flags, N>=100) | 1,366 |
 | `FAERS_DDI_PRIORITY_LIST.csv` | Top signals for validation | 300 |
 | `FAERS_DDI_VALIDATED.csv` | Signals with DrugBank validation status | 300 |
 | `FAERS_DDI_KNOWN.csv` | Confirmed known DDIs | 44 |
@@ -80,7 +80,7 @@ Files tracked normally (small):
 
 ## Known Limitations
 
-- FAERS is a voluntary reporting system — subject to reporting bias
+- FAERS is a voluntary reporting system, so results are subject to reporting bias
 - Disproportionality (ROR) does not establish causation
 - Confounding by indication (e.g., immunosuppressant patients are inherently sicker)
 - International drug name variants may cause imperfect RxNorm matching (91.9% mapped)
