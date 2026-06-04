@@ -45,3 +45,10 @@ data/intermediate/FAERS_DEMO_ALL.csv
 data/intermediate/FAERS_DRUG_PAIRS_2025.csv
 data/intermediate/FAERS_DRUG_PAIRS_RXNORM.csv
 data/raw/FAERS25Q2_CLEANED.csv
+
+# =============================================================================
+# Local-only: meeting decks and Python virtual environment
+# (not part of the tracked analysis pipeline)
+# =============================================================================
+presentations/
+.venv/
