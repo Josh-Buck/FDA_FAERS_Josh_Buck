@@ -7,3 +7,8 @@ Approach,Variant,N_pairs,N_positives,AUC
 3. Temporal composite,Geometric mean of H1/H2 ROR,70901,17798,0.4924
 3. Temporal composite,Replication-weighted log(ROR),70901,17798,0.4996
 4. Catalogued-drug universe,Both drugs in DrugBank,74693,40790,0.4805
+5. Alternative single scores,CI lower bound,226153,40790,0.5711
+5. Alternative single scores,Chi-square statistic,226153,40790,0.5754
+5. Alternative single scores,Sample size (N_EXPOSED),226153,40790,0.6204
+5. Alternative single scores,Percent serious,226153,40790,0.513
+6. Multivariate logistic,log(ROR)+log(N)+CI width+%serious (5-fold CV),226153,40790,0.6215
