@@ -1,29 +1,54 @@
-# FDA FAERS Drug Safety Prediction & DDI Signal Detection
+# FAERS Drug-Drug Interaction Signal Detection
 
-Predictive modeling and pharmacovigilance analysis using the FDA Adverse Event Reporting System (FAERS) Q1-Q4 2025 data.
+Signal detection for drug-drug interactions (DDIs) in the FDA Adverse Event Reporting System (FAERS), using all four quarters of 2025 data. The analysis computes Reporting Odds Ratios (ROR) for co-prescribed drug pairs, controls the false discovery rate, validates signals against DrugBank, tests temporal stability across the year, and characterizes the interaction network.
 
-## Project Overview
+This repository covers the thesis analysis (notebooks 02 through 14). Notebook 01 is a separate course-project component on Q2 2025 only and is not part of the thesis pipeline.
 
-This project has two components:
+## Pipeline at a Glance
 
-1. **Adverse Event Severity Prediction**: Binary classification models (Logistic Regression, Decision Tree, Random Forest, KNN) predicting whether an adverse drug event will result in a serious outcome (death, hospitalization, life-threatening, disability, congenital anomaly, or required intervention).
-
-2. **Drug-Drug Interaction (DDI) Signal Detection**: Reporting Odds Ratio (ROR) analysis across 1.6M patient reports to identify potential drug-drug interactions, validated against DrugBank's known DDI database.
+```
+Raw FAERS Q1-Q4 2025 (DEMO, DRUG, OUTC)
+  -> deduplicate by case, standardize drug names via RxNorm
+  -> extract co-prescribed drug pairs (>= 10 co-occurrences)
+  -> compute ROR + 95% CI + Benjamini-Hochberg FDR + quality flags
+  -> validate against DrugBank, test temporal stability, build interaction network
+```
 
 ## Key Results
 
-- **Best classifier**: Random Forest (ROC AUC = 0.850, Balanced Accuracy = 0.774)
-- **DDI signals detected**: 19,741 out of 141,097 drug pairs analyzed
-- **High-confidence signals**: 1,366 (after quality filtering)
-- **Novel DDI candidates**: 108 (both drugs known in DrugBank, but pair not a documented interaction)
-- **DrugBank validation rate**: 14.7% of priority signals matched known DDIs
+- 1,469,305 deduplicated patient reports across Q1-Q4 2025; 823,213 with outcome data (50.8% serious)
+- 226,153 unique drug pairs analyzed (each with >= 10 co-occurrences)
+- 52,203 signals (ROR > 2.0, 95% CI lower bound > 1.0, FDR-adjusted p < 0.05)
+- 5,433 high-confidence signals (zero quality flags and N >= 100)
+- DrugBank validation (full FAERS drug universe): 28.5% sensitivity [28.0%, 28.9%], 53.4% restricted to definitive calls, 56.8% specificity, 22.0% PPV, 84.2% NPV
+- Temporal stability (split-half, Q1+Q2 vs Q3+Q4): Pearson r = 0.712, Spearman rho = 0.622, Cohen's kappa = 0.440, replication rate 80.3% among signals
+- 300 prioritized signals reviewed: 81 confirmed in DrugBank, 61 cleaned novel candidates
+
+The DrugBank-membership AUC for ROR magnitude is 0.514. This is a real result, not an artifact: FAERS disproportionality and DrugBank capture complementary interaction types (pharmacodynamic safety signals versus pharmacokinetic catalog entries), so ROR magnitude does not rank DrugBank membership. The appropriate summary is the operating-point validation above rather than the AUC. See notebook 14 for the supporting experiments.
+
+## Repository Structure
+
+```
+FDA_Project/
+  notebooks/        Numbered analysis notebooks (02-14), run in order
+  data/
+    raw/            Source data (DrugBank reference, ATC mapping)
+    intermediate/   Pipeline intermediates (demographics, outcomes, drug pairs)
+    signals/        ROR and signal-detection outputs
+    validated/      DrugBank validation and novel-signal outputs
+    cache/          RxNorm and ATC API caches (do not delete)
+  results/          Analysis result tables (temporal stability, validation, centrality)
+  figures/thesis/   Publication-ready figures
+  network/          Gephi network files
+```
 
 ## Data Sources
 
-| Source | Access | Notes |
-|--------|--------|-------|
-| [FDA FAERS](https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html) | Public | Download Q1-Q4 2025 ASCII files |
-| [NIH RxNorm API](https://rxnav.nlm.nih.gov/REST) | Public | Drug name standardization |
+| Source | Access | Use |
+|--------|--------|-----|
+| [FDA FAERS](https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html) | Public | Q1-Q4 2025 ASCII quarterly extracts |
+| [NLM RxNorm / RxNav API](https://rxnav.nlm.nih.gov/REST) | Public | Drug name standardization |
+| [NLM RxClass API](https://rxnav.nlm.nih.gov/RxClassAPIs.html) | Public | ATC therapeutic-class mapping |
 | [DrugBank](https://go.drugbank.com/) | Licensed | DDI validation reference (not redistributed here) |
 
 ## Reproducing the Analysis
@@ -31,57 +56,31 @@ This project has two components:
 ### Prerequisites
 
 ```
-pip install pandas numpy scikit-learn matplotlib seaborn scipy
+pip install pandas numpy scikit-learn scipy statsmodels matplotlib seaborn networkx
 ```
 
-### Data Setup
+### Steps
 
-1. Download FAERS quarterly ASCII files from the FDA link above
-2. Extract to a local directory and update `dataPath` / `base_path` in the notebook
-3. (Optional) Download DrugBank XML for DDI validation, requires a free academic license
+1. Download the FAERS Q1-Q4 2025 ASCII files from the FDA link above and update the raw data paths in notebook 02.
+2. (Optional) Obtain the DrugBank XML release for validation (free academic license).
+3. Run the notebooks in numerical order (02 through 14). The RxNorm mapping step queries the RxNav API on first run and caches results to `data/cache/`, so later runs are fast.
 
-### Running
+Reproducibility: a fixed seed (`random.seed(42)`) makes the one stochastic step (down-sampling patients with more than 20 drugs) deterministic; all other steps are deterministic, and API responses are cached.
 
-Open and run the Jupyter notebook sequentially. The RxNorm API mapping step takes 2-4 hours on first run; results are cached to `rxnorm_mapping_cache.json` for subsequent runs.
+## Methods Summary
 
-## Generated Files
-
-Files tracked via Git LFS (large):
-
-| File | Description | Rows |
-|------|-------------|------|
-| `FAERS25Q2_CLEANED.csv` | Cleaned patient-level dataset | 223K |
-| `FAERS_DRUG_PAIRS_RXNORM.csv` | RxNorm-standardized drug pairs | Large |
-| `FAERS_DDI_ROR_ALL.csv` | ROR statistics for all pairs | 141K |
-| `FAERS_DDI_SIGNALS.csv` | Flagged DDI signals | 19.7K |
-| `rxnorm_mapping_cache.json` | Cached RxNorm API results | n/a |
-
-Files tracked normally (small):
-
-| File | Description | Rows |
-|------|-------------|------|
-| `FAERS_DDI_SIGNALS_HIGH_CONFIDENCE.csv` | Vetted signals (no quality flags, N>=100) | 1,366 |
-| `FAERS_DDI_PRIORITY_LIST.csv` | Top signals for validation | 300 |
-| `FAERS_DDI_VALIDATED.csv` | Signals with DrugBank validation status | 300 |
-| `FAERS_DDI_KNOWN.csv` | Confirmed known DDIs | 44 |
-| `FAERS_DDI_NOVEL.csv` | Novel DDI candidates | 108 |
-
-## Methodology
-
-### Severity Prediction
-- Target: Serious outcome (binary) per FDA definitions
-- Features: Age, sex, drug route, number of reactions/indications/therapies, dose information
-- Class balancing via `class_weight='balanced'`
-
-### DDI Signal Detection
-- Metric: Reporting Odds Ratio (ROR) with 95% confidence intervals
-- Signal criteria: ROR > 2.0, CI lower bound > 1.0, Benjamini-Hochberg FDR-adjusted p < 0.05
-- Quality filters: Serious rate outliers, CI width, sample size, veterinary drug exclusion
+- Reporting Odds Ratio per pair from a 2x2 table of serious versus non-serious reporting, with a log-normal 95% CI and a Yates-corrected chi-square test
+- Benjamini-Hochberg false discovery rate correction across all tested pairs
+- Three-criterion signal definition (ROR > 2.0, CI lower bound > 1.0, FDR p < 0.05) plus five quality flags; high-confidence signals carry zero flags and N >= 100
+- DrugBank validation over the full FAERS drug universe with salt-stripped, symmetrized name matching
+- Temporal stability by split-half re-estimation with Pearson, Spearman, Cohen's kappa, and a mixed-effects model
+- Network analysis with degree, betweenness, and eigenvector centrality at the drug and therapeutic-class levels
 
 ## Known Limitations
 
-- FAERS is a voluntary reporting system, so results are subject to reporting bias
-- Disproportionality (ROR) does not establish causation
-- Confounding by indication (e.g., immunosuppressant patients are inherently sicker)
-- International drug name variants may cause imperfect RxNorm matching (91.9% mapped)
-- DrugBank-derived data is not included due to licensing restrictions
+- FAERS is a voluntary reporting system, so results are subject to reporting bias and an unknown exposure denominator
+- Disproportionality (ROR) indicates statistical association, not causation
+- Confounding by indication is endemic; for example, the most extreme RORs are dominated by drug combinations used in severely ill patients
+- A pair-versus-database ROR does not isolate the interaction effect, so it is a coarse DDI proxy
+- International drug name variants leave some names unmapped (RxNorm mapped 91.9% of unique strings)
+- DrugBank-derived data is not redistributed here due to licensing restrictions
