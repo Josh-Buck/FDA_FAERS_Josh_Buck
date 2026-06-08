@@ -22,7 +22,7 @@ FDA FAERS portal: https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.htm
 ## 3. Environment
 
 - Python 3.9.6; pandas 2.3.3, numpy 2.0.2, scikit-learn 1.6.1, scipy 1.13.1, statsmodels, networkx, matplotlib, seaborn.
-- Freeze a lock file (`pip freeze > requirements-lock.txt`) and store it with the backup so the exact versions are recoverable.
+- A frozen lock file `requirements-lock.txt` (158 packages, generated 2026-06-04) is committed to the repo so the exact versions are recoverable.
 
 ## 4. Pipeline order to regenerate
 
@@ -47,11 +47,16 @@ The saved `results/` CSVs (temporal stability, the validation 2x2 table showing 
 produced before the seed=42 re-run; the current pipeline yields 52,203 signals. Re-run notebooks
 07/08/09 before final submission to bring downstream tables fully in sync. Conclusions do not change.
 
-## 7. Backup checklist (store off-machine: external drive + cloud)
+## 7. Backup status and checklist
 
-- [ ] FAERS Q1-Q4 2025 raw zips
-- [ ] DrugBank 6.0 XML (licensed; private)
-- [ ] `data/cache/` (RxNorm + ATC caches) <- most important, cannot be regenerated identically
-- [ ] `data/intermediate/`, `data/signals/`, `data/validated/`, `results/`, `figures/`, `network/`
-- [ ] The notebooks and `requirements-lock.txt`
-- [ ] Git repo (already remote on GitHub); the `v1-original-outputs` tag is a snapshot
+**Already backed up on GitHub (tracked in git, pushed to the remote):**
+- `data/cache/` (RxNorm + ATC caches) - the irreplaceable reproducibility anchor; both files are tracked
+- `data/signals/` (5 files), `data/validated/` (7), `results/` (20), `figures/` (21), `network/` (8)
+- small intermediates: `FAERS_OUTCOME_FLAGS.csv`, `rxnorm_drug_mapping.csv`, `atc_class_summary.csv`
+- notebooks, README, `DATA_PROVENANCE.md`, `requirements-lock.txt`
+- the `v1-original-outputs` git tag is a pre-reorganization snapshot
+
+**Local-only, must be copied off-machine manually (external drive + cloud):**
+- [ ] FAERS Q1-Q4 2025 raw zips (also re-downloadable from the FDA portal)
+- [ ] DrugBank 6.0 XML (licensed; keep private, do not commit)
+- [ ] 3 large intermediates (`FAERS_DEMO_ALL.csv`, `FAERS_DRUG_PAIRS_2025.csv`, `FAERS_DRUG_PAIRS_RXNORM.csv`): gitignored for size, but regenerable from the raw files + caches via notebook 02 (seed=42)

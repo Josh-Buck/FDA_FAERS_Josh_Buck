@@ -52,3 +52,6 @@ data/raw/FAERS25Q2_CLEANED.csv
 # =============================================================================
 presentations/
 .venv/
+
+# Keep the environment lock file tracked (the *.txt rule above is only for raw FAERS files)
+!requirements-lock.txt
