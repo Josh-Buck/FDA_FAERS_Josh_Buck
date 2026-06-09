@@ -6,12 +6,20 @@ This repository covers the thesis analysis (notebooks 02 through 14). Notebook 0
 
 ## Pipeline at a Glance
 
-```
-Raw FAERS Q1-Q4 2025 (DEMO, DRUG, OUTC)
-  -> deduplicate by case, standardize drug names via RxNorm
-  -> extract co-prescribed drug pairs (>= 10 co-occurrences)
-  -> compute ROR + 95% CI + Benjamini-Hochberg FDR + quality flags
-  -> validate against DrugBank, test temporal stability, build interaction network
+```mermaid
+flowchart TD
+    A["Raw FAERS Q1-Q4 2025<br/>DEMO, DRUG, OUTC tables<br/>7,801,018 drug records"]
+    A -->|"notebook 02"| B["CASEID deduplication<br/>1,469,305 unique cases"]
+    B --> C["Serious-outcome flag<br/>codes DE/LT/HO/DS/CA/RI<br/>823,213 with outcomes; 50.8% serious"]
+    B --> D["RxNorm standardization<br/>64,552 names to 30,575 concepts"]
+    D --> E["Drug-pair extraction<br/>pairs with >= 10 co-occurrences<br/>226,153 unique pairs"]
+    C --> F["ROR + 95% CI + Yates chi-square<br/>BH-FDR correction + 5 quality flags<br/>notebook 03"]
+    E --> F
+    F --> G["52,203 signals<br/>5,433 high-confidence"]
+    G -->|"notebooks 04, 08"| H["DrugBank validation<br/>28.5% sensitivity; AUC 0.514"]
+    G -->|"notebooks 07, 09"| I["Temporal stability, split-half<br/>Pearson r = 0.712; kappa = 0.440"]
+    G -->|"notebooks 11, 13"| J["Network centrality<br/>drug-level and class-level hubs"]
+    G -->|"notebook 14"| K["AUC optimization experiments"]
 ```
 
 ## Key Results
